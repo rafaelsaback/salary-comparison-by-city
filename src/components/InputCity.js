@@ -1,4 +1,4 @@
-import {Form, Select} from 'antd';
+import {Select, Form} from 'antd';
 const Option = Select.Option;
 
 function handleChange(value) {
@@ -19,7 +19,7 @@ function InputCity(props) {
     <Select
     showSearch
     style={{ width: 200 }}
-    placeholder="Select a person"
+    placeholder="Select a city"
     optionFilterProp="children"
     onChange={handleChange}
     onFocus={handleFocus}
