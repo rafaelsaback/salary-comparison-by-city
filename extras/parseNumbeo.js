@@ -20,6 +20,7 @@ rd.on('line', function(line) {
       parsedElement.country = parsedArray[1].split(',')[2].trim();
     }
     parsedElement.city = parsedArray[1].split(',')[0];
+    parsedElement.cityCountry = parsedArray[1];
     parsedElement.costOfLiving = parsedArray[2];
     parsedElement.date = getDate();
     parsedData.push(parsedElement);
@@ -28,10 +29,8 @@ rd.on('line', function(line) {
   
 rd.on('close', () => {
   parsedData.sort(function(a, b) {
-    if(a.country < b.country) {return -1;}
-    if(a.country > b.country) {return 1;}
-    if(a.city < b.city) {return -1;}
-    if(a.city > b.city) {return 1;}
+    if(a.cityCountry < b.cityCountry) {return -1;}
+    if(a.cityCountry > b.cityCountry) {return 1;}
     return 0;
   });
   fs.writeFile(filePath, JSON.stringify(parsedData, null, 2), (err) => {
