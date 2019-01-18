@@ -1,6 +1,6 @@
 const fs = require('fs');
 const readline = require('readline');
-const filePath = '../src/scripts/parsedData.json';
+const filePath = './parsedData.json';
 const numbeoFile = './numbeoData';
 const parsedData = [];
 const rd = readline.createInterface({
