@@ -1,18 +1,6 @@
 import {Select, Form} from 'antd';
 const Option = Select.Option;
 
-function handleChange(value) {
-  console.log(`selected ${value}`);
-}
-
-function handleBlur() {
-  console.log('blur');
-}
-
-function handleFocus() {
-  console.log('focus');
-}
-
 function InputCity(props) {
   return (
     <Form.Item

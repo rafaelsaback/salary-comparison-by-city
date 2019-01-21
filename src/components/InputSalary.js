@@ -1,9 +1,5 @@
 import { InputNumber, Form } from 'antd';
 
-function onChange(value) {
-  console.log('changed', value);
-}
-
 function InputSalary(props) {
   const currency = "BRL";
   return (
