@@ -15,9 +15,9 @@ function handleSubmit() {
 function InputForm(props) {
   return (
     <Form layout="vertical" onSubmit={handleSubmit}>
-      <InputCity />
+      <InputCity cities={props.cities} />
       <InputSalary />
-      <InputCity />
+      <InputCity cities={props.cities} />
       <Button 
         type="primary"
         htmlType="submit"
