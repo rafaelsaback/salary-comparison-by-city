@@ -3,10 +3,10 @@ const readline = require('readline');
 const filePath = './parsedData.json';
 const numbeoFile = './numbeoData';
 const parsedData = [];
+const currencyCodes = JSON.parse(fs.readFileSync("currencyCodes.json"));
 const rd = readline.createInterface({
   input: fs.createReadStream(numbeoFile)
 });
-
 
 rd.on('line', function(line) {
   if(!isNaN(line[0])) {
@@ -19,8 +19,12 @@ rd.on('line', function(line) {
     } else {
       parsedElement.country = parsedArray[1].split(',')[2].trim();
     }
+    if(parsedElement.country === 'Kosovo (Disputed Territory)')
+      return false;
     parsedElement.city = parsedArray[1].split(',')[0];
     parsedElement.cityCountry = parsedArray[1];
+    parsedElement.currencyCode = currencyCodes.filter( currency =>
+      currency.country == parsedElement.country)[0].currencyCode;
     parsedElement.costOfLiving = parsedArray[2];
     parsedElement.date = getDate();
     parsedData.push(parsedElement);
