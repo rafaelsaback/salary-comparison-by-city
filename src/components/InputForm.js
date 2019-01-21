@@ -1,29 +1,64 @@
+import React from 'react';
 import {Form, Button} from 'antd';
 import InputCity from './InputCity';
 import InputSalary from './InputSalary';
 
+class InputForm extends React.Component {
+  constructor(props) {
+    super(props);
+    this.handleSubmit = this.handleSubmit.bind(this);
+  }
+  componentDidMount() {
+    // To disabled submit button at the beginning.
+    this.props.form.validateFields();
+  }
 
-function handleSubmit() {
-  e.preventDefault();
+  handleSubmit(e, onSubmit) {
+    e.preventDefault();
     this.props.form.validateFields((err, values) => {
       if (!err) {
-        console.log('Received values of form: ', values);
+        onSubmit(values);
       }
     });
+  }
+
+  render() {
+    const {
+      getFieldDecorator, getFieldsError, getFieldError, isFieldTouched,
+    } = this.props.form;
+
+     // Only show error after a field is touched.
+    const salaryError = isFieldTouched('salary') && getFieldError('salary');
+    return (
+      <Form layout="vertical" onSubmit={(e) => 
+        this.handleSubmit(e, this.props.onSubmit) 
+        }>
+        <InputCity
+          fieldID="srcCity"
+          cities={this.props.cities}
+          getFieldDecorator={getFieldDecorator}
+          errorMessage="Please select a source city!"
+        />
+        <InputSalary
+          fieldID="salary"
+          isError={salaryError}
+          getFieldDecorator={getFieldDecorator}
+          errorMessage="Please input a salary!"
+        />
+        <InputCity
+          fieldID="tgtCity"
+          cities={this.props.cities}
+          getFieldDecorator={getFieldDecorator}
+          errorMessage="Please select a target city!"
+        />
+        <Button 
+          type="primary"
+          htmlType="submit"
+        >Calculate</Button>
+      </Form>
+    );
+  }
 }
 
-function InputForm(props) {
-  return (
-    <Form layout="vertical" onSubmit={handleSubmit}>
-      <InputCity cities={props.cities} />
-      <InputSalary />
-      <InputCity cities={props.cities} />
-      <Button 
-        type="primary"
-        htmlType="submit"
-      >Calculate</Button>
-    </Form>
-  );
-}
-
-export default InputForm;
+const WrappedInputForm = Form.create({ name: 'input_form' })(InputForm);
+export default WrappedInputForm;

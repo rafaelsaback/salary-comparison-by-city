@@ -12,12 +12,12 @@ export const CALC_TGT_SALARY = 'CALC_TGT_SALARY';
  * Action creators
  */
 
-export function setSrcLocation(city, currency, costIndex) {
-  return {type: SET_SRC_LOCATION, city, currency, costIndex}
+export function setSrcLocation(city) {
+  return {type: SET_SRC_LOCATION, city}
 }
 
-export function setTgtLocation(city, currency, costIndex) {
-  return {type: SET_TGT_LOCATION, city, currency, costIndex}
+export function setTgtLocation(city) {
+  return {type: SET_TGT_LOCATION, city}
 }
 
 export function setSrcSalary(value) {

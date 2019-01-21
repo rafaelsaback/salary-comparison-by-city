@@ -15,25 +15,30 @@ function handleFocus() {
 
 function InputCity(props) {
   return (
-    <Form.Item label="City">
+    <Form.Item
+      label="City"
+      validateStatus={props.isError ? 'error' : ''}
+      help={props.isError || ''}
+    >
+      {props.getFieldDecorator(props.fieldID, {
+        rules: [{ required: true, message: props.errorMessage }],
+      })(
       <Select
         showSearch
         style={{ width: 200 }}
         placeholder="Select a city"
         optionFilterProp="children"
-        onChange={handleChange}
-        onFocus={handleFocus}
-        onBlur={handleBlur}
         filterOption={(input, option) => option.props.children.toLowerCase().indexOf(input.toLowerCase()) >= 0}
       >
         {props.cities.map(city =>
           <Option
-            value={city.replace(/\s+/g, '-').toLowerCase()}
+            value={city}
           >
             {city}
           </Option>
         )}
       </Select>
+      )}
     </Form.Item>
   );
 }
