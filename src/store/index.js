@@ -1,8 +1,8 @@
 import {createStore} from 'redux';
-import rootReducer from '../reducers';
+import salaryComparisonApp from '../reducers';
 
 const store = createStore(
-  rootReducer
+  salaryComparisonApp
 );
 
 export default store;
