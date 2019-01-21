@@ -1,12 +1,14 @@
 import {combineReducers} from 'redux';
-import srcCountryReducer from './srcCountry';
-import tgtCountryReducer from './tgtCountry';
-import srcSalaryReducer from './srcSalary';
-import exchangeRatesReducer from './exchangeRates';
+import srcLocationReducer from './srcLocation';
+import tgtLocationReducer from './tgtLocation';
+import salaryReducer from './salary';
+import citiesReducer from './cities';
 
-const rootReducer = combineReducers({
-  srcCountryState: srcCountryReducer,
-  tgtCountryState: tgtCountryReducer,
-  srcSalaryState: srcSalaryReducer,
-  exchangeRatesState: exchangeRatesReducer,
+const salaryComparisonApp = combineReducers({
+  srcLocation: srcLocationReducer,
+  tgtLocation: tgtLocationReducer,
+  salary: salaryReducer,
+  cities: citiesReducer,
 });
+
+export default salaryComparisonApp;
