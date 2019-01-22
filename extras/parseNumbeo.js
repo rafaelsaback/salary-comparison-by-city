@@ -25,7 +25,7 @@ rd.on('line', function(line) {
     parsedElement.cityCountry = parsedArray[1];
     parsedElement.currencyCode = currencyCodes.filter( currency =>
       currency.country == parsedElement.country)[0].currencyCode;
-    parsedElement.costOfLiving = parsedArray[2];
+    parsedElement.costIndex = parsedArray[2];
     parsedElement.date = getDate();
     parsedData.push(parsedElement);
   }
