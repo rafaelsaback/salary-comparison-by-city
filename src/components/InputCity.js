@@ -1,3 +1,4 @@
+import { connect } from 'react-redux';
 import {Select, Form} from 'antd';
 const Option = Select.Option;
 
@@ -30,4 +31,11 @@ function InputCity(props) {
     </Form.Item>
   );
 }
-export default InputCity;
+
+const mapStateToProps = (state) => {
+  return {
+    cities: state.cities.map(item => item.cityCountry)
+  };
+}
+
+export default connect(mapStateToProps)(InputCity);

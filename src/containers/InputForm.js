@@ -3,13 +3,9 @@ import InputFormPres from '../components/InputForm';
 import { setSrcLocation } from '../actions';
 import { setTgtLocation } from '../actions';
 import { setSrcSalary } from '../actions';
+import { calcTgtSalary } from '../actions';
+import { updateExchangeRate } from '../actions';
 
-
-const mapStateToProps = (state) => {
-  return {
-    cities: state.cities.map(item => item.cityCountry)
-  };
-}
 
 const mapDispatchToProps = (dispatch) => {
   return {
@@ -17,8 +13,10 @@ const mapDispatchToProps = (dispatch) => {
       dispatch(setSrcLocation(input.srcCity));
       dispatch(setTgtLocation(input.tgtCity));
       dispatch(setSrcSalary(input.salary));
+      dispatch(updateExchangeRate());
+      dispatch(calcTgtSalary(input.salary));
     }
   }
 }
 
-export default connect(mapStateToProps, mapDispatchToProps)(InputFormPres);
+export default connect(null, mapDispatchToProps)(InputFormPres);

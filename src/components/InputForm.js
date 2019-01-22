@@ -35,7 +35,6 @@ class InputForm extends React.Component {
         }>
         <InputCity
           fieldID="srcCity"
-          cities={this.props.cities}
           getFieldDecorator={getFieldDecorator}
           errorMessage="Please select a source city!"
         />
@@ -47,7 +46,6 @@ class InputForm extends React.Component {
         />
         <InputCity
           fieldID="tgtCity"
-          cities={this.props.cities}
           getFieldDecorator={getFieldDecorator}
           errorMessage="Please select a target city!"
         />

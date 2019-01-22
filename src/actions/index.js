@@ -7,6 +7,7 @@ export const SET_TGT_LOCATION = 'SET_TGT_LOCATION';
 export const SET_SRC_SALARY = 'SET_SRC_SALARY';
 export const UPDATE_EXCHANGE_RATE = 'UPDATE_EXCHANGE_RATE';
 export const CALC_TGT_SALARY = 'CALC_TGT_SALARY';
+export const SHOW_RESULTS = 'SHOW_RESULTS';
 
 /*
  * Action creators
@@ -24,10 +25,14 @@ export function setSrcSalary(value) {
   return {type: SET_SRC_SALARY, value}
 }
 
-export function updateExchangeRate(srcCurrency, tgtCurrency) {
-  return {type: UPDATE_EXCHANGE_RATE, srcCurrency, tgtCurrency}
+export function updateExchangeRate() {
+  return {type: UPDATE_EXCHANGE_RATE}
 }
 
-export function calcTgtSalary(value) {
-  return {type: CALC_TGT_SALARY, payload}
+export function calcTgtSalary(srcSalary) {
+  return {type: CALC_TGT_SALARY, srcSalary}
+}
+
+export function showResults() {
+  return {type: SHOW_RESULTS}
 }
