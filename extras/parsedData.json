@@ -4,7 +4,7 @@
     "city": "Aachen",
     "cityCountry": "Aachen, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "67.84",
+    "costIndex": "67.84",
     "date": "17/01/2019"
   },
   {
@@ -12,7 +12,7 @@
     "city": "Aalborg",
     "cityCountry": "Aalborg, Denmark",
     "currencyCode": "DKK",
-    "costOfLiving": "82.46",
+    "costIndex": "82.46",
     "date": "17/01/2019"
   },
   {
@@ -20,7 +20,7 @@
     "city": "Aberdeen",
     "cityCountry": "Aberdeen, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "72.18",
+    "costIndex": "72.18",
     "date": "17/01/2019"
   },
   {
@@ -28,7 +28,7 @@
     "city": "Abu Dhabi",
     "cityCountry": "Abu Dhabi, United Arab Emirates",
     "currencyCode": "AED",
-    "costOfLiving": "62.79",
+    "costIndex": "62.79",
     "date": "17/01/2019"
   },
   {
@@ -36,7 +36,7 @@
     "city": "Accra",
     "cityCountry": "Accra, Ghana",
     "currencyCode": "GHS",
-    "costOfLiving": "53.07",
+    "costIndex": "53.07",
     "date": "17/01/2019"
   },
   {
@@ -44,7 +44,7 @@
     "city": "Ad Dammam",
     "cityCountry": "Ad Dammam, Saudi Arabia",
     "currencyCode": "SAR",
-    "costOfLiving": "48.67",
+    "costIndex": "48.67",
     "date": "17/01/2019"
   },
   {
@@ -52,7 +52,7 @@
     "city": "Adelaide",
     "cityCountry": "Adelaide, Australia",
     "currencyCode": "AUD",
-    "costOfLiving": "68.25",
+    "costIndex": "68.25",
     "date": "17/01/2019"
   },
   {
@@ -60,7 +60,7 @@
     "city": "Ahmedabad",
     "cityCountry": "Ahmedabad, India",
     "currencyCode": "INR",
-    "costOfLiving": "23.82",
+    "costIndex": "23.82",
     "date": "17/01/2019"
   },
   {
@@ -68,7 +68,7 @@
     "city": "Ajman",
     "cityCountry": "Ajman, United Arab Emirates",
     "currencyCode": "AED",
-    "costOfLiving": "52.88",
+    "costIndex": "52.88",
     "date": "17/01/2019"
   },
   {
@@ -76,7 +76,7 @@
     "city": "Al Ain",
     "cityCountry": "Al Ain, United Arab Emirates",
     "currencyCode": "AED",
-    "costOfLiving": "60.16",
+    "costIndex": "60.16",
     "date": "17/01/2019"
   },
   {
@@ -84,7 +84,7 @@
     "city": "Al Khobar",
     "cityCountry": "Al Khobar, Saudi Arabia",
     "currencyCode": "SAR",
-    "costOfLiving": "54.75",
+    "costIndex": "54.75",
     "date": "17/01/2019"
   },
   {
@@ -92,7 +92,7 @@
     "city": "Albany",
     "cityCountry": "Albany, NY, United States",
     "currencyCode": "USD",
-    "costOfLiving": "78.66",
+    "costIndex": "78.66",
     "date": "17/01/2019"
   },
   {
@@ -100,7 +100,7 @@
     "city": "Albuquerque",
     "cityCountry": "Albuquerque, NM, United States",
     "currencyCode": "USD",
-    "costOfLiving": "65.05",
+    "costIndex": "65.05",
     "date": "17/01/2019"
   },
   {
@@ -108,7 +108,7 @@
     "city": "Alexandria",
     "cityCountry": "Alexandria, Egypt",
     "currencyCode": "EGP",
-    "costOfLiving": "25.51",
+    "costIndex": "25.51",
     "date": "17/01/2019"
   },
   {
@@ -116,7 +116,7 @@
     "city": "Algiers",
     "cityCountry": "Algiers, Algeria",
     "currencyCode": "DZD",
-    "costOfLiving": "33.26",
+    "costIndex": "33.26",
     "date": "17/01/2019"
   },
   {
@@ -124,7 +124,7 @@
     "city": "Alicante",
     "cityCountry": "Alicante, Spain",
     "currencyCode": "EUR",
-    "costOfLiving": "53.99",
+    "costIndex": "53.99",
     "date": "17/01/2019"
   },
   {
@@ -132,7 +132,7 @@
     "city": "Almaty",
     "cityCountry": "Almaty, Kazakhstan",
     "currencyCode": "KZT",
-    "costOfLiving": "30.01",
+    "costIndex": "30.01",
     "date": "17/01/2019"
   },
   {
@@ -140,7 +140,7 @@
     "city": "Amman",
     "cityCountry": "Amman, Jordan",
     "currencyCode": "JOD",
-    "costOfLiving": "56.54",
+    "costIndex": "56.54",
     "date": "17/01/2019"
   },
   {
@@ -148,7 +148,7 @@
     "city": "Amsterdam",
     "cityCountry": "Amsterdam, Netherlands",
     "currencyCode": "EUR",
-    "costOfLiving": "80.87",
+    "costIndex": "80.87",
     "date": "17/01/2019"
   },
   {
@@ -156,7 +156,7 @@
     "city": "Ankara",
     "cityCountry": "Ankara, Turkey",
     "currencyCode": "TRY",
-    "costOfLiving": "33.62",
+    "costIndex": "33.62",
     "date": "17/01/2019"
   },
   {
@@ -164,7 +164,7 @@
     "city": "Antalya",
     "cityCountry": "Antalya, Turkey",
     "currencyCode": "TRY",
-    "costOfLiving": "31.61",
+    "costIndex": "31.61",
     "date": "17/01/2019"
   },
   {
@@ -172,7 +172,7 @@
     "city": "Antwerp",
     "cityCountry": "Antwerp, Belgium",
     "currencyCode": "EUR",
-    "costOfLiving": "73.31",
+    "costIndex": "73.31",
     "date": "17/01/2019"
   },
   {
@@ -180,7 +180,7 @@
     "city": "Arad",
     "cityCountry": "Arad, Romania",
     "currencyCode": "RON",
-    "costOfLiving": "37.36",
+    "costIndex": "37.36",
     "date": "17/01/2019"
   },
   {
@@ -188,7 +188,7 @@
     "city": "Arhus",
     "cityCountry": "Arhus, Denmark",
     "currencyCode": "DKK",
-    "costOfLiving": "80.74",
+    "costIndex": "80.74",
     "date": "17/01/2019"
   },
   {
@@ -196,7 +196,7 @@
     "city": "Asheville",
     "cityCountry": "Asheville, NC, United States",
     "currencyCode": "USD",
-    "costOfLiving": "70.73",
+    "costIndex": "70.73",
     "date": "17/01/2019"
   },
   {
@@ -204,7 +204,7 @@
     "city": "Astana",
     "cityCountry": "Astana, Kazakhstan",
     "currencyCode": "KZT",
-    "costOfLiving": "31.95",
+    "costIndex": "31.95",
     "date": "17/01/2019"
   },
   {
@@ -212,7 +212,7 @@
     "city": "Asuncion",
     "cityCountry": "Asuncion, Paraguay",
     "currencyCode": "PYG",
-    "costOfLiving": "32.10",
+    "costIndex": "32.10",
     "date": "17/01/2019"
   },
   {
@@ -220,7 +220,7 @@
     "city": "Athens",
     "cityCountry": "Athens, Greece",
     "currencyCode": "EUR",
-    "costOfLiving": "58.70",
+    "costIndex": "58.70",
     "date": "17/01/2019"
   },
   {
@@ -228,7 +228,7 @@
     "city": "Atlanta",
     "cityCountry": "Atlanta, GA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "72.38",
+    "costIndex": "72.38",
     "date": "17/01/2019"
   },
   {
@@ -236,7 +236,7 @@
     "city": "Auckland",
     "cityCountry": "Auckland, New Zealand",
     "currencyCode": "NZD",
-    "costOfLiving": "78.35",
+    "costIndex": "78.35",
     "date": "17/01/2019"
   },
   {
@@ -244,7 +244,7 @@
     "city": "Austin",
     "cityCountry": "Austin, TX, United States",
     "currencyCode": "USD",
-    "costOfLiving": "70.11",
+    "costIndex": "70.11",
     "date": "17/01/2019"
   },
   {
@@ -252,7 +252,7 @@
     "city": "Baghdad",
     "cityCountry": "Baghdad, Iraq",
     "currencyCode": "IQD",
-    "costOfLiving": "45.43",
+    "costIndex": "45.43",
     "date": "17/01/2019"
   },
   {
@@ -260,7 +260,7 @@
     "city": "Bakersfield",
     "cityCountry": "Bakersfield, CA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "67.49",
+    "costIndex": "67.49",
     "date": "17/01/2019"
   },
   {
@@ -268,7 +268,7 @@
     "city": "Baku",
     "cityCountry": "Baku, Azerbaijan",
     "currencyCode": "AZN",
-    "costOfLiving": "29.72",
+    "costIndex": "29.72",
     "date": "17/01/2019"
   },
   {
@@ -276,7 +276,7 @@
     "city": "Bali",
     "cityCountry": "Bali, Indonesia",
     "currencyCode": "IDR",
-    "costOfLiving": "41.72",
+    "costIndex": "41.72",
     "date": "17/01/2019"
   },
   {
@@ -284,7 +284,7 @@
     "city": "Baltimore",
     "cityCountry": "Baltimore, MD, United States",
     "currencyCode": "USD",
-    "costOfLiving": "75.33",
+    "costIndex": "75.33",
     "date": "17/01/2019"
   },
   {
@@ -292,7 +292,7 @@
     "city": "Bandung",
     "cityCountry": "Bandung, Indonesia",
     "currencyCode": "IDR",
-    "costOfLiving": "35.71",
+    "costIndex": "35.71",
     "date": "17/01/2019"
   },
   {
@@ -300,7 +300,7 @@
     "city": "Bangalore",
     "cityCountry": "Bangalore, India",
     "currencyCode": "INR",
-    "costOfLiving": "27.39",
+    "costIndex": "27.39",
     "date": "17/01/2019"
   },
   {
@@ -308,7 +308,7 @@
     "city": "Bangkok",
     "cityCountry": "Bangkok, Thailand",
     "currencyCode": "THB",
-    "costOfLiving": "55.33",
+    "costIndex": "55.33",
     "date": "17/01/2019"
   },
   {
@@ -316,7 +316,7 @@
     "city": "Banja Luka",
     "cityCountry": "Banja Luka, Bosnia And Herzegovina",
     "currencyCode": "BAM",
-    "costOfLiving": "36.57",
+    "costIndex": "36.57",
     "date": "17/01/2019"
   },
   {
@@ -324,7 +324,7 @@
     "city": "Barcelona",
     "cityCountry": "Barcelona, Spain",
     "currencyCode": "EUR",
-    "costOfLiving": "60.74",
+    "costIndex": "60.74",
     "date": "17/01/2019"
   },
   {
@@ -332,7 +332,7 @@
     "city": "Barranquilla",
     "cityCountry": "Barranquilla, Colombia",
     "currencyCode": "COP",
-    "costOfLiving": "32.43",
+    "costIndex": "32.43",
     "date": "17/01/2019"
   },
   {
@@ -340,7 +340,7 @@
     "city": "Basel",
     "cityCountry": "Basel, Switzerland",
     "currencyCode": "CHF",
-    "costOfLiving": "132.10",
+    "costIndex": "132.10",
     "date": "17/01/2019"
   },
   {
@@ -348,7 +348,7 @@
     "city": "Beijing",
     "cityCountry": "Beijing, China",
     "currencyCode": "CNY",
-    "costOfLiving": "44.42",
+    "costIndex": "44.42",
     "date": "17/01/2019"
   },
   {
@@ -356,7 +356,7 @@
     "city": "Beirut",
     "cityCountry": "Beirut, Lebanon",
     "currencyCode": "LBP",
-    "costOfLiving": "60.56",
+    "costIndex": "60.56",
     "date": "17/01/2019"
   },
   {
@@ -364,7 +364,7 @@
     "city": "Belfast",
     "cityCountry": "Belfast, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "61.17",
+    "costIndex": "61.17",
     "date": "17/01/2019"
   },
   {
@@ -372,7 +372,7 @@
     "city": "Belgrade",
     "cityCountry": "Belgrade, Serbia",
     "currencyCode": "RSD",
-    "costOfLiving": "39.59",
+    "costIndex": "39.59",
     "date": "17/01/2019"
   },
   {
@@ -380,7 +380,7 @@
     "city": "Bellingham",
     "cityCountry": "Bellingham, WA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "75.86",
+    "costIndex": "75.86",
     "date": "17/01/2019"
   },
   {
@@ -388,7 +388,7 @@
     "city": "Belo Horizonte",
     "cityCountry": "Belo Horizonte, Brazil",
     "currencyCode": "BRL",
-    "costOfLiving": "43.49",
+    "costIndex": "43.49",
     "date": "17/01/2019"
   },
   {
@@ -396,7 +396,7 @@
     "city": "Bergen",
     "cityCountry": "Bergen, Norway",
     "currencyCode": "NOK",
-    "costOfLiving": "101.88",
+    "costIndex": "101.88",
     "date": "17/01/2019"
   },
   {
@@ -404,7 +404,7 @@
     "city": "Berlin",
     "cityCountry": "Berlin, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "68.99",
+    "costIndex": "68.99",
     "date": "17/01/2019"
   },
   {
@@ -412,7 +412,7 @@
     "city": "Bern",
     "cityCountry": "Bern, Switzerland",
     "currencyCode": "CHF",
-    "costOfLiving": "123.78",
+    "costIndex": "123.78",
     "date": "17/01/2019"
   },
   {
@@ -420,7 +420,7 @@
     "city": "Bhopal",
     "cityCountry": "Bhopal, India",
     "currencyCode": "INR",
-    "costOfLiving": "22.92",
+    "costIndex": "22.92",
     "date": "17/01/2019"
   },
   {
@@ -428,7 +428,7 @@
     "city": "Bhubaneswar",
     "cityCountry": "Bhubaneswar, India",
     "currencyCode": "INR",
-    "costOfLiving": "22.44",
+    "costIndex": "22.44",
     "date": "17/01/2019"
   },
   {
@@ -436,7 +436,7 @@
     "city": "Birmingham",
     "cityCountry": "Birmingham, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "63.67",
+    "costIndex": "63.67",
     "date": "17/01/2019"
   },
   {
@@ -444,7 +444,7 @@
     "city": "Bishkek",
     "cityCountry": "Bishkek, Kyrgyzstan",
     "currencyCode": "KGS",
-    "costOfLiving": "26.61",
+    "costIndex": "26.61",
     "date": "17/01/2019"
   },
   {
@@ -452,7 +452,7 @@
     "city": "Bogota",
     "cityCountry": "Bogota, Colombia",
     "currencyCode": "COP",
-    "costOfLiving": "32.82",
+    "costIndex": "32.82",
     "date": "17/01/2019"
   },
   {
@@ -460,7 +460,7 @@
     "city": "Boise",
     "cityCountry": "Boise, ID, United States",
     "currencyCode": "USD",
-    "costOfLiving": "58.85",
+    "costIndex": "58.85",
     "date": "17/01/2019"
   },
   {
@@ -468,7 +468,7 @@
     "city": "Bologna",
     "cityCountry": "Bologna, Italy",
     "currencyCode": "EUR",
-    "costOfLiving": "69.47",
+    "costIndex": "69.47",
     "date": "17/01/2019"
   },
   {
@@ -476,7 +476,7 @@
     "city": "Bonn",
     "cityCountry": "Bonn, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "69.88",
+    "costIndex": "69.88",
     "date": "17/01/2019"
   },
   {
@@ -484,7 +484,7 @@
     "city": "Boston",
     "cityCountry": "Boston, MA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "82.22",
+    "costIndex": "82.22",
     "date": "17/01/2019"
   },
   {
@@ -492,7 +492,7 @@
     "city": "Braga",
     "cityCountry": "Braga, Portugal",
     "currencyCode": "EUR",
-    "costOfLiving": "50.48",
+    "costIndex": "50.48",
     "date": "17/01/2019"
   },
   {
@@ -500,7 +500,7 @@
     "city": "Brasilia",
     "cityCountry": "Brasilia, Brazil",
     "currencyCode": "BRL",
-    "costOfLiving": "47.64",
+    "costIndex": "47.64",
     "date": "17/01/2019"
   },
   {
@@ -508,7 +508,7 @@
     "city": "Brasov",
     "cityCountry": "Brasov, Romania",
     "currencyCode": "RON",
-    "costOfLiving": "37.77",
+    "costIndex": "37.77",
     "date": "17/01/2019"
   },
   {
@@ -516,7 +516,7 @@
     "city": "Bratislava",
     "cityCountry": "Bratislava, Slovakia",
     "currencyCode": "SKK",
-    "costOfLiving": "48.78",
+    "costIndex": "48.78",
     "date": "17/01/2019"
   },
   {
@@ -524,7 +524,7 @@
     "city": "Bremen",
     "cityCountry": "Bremen, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "69.50",
+    "costIndex": "69.50",
     "date": "17/01/2019"
   },
   {
@@ -532,7 +532,7 @@
     "city": "Brighton",
     "cityCountry": "Brighton, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "70.09",
+    "costIndex": "70.09",
     "date": "17/01/2019"
   },
   {
@@ -540,7 +540,7 @@
     "city": "Brisbane",
     "cityCountry": "Brisbane, Australia",
     "currencyCode": "AUD",
-    "costOfLiving": "70.43",
+    "costIndex": "70.43",
     "date": "17/01/2019"
   },
   {
@@ -548,7 +548,7 @@
     "city": "Bristol",
     "cityCountry": "Bristol, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "69.92",
+    "costIndex": "69.92",
     "date": "17/01/2019"
   },
   {
@@ -556,7 +556,7 @@
     "city": "Brno",
     "cityCountry": "Brno, Czech Republic",
     "currencyCode": "CZK",
-    "costOfLiving": "46.43",
+    "costIndex": "46.43",
     "date": "17/01/2019"
   },
   {
@@ -564,7 +564,7 @@
     "city": "Brooklyn",
     "cityCountry": "Brooklyn, NY, United States",
     "currencyCode": "USD",
-    "costOfLiving": "91.06",
+    "costIndex": "91.06",
     "date": "17/01/2019"
   },
   {
@@ -572,7 +572,7 @@
     "city": "Brussels",
     "cityCountry": "Brussels, Belgium",
     "currencyCode": "EUR",
-    "costOfLiving": "75.79",
+    "costIndex": "75.79",
     "date": "17/01/2019"
   },
   {
@@ -580,7 +580,7 @@
     "city": "Bucharest",
     "cityCountry": "Bucharest, Romania",
     "currencyCode": "RON",
-    "costOfLiving": "39.58",
+    "costIndex": "39.58",
     "date": "17/01/2019"
   },
   {
@@ -588,7 +588,7 @@
     "city": "Budapest",
     "cityCountry": "Budapest, Hungary",
     "currencyCode": "HUF",
-    "costOfLiving": "45.92",
+    "costIndex": "45.92",
     "date": "17/01/2019"
   },
   {
@@ -596,7 +596,7 @@
     "city": "Buenos Aires",
     "cityCountry": "Buenos Aires, Argentina",
     "currencyCode": "ARS",
-    "costOfLiving": "35.89",
+    "costIndex": "35.89",
     "date": "17/01/2019"
   },
   {
@@ -604,7 +604,7 @@
     "city": "Buffalo",
     "cityCountry": "Buffalo, NY, United States",
     "currencyCode": "USD",
-    "costOfLiving": "70.58",
+    "costIndex": "70.58",
     "date": "17/01/2019"
   },
   {
@@ -612,7 +612,7 @@
     "city": "Burgas",
     "cityCountry": "Burgas, Bulgaria",
     "currencyCode": "BGN",
-    "costOfLiving": "36.16",
+    "costIndex": "36.16",
     "date": "17/01/2019"
   },
   {
@@ -620,7 +620,7 @@
     "city": "Bursa",
     "cityCountry": "Bursa, Turkey",
     "currencyCode": "TRY",
-    "costOfLiving": "34.75",
+    "costIndex": "34.75",
     "date": "17/01/2019"
   },
   {
@@ -628,7 +628,7 @@
     "city": "Bydgoszcz",
     "cityCountry": "Bydgoszcz, Poland",
     "currencyCode": "PLN",
-    "costOfLiving": "40.63",
+    "costIndex": "40.63",
     "date": "17/01/2019"
   },
   {
@@ -636,7 +636,7 @@
     "city": "Cairo",
     "cityCountry": "Cairo, Egypt",
     "currencyCode": "EGP",
-    "costOfLiving": "27.96",
+    "costIndex": "27.96",
     "date": "17/01/2019"
   },
   {
@@ -644,7 +644,7 @@
     "city": "Calgary",
     "cityCountry": "Calgary, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "68.72",
+    "costIndex": "68.72",
     "date": "17/01/2019"
   },
   {
@@ -652,7 +652,7 @@
     "city": "Cali",
     "cityCountry": "Cali, Colombia",
     "currencyCode": "COP",
-    "costOfLiving": "29.73",
+    "costIndex": "29.73",
     "date": "17/01/2019"
   },
   {
@@ -660,7 +660,7 @@
     "city": "Cambridge",
     "cityCountry": "Cambridge, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "71.39",
+    "costIndex": "71.39",
     "date": "17/01/2019"
   },
   {
@@ -668,7 +668,7 @@
     "city": "Campinas",
     "cityCountry": "Campinas, Brazil",
     "currencyCode": "BRL",
-    "costOfLiving": "46.93",
+    "costIndex": "46.93",
     "date": "17/01/2019"
   },
   {
@@ -676,7 +676,7 @@
     "city": "Canberra",
     "cityCountry": "Canberra, Australia",
     "currencyCode": "AUD",
-    "costOfLiving": "70.85",
+    "costIndex": "70.85",
     "date": "17/01/2019"
   },
   {
@@ -684,7 +684,7 @@
     "city": "Cancun",
     "cityCountry": "Cancun, Mexico",
     "currencyCode": "MXN",
-    "costOfLiving": "36.33",
+    "costIndex": "36.33",
     "date": "17/01/2019"
   },
   {
@@ -692,7 +692,7 @@
     "city": "Cape Town",
     "cityCountry": "Cape Town, South Africa",
     "currencyCode": "ZAR",
-    "costOfLiving": "43.44",
+    "costIndex": "43.44",
     "date": "17/01/2019"
   },
   {
@@ -700,7 +700,7 @@
     "city": "Caracas",
     "cityCountry": "Caracas, Venezuela",
     "currencyCode": "VEF",
-    "costOfLiving": "25.07",
+    "costIndex": "25.07",
     "date": "17/01/2019"
   },
   {
@@ -708,7 +708,7 @@
     "city": "Cardiff",
     "cityCountry": "Cardiff, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "61.35",
+    "costIndex": "61.35",
     "date": "17/01/2019"
   },
   {
@@ -716,7 +716,7 @@
     "city": "Casablanca",
     "cityCountry": "Casablanca, Morocco",
     "currencyCode": "MAD",
-    "costOfLiving": "36.42",
+    "costIndex": "36.42",
     "date": "17/01/2019"
   },
   {
@@ -724,7 +724,7 @@
     "city": "Cebu",
     "cityCountry": "Cebu, Philippines",
     "currencyCode": "PHP",
-    "costOfLiving": "37.60",
+    "costIndex": "37.60",
     "date": "17/01/2019"
   },
   {
@@ -732,7 +732,7 @@
     "city": "Chandigarh",
     "cityCountry": "Chandigarh, India",
     "currencyCode": "INR",
-    "costOfLiving": "25.14",
+    "costIndex": "25.14",
     "date": "17/01/2019"
   },
   {
@@ -740,7 +740,7 @@
     "city": "Charlotte",
     "cityCountry": "Charlotte, NC, United States",
     "currencyCode": "USD",
-    "costOfLiving": "75.73",
+    "costIndex": "75.73",
     "date": "17/01/2019"
   },
   {
@@ -748,7 +748,7 @@
     "city": "Chengdu",
     "cityCountry": "Chengdu, China",
     "currencyCode": "CNY",
-    "costOfLiving": "37.96",
+    "costIndex": "37.96",
     "date": "17/01/2019"
   },
   {
@@ -756,7 +756,7 @@
     "city": "Chennai",
     "cityCountry": "Chennai, India",
     "currencyCode": "INR",
-    "costOfLiving": "24.72",
+    "costIndex": "24.72",
     "date": "17/01/2019"
   },
   {
@@ -764,7 +764,7 @@
     "city": "Chiang Mai",
     "cityCountry": "Chiang Mai, Thailand",
     "currencyCode": "THB",
-    "costOfLiving": "43.70",
+    "costIndex": "43.70",
     "date": "17/01/2019"
   },
   {
@@ -772,7 +772,7 @@
     "city": "Chicago",
     "cityCountry": "Chicago, IL, United States",
     "currencyCode": "USD",
-    "costOfLiving": "77.88",
+    "costIndex": "77.88",
     "date": "17/01/2019"
   },
   {
@@ -780,7 +780,7 @@
     "city": "Chisinau",
     "cityCountry": "Chisinau, Moldova",
     "currencyCode": "MDL",
-    "costOfLiving": "33.23",
+    "costIndex": "33.23",
     "date": "17/01/2019"
   },
   {
@@ -788,7 +788,7 @@
     "city": "Christchurch",
     "cityCountry": "Christchurch, New Zealand",
     "currencyCode": "NZD",
-    "costOfLiving": "71.09",
+    "costIndex": "71.09",
     "date": "17/01/2019"
   },
   {
@@ -796,7 +796,7 @@
     "city": "Cincinnati",
     "cityCountry": "Cincinnati, OH, United States",
     "currencyCode": "USD",
-    "costOfLiving": "63.54",
+    "costIndex": "63.54",
     "date": "17/01/2019"
   },
   {
@@ -804,7 +804,7 @@
     "city": "Cleveland",
     "cityCountry": "Cleveland, OH, United States",
     "currencyCode": "USD",
-    "costOfLiving": "70.51",
+    "costIndex": "70.51",
     "date": "17/01/2019"
   },
   {
@@ -812,7 +812,7 @@
     "city": "Cluj-Napoca",
     "cityCountry": "Cluj-Napoca, Romania",
     "currencyCode": "RON",
-    "costOfLiving": "38.09",
+    "costIndex": "38.09",
     "date": "17/01/2019"
   },
   {
@@ -820,7 +820,7 @@
     "city": "Coimbatore",
     "cityCountry": "Coimbatore, India",
     "currencyCode": "INR",
-    "costOfLiving": "22.00",
+    "costIndex": "22.00",
     "date": "17/01/2019"
   },
   {
@@ -828,7 +828,7 @@
     "city": "Coimbra",
     "cityCountry": "Coimbra, Portugal",
     "currencyCode": "EUR",
-    "costOfLiving": "50.89",
+    "costIndex": "50.89",
     "date": "17/01/2019"
   },
   {
@@ -836,7 +836,7 @@
     "city": "Cologne",
     "cityCountry": "Cologne, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "68.00",
+    "costIndex": "68.00",
     "date": "17/01/2019"
   },
   {
@@ -844,7 +844,7 @@
     "city": "Colombo",
     "cityCountry": "Colombo, Sri Lanka",
     "currencyCode": "LKR",
-    "costOfLiving": "32.48",
+    "costIndex": "32.48",
     "date": "17/01/2019"
   },
   {
@@ -852,7 +852,7 @@
     "city": "Columbus",
     "cityCountry": "Columbus, OH, United States",
     "currencyCode": "USD",
-    "costOfLiving": "65.92",
+    "costIndex": "65.92",
     "date": "17/01/2019"
   },
   {
@@ -860,7 +860,7 @@
     "city": "Constanta",
     "cityCountry": "Constanta, Romania",
     "currencyCode": "RON",
-    "costOfLiving": "39.87",
+    "costIndex": "39.87",
     "date": "17/01/2019"
   },
   {
@@ -868,7 +868,7 @@
     "city": "Copenhagen",
     "cityCountry": "Copenhagen, Denmark",
     "currencyCode": "DKK",
-    "costOfLiving": "84.65",
+    "costIndex": "84.65",
     "date": "17/01/2019"
   },
   {
@@ -876,7 +876,7 @@
     "city": "Coquitlam",
     "cityCountry": "Coquitlam, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "64.03",
+    "costIndex": "64.03",
     "date": "17/01/2019"
   },
   {
@@ -884,7 +884,7 @@
     "city": "Cork",
     "cityCountry": "Cork, Ireland",
     "currencyCode": "EUR",
-    "costOfLiving": "72.97",
+    "costIndex": "72.97",
     "date": "17/01/2019"
   },
   {
@@ -892,7 +892,7 @@
     "city": "Coventry",
     "cityCountry": "Coventry, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "66.31",
+    "costIndex": "66.31",
     "date": "17/01/2019"
   },
   {
@@ -900,7 +900,7 @@
     "city": "Craiova",
     "cityCountry": "Craiova, Romania",
     "currencyCode": "RON",
-    "costOfLiving": "33.28",
+    "costIndex": "33.28",
     "date": "17/01/2019"
   },
   {
@@ -908,7 +908,7 @@
     "city": "Cuenca",
     "cityCountry": "Cuenca, Ecuador",
     "currencyCode": "ECS",
-    "costOfLiving": "35.88",
+    "costIndex": "35.88",
     "date": "17/01/2019"
   },
   {
@@ -916,7 +916,7 @@
     "city": "Curitiba",
     "cityCountry": "Curitiba, Brazil",
     "currencyCode": "BRL",
-    "costOfLiving": "40.84",
+    "costIndex": "40.84",
     "date": "17/01/2019"
   },
   {
@@ -924,7 +924,7 @@
     "city": "Dallas",
     "cityCountry": "Dallas, TX, United States",
     "currencyCode": "USD",
-    "costOfLiving": "66.46",
+    "costIndex": "66.46",
     "date": "17/01/2019"
   },
   {
@@ -932,7 +932,7 @@
     "city": "Dar es Salaam",
     "cityCountry": "Dar es Salaam, Tanzania",
     "currencyCode": "TZS",
-    "costOfLiving": "38.75",
+    "costIndex": "38.75",
     "date": "17/01/2019"
   },
   {
@@ -940,7 +940,7 @@
     "city": "Davao",
     "cityCountry": "Davao, Philippines",
     "currencyCode": "PHP",
-    "costOfLiving": "35.12",
+    "costIndex": "35.12",
     "date": "17/01/2019"
   },
   {
@@ -948,7 +948,7 @@
     "city": "Debrecen",
     "cityCountry": "Debrecen, Hungary",
     "currencyCode": "HUF",
-    "costOfLiving": "39.38",
+    "costIndex": "39.38",
     "date": "17/01/2019"
   },
   {
@@ -956,7 +956,7 @@
     "city": "Delft",
     "cityCountry": "Delft, Netherlands",
     "currencyCode": "EUR",
-    "costOfLiving": "73.50",
+    "costIndex": "73.50",
     "date": "17/01/2019"
   },
   {
@@ -964,7 +964,7 @@
     "city": "Delhi",
     "cityCountry": "Delhi, India",
     "currencyCode": "INR",
-    "costOfLiving": "27.33",
+    "costIndex": "27.33",
     "date": "17/01/2019"
   },
   {
@@ -972,7 +972,7 @@
     "city": "Denver",
     "cityCountry": "Denver, CO, United States",
     "currencyCode": "USD",
-    "costOfLiving": "70.42",
+    "costIndex": "70.42",
     "date": "17/01/2019"
   },
   {
@@ -980,7 +980,7 @@
     "city": "Derby",
     "cityCountry": "Derby, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "63.41",
+    "costIndex": "63.41",
     "date": "17/01/2019"
   },
   {
@@ -988,7 +988,7 @@
     "city": "Detroit",
     "cityCountry": "Detroit, MI, United States",
     "currencyCode": "USD",
-    "costOfLiving": "60.42",
+    "costIndex": "60.42",
     "date": "17/01/2019"
   },
   {
@@ -996,7 +996,7 @@
     "city": "Dhaka",
     "cityCountry": "Dhaka, Bangladesh",
     "currencyCode": "BDT",
-    "costOfLiving": "33.69",
+    "costIndex": "33.69",
     "date": "17/01/2019"
   },
   {
@@ -1004,7 +1004,7 @@
     "city": "Dnipro",
     "cityCountry": "Dnipro, Ukraine",
     "currencyCode": "UAH",
-    "costOfLiving": "27.99",
+    "costIndex": "27.99",
     "date": "17/01/2019"
   },
   {
@@ -1012,7 +1012,7 @@
     "city": "Doha",
     "cityCountry": "Doha, Qatar",
     "currencyCode": "QAR",
-    "costOfLiving": "58.36",
+    "costIndex": "58.36",
     "date": "17/01/2019"
   },
   {
@@ -1020,7 +1020,7 @@
     "city": "Dresden",
     "cityCountry": "Dresden, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "66.92",
+    "costIndex": "66.92",
     "date": "17/01/2019"
   },
   {
@@ -1028,7 +1028,7 @@
     "city": "Dubai",
     "cityCountry": "Dubai, United Arab Emirates",
     "currencyCode": "AED",
-    "costOfLiving": "56.48",
+    "costIndex": "56.48",
     "date": "17/01/2019"
   },
   {
@@ -1036,7 +1036,7 @@
     "city": "Dublin",
     "cityCountry": "Dublin, Ireland",
     "currencyCode": "EUR",
-    "costOfLiving": "78.32",
+    "costIndex": "78.32",
     "date": "17/01/2019"
   },
   {
@@ -1044,7 +1044,7 @@
     "city": "Durban",
     "cityCountry": "Durban, South Africa",
     "currencyCode": "ZAR",
-    "costOfLiving": "40.63",
+    "costIndex": "40.63",
     "date": "17/01/2019"
   },
   {
@@ -1052,7 +1052,7 @@
     "city": "Dusseldorf",
     "cityCountry": "Dusseldorf, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "69.29",
+    "costIndex": "69.29",
     "date": "17/01/2019"
   },
   {
@@ -1060,7 +1060,7 @@
     "city": "Edinburgh",
     "cityCountry": "Edinburgh, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "70.40",
+    "costIndex": "70.40",
     "date": "17/01/2019"
   },
   {
@@ -1068,7 +1068,7 @@
     "city": "Edmonton",
     "cityCountry": "Edmonton, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "66.35",
+    "costIndex": "66.35",
     "date": "17/01/2019"
   },
   {
@@ -1076,7 +1076,7 @@
     "city": "Eindhoven",
     "cityCountry": "Eindhoven, Netherlands",
     "currencyCode": "EUR",
-    "costOfLiving": "72.84",
+    "costIndex": "72.84",
     "date": "17/01/2019"
   },
   {
@@ -1084,7 +1084,7 @@
     "city": "Florence",
     "cityCountry": "Florence, Italy",
     "currencyCode": "EUR",
-    "costOfLiving": "76.78",
+    "costIndex": "76.78",
     "date": "17/01/2019"
   },
   {
@@ -1092,7 +1092,7 @@
     "city": "Florianopolis",
     "cityCountry": "Florianopolis, Brazil",
     "currencyCode": "BRL",
-    "costOfLiving": "41.34",
+    "costIndex": "41.34",
     "date": "17/01/2019"
   },
   {
@@ -1100,7 +1100,7 @@
     "city": "Fort Worth",
     "cityCountry": "Fort Worth, TX, United States",
     "currencyCode": "USD",
-    "costOfLiving": "66.98",
+    "costIndex": "66.98",
     "date": "17/01/2019"
   },
   {
@@ -1108,7 +1108,7 @@
     "city": "Frankfurt",
     "cityCountry": "Frankfurt, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "71.72",
+    "costIndex": "71.72",
     "date": "17/01/2019"
   },
   {
@@ -1116,7 +1116,7 @@
     "city": "Fresno",
     "cityCountry": "Fresno, CA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "68.68",
+    "costIndex": "68.68",
     "date": "17/01/2019"
   },
   {
@@ -1124,7 +1124,7 @@
     "city": "Galway",
     "cityCountry": "Galway, Ireland",
     "currencyCode": "EUR",
-    "costOfLiving": "73.05",
+    "costIndex": "73.05",
     "date": "17/01/2019"
   },
   {
@@ -1132,7 +1132,7 @@
     "city": "Gdansk",
     "cityCountry": "Gdansk, Poland",
     "currencyCode": "PLN",
-    "costOfLiving": "41.80",
+    "costIndex": "41.80",
     "date": "17/01/2019"
   },
   {
@@ -1140,7 +1140,7 @@
     "city": "Gdynia",
     "cityCountry": "Gdynia, Poland",
     "currencyCode": "PLN",
-    "costOfLiving": "41.80",
+    "costIndex": "41.80",
     "date": "17/01/2019"
   },
   {
@@ -1148,7 +1148,7 @@
     "city": "Geneva",
     "cityCountry": "Geneva, Switzerland",
     "currencyCode": "CHF",
-    "costOfLiving": "119.59",
+    "costIndex": "119.59",
     "date": "17/01/2019"
   },
   {
@@ -1156,7 +1156,7 @@
     "city": "Genoa",
     "cityCountry": "Genoa, Italy",
     "currencyCode": "EUR",
-    "costOfLiving": "75.31",
+    "costIndex": "75.31",
     "date": "17/01/2019"
   },
   {
@@ -1164,7 +1164,7 @@
     "city": "Gent",
     "cityCountry": "Gent, Belgium",
     "currencyCode": "EUR",
-    "costOfLiving": "74.07",
+    "costIndex": "74.07",
     "date": "17/01/2019"
   },
   {
@@ -1172,7 +1172,7 @@
     "city": "Glasgow",
     "cityCountry": "Glasgow, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "64.73",
+    "costIndex": "64.73",
     "date": "17/01/2019"
   },
   {
@@ -1180,7 +1180,7 @@
     "city": "Goa",
     "cityCountry": "Goa, India",
     "currencyCode": "INR",
-    "costOfLiving": "25.07",
+    "costIndex": "25.07",
     "date": "17/01/2019"
   },
   {
@@ -1188,7 +1188,7 @@
     "city": "Gothenburg",
     "cityCountry": "Gothenburg, Sweden",
     "currencyCode": "SEK",
-    "costOfLiving": "71.86",
+    "costIndex": "71.86",
     "date": "17/01/2019"
   },
   {
@@ -1196,7 +1196,7 @@
     "city": "Granada",
     "cityCountry": "Granada, Spain",
     "currencyCode": "EUR",
-    "costOfLiving": "57.03",
+    "costIndex": "57.03",
     "date": "17/01/2019"
   },
   {
@@ -1204,7 +1204,7 @@
     "city": "Graz",
     "cityCountry": "Graz, Austria",
     "currencyCode": "EUR",
-    "costOfLiving": "74.48",
+    "costIndex": "74.48",
     "date": "17/01/2019"
   },
   {
@@ -1212,7 +1212,7 @@
     "city": "Groningen",
     "cityCountry": "Groningen, Netherlands",
     "currencyCode": "EUR",
-    "costOfLiving": "72.45",
+    "costIndex": "72.45",
     "date": "17/01/2019"
   },
   {
@@ -1220,7 +1220,7 @@
     "city": "Guadalajara",
     "cityCountry": "Guadalajara, Mexico",
     "currencyCode": "MXN",
-    "costOfLiving": "33.50",
+    "costIndex": "33.50",
     "date": "17/01/2019"
   },
   {
@@ -1228,7 +1228,7 @@
     "city": "Guangzhou",
     "cityCountry": "Guangzhou, China",
     "currencyCode": "CNY",
-    "costOfLiving": "41.00",
+    "costIndex": "41.00",
     "date": "17/01/2019"
   },
   {
@@ -1236,7 +1236,7 @@
     "city": "Guatemala City",
     "cityCountry": "Guatemala City, Guatemala",
     "currencyCode": "GTQ",
-    "costOfLiving": "43.03",
+    "costIndex": "43.03",
     "date": "17/01/2019"
   },
   {
@@ -1244,7 +1244,7 @@
     "city": "Guayaquil",
     "cityCountry": "Guayaquil, Ecuador",
     "currencyCode": "ECS",
-    "costOfLiving": "46.69",
+    "costIndex": "46.69",
     "date": "17/01/2019"
   },
   {
@@ -1252,7 +1252,7 @@
     "city": "Gurgaon",
     "cityCountry": "Gurgaon, India",
     "currencyCode": "INR",
-    "costOfLiving": "30.69",
+    "costIndex": "30.69",
     "date": "17/01/2019"
   },
   {
@@ -1260,7 +1260,7 @@
     "city": "Guwahati",
     "cityCountry": "Guwahati, India",
     "currencyCode": "INR",
-    "costOfLiving": "23.57",
+    "costIndex": "23.57",
     "date": "17/01/2019"
   },
   {
@@ -1268,7 +1268,7 @@
     "city": "Haifa",
     "cityCountry": "Haifa, Israel",
     "currencyCode": "ILS",
-    "costOfLiving": "74.70",
+    "costIndex": "74.70",
     "date": "17/01/2019"
   },
   {
@@ -1276,7 +1276,7 @@
     "city": "Halifax",
     "cityCountry": "Halifax, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "69.67",
+    "costIndex": "69.67",
     "date": "17/01/2019"
   },
   {
@@ -1284,7 +1284,7 @@
     "city": "Hamburg",
     "cityCountry": "Hamburg, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "73.93",
+    "costIndex": "73.93",
     "date": "17/01/2019"
   },
   {
@@ -1292,7 +1292,7 @@
     "city": "Hamilton",
     "cityCountry": "Hamilton, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "60.60",
+    "costIndex": "60.60",
     "date": "17/01/2019"
   },
   {
@@ -1300,7 +1300,7 @@
     "city": "Hanoi",
     "cityCountry": "Hanoi, Vietnam",
     "currencyCode": "VND",
-    "costOfLiving": "38.84",
+    "costIndex": "38.84",
     "date": "17/01/2019"
   },
   {
@@ -1308,7 +1308,7 @@
     "city": "Hanover",
     "cityCountry": "Hanover, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "64.87",
+    "costIndex": "64.87",
     "date": "17/01/2019"
   },
   {
@@ -1316,7 +1316,7 @@
     "city": "Harare",
     "cityCountry": "Harare, Zimbabwe",
     "currencyCode": "ZWD",
-    "costOfLiving": "52.41",
+    "costIndex": "52.41",
     "date": "17/01/2019"
   },
   {
@@ -1324,7 +1324,7 @@
     "city": "Helsinki",
     "cityCountry": "Helsinki, Finland",
     "currencyCode": "EUR",
-    "costOfLiving": "78.60",
+    "costIndex": "78.60",
     "date": "17/01/2019"
   },
   {
@@ -1332,7 +1332,7 @@
     "city": "Heraklion",
     "cityCountry": "Heraklion, Greece",
     "currencyCode": "EUR",
-    "costOfLiving": "54.32",
+    "costIndex": "54.32",
     "date": "17/01/2019"
   },
   {
@@ -1340,7 +1340,7 @@
     "city": "Ho Chi Minh City",
     "cityCountry": "Ho Chi Minh City, Vietnam",
     "currencyCode": "VND",
-    "costOfLiving": "38.03",
+    "costIndex": "38.03",
     "date": "17/01/2019"
   },
   {
@@ -1348,7 +1348,7 @@
     "city": "Hobart",
     "cityCountry": "Hobart, Australia",
     "currencyCode": "AUD",
-    "costOfLiving": "68.70",
+    "costIndex": "68.70",
     "date": "17/01/2019"
   },
   {
@@ -1356,7 +1356,7 @@
     "city": "Hong Kong",
     "cityCountry": "Hong Kong, Hong Kong",
     "currencyCode": "HKD",
-    "costOfLiving": "78.19",
+    "costIndex": "78.19",
     "date": "17/01/2019"
   },
   {
@@ -1364,7 +1364,7 @@
     "city": "Honolulu",
     "cityCountry": "Honolulu, HI, United States",
     "currencyCode": "USD",
-    "costOfLiving": "96.11",
+    "costIndex": "96.11",
     "date": "17/01/2019"
   },
   {
@@ -1372,7 +1372,7 @@
     "city": "Houston",
     "cityCountry": "Houston, TX, United States",
     "currencyCode": "USD",
-    "costOfLiving": "63.70",
+    "costIndex": "63.70",
     "date": "17/01/2019"
   },
   {
@@ -1380,7 +1380,7 @@
     "city": "Hyderabad",
     "cityCountry": "Hyderabad, India",
     "currencyCode": "INR",
-    "costOfLiving": "23.55",
+    "costIndex": "23.55",
     "date": "17/01/2019"
   },
   {
@@ -1388,7 +1388,7 @@
     "city": "Iasi",
     "cityCountry": "Iasi, Romania",
     "currencyCode": "RON",
-    "costOfLiving": "36.26",
+    "costIndex": "36.26",
     "date": "17/01/2019"
   },
   {
@@ -1396,7 +1396,7 @@
     "city": "Indianapolis",
     "cityCountry": "Indianapolis, IN, United States",
     "currencyCode": "USD",
-    "costOfLiving": "67.13",
+    "costIndex": "67.13",
     "date": "17/01/2019"
   },
   {
@@ -1404,7 +1404,7 @@
     "city": "Indore",
     "cityCountry": "Indore, India",
     "currencyCode": "INR",
-    "costOfLiving": "24.63",
+    "costIndex": "24.63",
     "date": "17/01/2019"
   },
   {
@@ -1412,7 +1412,7 @@
     "city": "Irbil",
     "cityCountry": "Irbil, Iraq",
     "currencyCode": "IQD",
-    "costOfLiving": "41.11",
+    "costIndex": "41.11",
     "date": "17/01/2019"
   },
   {
@@ -1420,7 +1420,7 @@
     "city": "Islamabad",
     "cityCountry": "Islamabad, Pakistan",
     "currencyCode": "PKR",
-    "costOfLiving": "22.86",
+    "costIndex": "22.86",
     "date": "17/01/2019"
   },
   {
@@ -1428,7 +1428,7 @@
     "city": "Istanbul",
     "cityCountry": "Istanbul, Turkey",
     "currencyCode": "TRY",
-    "costOfLiving": "36.55",
+    "costIndex": "36.55",
     "date": "17/01/2019"
   },
   {
@@ -1436,7 +1436,7 @@
     "city": "Izmir",
     "cityCountry": "Izmir, Turkey",
     "currencyCode": "TRY",
-    "costOfLiving": "34.17",
+    "costIndex": "34.17",
     "date": "17/01/2019"
   },
   {
@@ -1444,7 +1444,7 @@
     "city": "Jacksonville",
     "cityCountry": "Jacksonville, FL, United States",
     "currencyCode": "USD",
-    "costOfLiving": "69.09",
+    "costIndex": "69.09",
     "date": "17/01/2019"
   },
   {
@@ -1452,7 +1452,7 @@
     "city": "Jaipur",
     "cityCountry": "Jaipur, India",
     "currencyCode": "INR",
-    "costOfLiving": "24.91",
+    "costIndex": "24.91",
     "date": "17/01/2019"
   },
   {
@@ -1460,7 +1460,7 @@
     "city": "Jakarta",
     "cityCountry": "Jakarta, Indonesia",
     "currencyCode": "IDR",
-    "costOfLiving": "42.07",
+    "costIndex": "42.07",
     "date": "17/01/2019"
   },
   {
@@ -1468,7 +1468,7 @@
     "city": "Jeddah (Jiddah)",
     "cityCountry": "Jeddah (Jiddah), Saudi Arabia",
     "currencyCode": "SAR",
-    "costOfLiving": "49.68",
+    "costIndex": "49.68",
     "date": "17/01/2019"
   },
   {
@@ -1476,7 +1476,7 @@
     "city": "Jerusalem",
     "cityCountry": "Jerusalem, Israel",
     "currencyCode": "ILS",
-    "costOfLiving": "75.65",
+    "costIndex": "75.65",
     "date": "17/01/2019"
   },
   {
@@ -1484,7 +1484,7 @@
     "city": "Johannesburg",
     "cityCountry": "Johannesburg, South Africa",
     "currencyCode": "ZAR",
-    "costOfLiving": "46.26",
+    "costIndex": "46.26",
     "date": "17/01/2019"
   },
   {
@@ -1492,7 +1492,7 @@
     "city": "Johor Bahru",
     "cityCountry": "Johor Bahru, Malaysia",
     "currencyCode": "MYR",
-    "costOfLiving": "44.15",
+    "costIndex": "44.15",
     "date": "17/01/2019"
   },
   {
@@ -1500,7 +1500,7 @@
     "city": "Kampala",
     "cityCountry": "Kampala, Uganda",
     "currencyCode": "UGX",
-    "costOfLiving": "32.81",
+    "costIndex": "32.81",
     "date": "17/01/2019"
   },
   {
@@ -1508,7 +1508,7 @@
     "city": "Kansas City",
     "cityCountry": "Kansas City, MO, United States",
     "currencyCode": "USD",
-    "costOfLiving": "69.38",
+    "costIndex": "69.38",
     "date": "17/01/2019"
   },
   {
@@ -1516,7 +1516,7 @@
     "city": "Karachi",
     "cityCountry": "Karachi, Pakistan",
     "currencyCode": "PKR",
-    "costOfLiving": "21.24",
+    "costIndex": "21.24",
     "date": "17/01/2019"
   },
   {
@@ -1524,7 +1524,7 @@
     "city": "Karlsruhe",
     "cityCountry": "Karlsruhe, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "68.71",
+    "costIndex": "68.71",
     "date": "17/01/2019"
   },
   {
@@ -1532,7 +1532,7 @@
     "city": "Kathmandu",
     "cityCountry": "Kathmandu, Nepal",
     "currencyCode": "NPR",
-    "costOfLiving": "30.48",
+    "costIndex": "30.48",
     "date": "17/01/2019"
   },
   {
@@ -1540,7 +1540,7 @@
     "city": "Katowice",
     "cityCountry": "Katowice, Poland",
     "currencyCode": "PLN",
-    "costOfLiving": "38.20",
+    "costIndex": "38.20",
     "date": "17/01/2019"
   },
   {
@@ -1548,7 +1548,7 @@
     "city": "Kaunas",
     "cityCountry": "Kaunas, Lithuania",
     "currencyCode": "LTL",
-    "costOfLiving": "45.72",
+    "costIndex": "45.72",
     "date": "17/01/2019"
   },
   {
@@ -1556,7 +1556,7 @@
     "city": "Kelowna",
     "cityCountry": "Kelowna, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "68.12",
+    "costIndex": "68.12",
     "date": "17/01/2019"
   },
   {
@@ -1564,7 +1564,7 @@
     "city": "Kharkiv",
     "cityCountry": "Kharkiv, Ukraine",
     "currencyCode": "UAH",
-    "costOfLiving": "27.13",
+    "costIndex": "27.13",
     "date": "17/01/2019"
   },
   {
@@ -1572,7 +1572,7 @@
     "city": "Kiev",
     "cityCountry": "Kiev, Ukraine",
     "currencyCode": "UAH",
-    "costOfLiving": "30.13",
+    "costIndex": "30.13",
     "date": "17/01/2019"
   },
   {
@@ -1580,7 +1580,7 @@
     "city": "Kingston upon Hull",
     "cityCountry": "Kingston upon Hull, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "59.04",
+    "costIndex": "59.04",
     "date": "17/01/2019"
   },
   {
@@ -1588,7 +1588,7 @@
     "city": "Kitchener",
     "cityCountry": "Kitchener, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "59.67",
+    "costIndex": "59.67",
     "date": "17/01/2019"
   },
   {
@@ -1596,7 +1596,7 @@
     "city": "Klaipeda",
     "cityCountry": "Klaipeda, Lithuania",
     "currencyCode": "LTL",
-    "costOfLiving": "46.31",
+    "costIndex": "46.31",
     "date": "17/01/2019"
   },
   {
@@ -1604,7 +1604,7 @@
     "city": "Knoxville",
     "cityCountry": "Knoxville, TN, United States",
     "currencyCode": "USD",
-    "costOfLiving": "64.19",
+    "costIndex": "64.19",
     "date": "17/01/2019"
   },
   {
@@ -1612,7 +1612,7 @@
     "city": "Kochi",
     "cityCountry": "Kochi, India",
     "currencyCode": "INR",
-    "costOfLiving": "20.93",
+    "costIndex": "20.93",
     "date": "17/01/2019"
   },
   {
@@ -1620,7 +1620,7 @@
     "city": "Kolkata",
     "cityCountry": "Kolkata, India",
     "currencyCode": "INR",
-    "costOfLiving": "24.26",
+    "costIndex": "24.26",
     "date": "17/01/2019"
   },
   {
@@ -1628,7 +1628,7 @@
     "city": "Kosice",
     "cityCountry": "Kosice, Slovakia",
     "currencyCode": "SKK",
-    "costOfLiving": "46.13",
+    "costIndex": "46.13",
     "date": "17/01/2019"
   },
   {
@@ -1636,7 +1636,7 @@
     "city": "Krakow (Cracow)",
     "cityCountry": "Krakow (Cracow), Poland",
     "currencyCode": "PLN",
-    "costOfLiving": "40.89",
+    "costIndex": "40.89",
     "date": "17/01/2019"
   },
   {
@@ -1644,7 +1644,7 @@
     "city": "Krasnodar",
     "cityCountry": "Krasnodar, Russia",
     "currencyCode": "RUB",
-    "costOfLiving": "31.90",
+    "costIndex": "31.90",
     "date": "17/01/2019"
   },
   {
@@ -1652,7 +1652,7 @@
     "city": "Kuala Lumpur",
     "cityCountry": "Kuala Lumpur, Malaysia",
     "currencyCode": "MYR",
-    "costOfLiving": "42.14",
+    "costIndex": "42.14",
     "date": "17/01/2019"
   },
   {
@@ -1660,7 +1660,7 @@
     "city": "La Paz",
     "cityCountry": "La Paz, Bolivia",
     "currencyCode": "BOB",
-    "costOfLiving": "38.58",
+    "costIndex": "38.58",
     "date": "17/01/2019"
   },
   {
@@ -1668,7 +1668,7 @@
     "city": "Lagos",
     "cityCountry": "Lagos, Nigeria",
     "currencyCode": "NGN",
-    "costOfLiving": "34.42",
+    "costIndex": "34.42",
     "date": "17/01/2019"
   },
   {
@@ -1676,7 +1676,7 @@
     "city": "Lahore",
     "cityCountry": "Lahore, Pakistan",
     "currencyCode": "PKR",
-    "costOfLiving": "23.45",
+    "costIndex": "23.45",
     "date": "17/01/2019"
   },
   {
@@ -1684,7 +1684,7 @@
     "city": "Larnaca",
     "cityCountry": "Larnaca, Cyprus",
     "currencyCode": "CYP",
-    "costOfLiving": "56.92",
+    "costIndex": "56.92",
     "date": "17/01/2019"
   },
   {
@@ -1692,7 +1692,7 @@
     "city": "Las Palmas de Gran Canaria",
     "cityCountry": "Las Palmas de Gran Canaria, Spain",
     "currencyCode": "EUR",
-    "costOfLiving": "49.77",
+    "costIndex": "49.77",
     "date": "17/01/2019"
   },
   {
@@ -1700,7 +1700,7 @@
     "city": "Las Vegas",
     "cityCountry": "Las Vegas, NV, United States",
     "currencyCode": "USD",
-    "costOfLiving": "67.94",
+    "costIndex": "67.94",
     "date": "17/01/2019"
   },
   {
@@ -1708,7 +1708,7 @@
     "city": "Lausanne",
     "cityCountry": "Lausanne, Switzerland",
     "currencyCode": "CHF",
-    "costOfLiving": "125.36",
+    "costIndex": "125.36",
     "date": "17/01/2019"
   },
   {
@@ -1716,7 +1716,7 @@
     "city": "Leeds",
     "cityCountry": "Leeds, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "65.69",
+    "costIndex": "65.69",
     "date": "17/01/2019"
   },
   {
@@ -1724,7 +1724,7 @@
     "city": "Leicester",
     "cityCountry": "Leicester, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "65.78",
+    "costIndex": "65.78",
     "date": "17/01/2019"
   },
   {
@@ -1732,7 +1732,7 @@
     "city": "Leiden",
     "cityCountry": "Leiden, Netherlands",
     "currencyCode": "EUR",
-    "costOfLiving": "75.68",
+    "costIndex": "75.68",
     "date": "17/01/2019"
   },
   {
@@ -1740,7 +1740,7 @@
     "city": "Leipzig",
     "cityCountry": "Leipzig, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "67.13",
+    "costIndex": "67.13",
     "date": "17/01/2019"
   },
   {
@@ -1748,7 +1748,7 @@
     "city": "Leuven",
     "cityCountry": "Leuven, Belgium",
     "currencyCode": "EUR",
-    "costOfLiving": "70.23",
+    "costIndex": "70.23",
     "date": "17/01/2019"
   },
   {
@@ -1756,7 +1756,7 @@
     "city": "Lille",
     "cityCountry": "Lille, France",
     "currencyCode": "EUR",
-    "costOfLiving": "69.00",
+    "costIndex": "69.00",
     "date": "17/01/2019"
   },
   {
@@ -1764,7 +1764,7 @@
     "city": "Lima",
     "cityCountry": "Lima, Peru",
     "currencyCode": "PEN",
-    "costOfLiving": "40.08",
+    "costIndex": "40.08",
     "date": "17/01/2019"
   },
   {
@@ -1772,7 +1772,7 @@
     "city": "Limassol",
     "cityCountry": "Limassol, Cyprus",
     "currencyCode": "CYP",
-    "costOfLiving": "59.65",
+    "costIndex": "59.65",
     "date": "17/01/2019"
   },
   {
@@ -1780,7 +1780,7 @@
     "city": "Limerick",
     "cityCountry": "Limerick, Ireland",
     "currencyCode": "EUR",
-    "costOfLiving": "71.47",
+    "costIndex": "71.47",
     "date": "17/01/2019"
   },
   {
@@ -1788,7 +1788,7 @@
     "city": "Linz",
     "cityCountry": "Linz, Austria",
     "currencyCode": "EUR",
-    "costOfLiving": "77.62",
+    "costIndex": "77.62",
     "date": "17/01/2019"
   },
   {
@@ -1796,7 +1796,7 @@
     "city": "Lisbon",
     "cityCountry": "Lisbon, Portugal",
     "currencyCode": "EUR",
-    "costOfLiving": "54.14",
+    "costIndex": "54.14",
     "date": "17/01/2019"
   },
   {
@@ -1804,7 +1804,7 @@
     "city": "Little Rock",
     "cityCountry": "Little Rock, AR, United States",
     "currencyCode": "USD",
-    "costOfLiving": "60.63",
+    "costIndex": "60.63",
     "date": "17/01/2019"
   },
   {
@@ -1812,7 +1812,7 @@
     "city": "Liverpool",
     "cityCountry": "Liverpool, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "60.25",
+    "costIndex": "60.25",
     "date": "17/01/2019"
   },
   {
@@ -1820,7 +1820,7 @@
     "city": "Ljubljana",
     "cityCountry": "Ljubljana, Slovenia",
     "currencyCode": "EUR",
-    "costOfLiving": "55.39",
+    "costIndex": "55.39",
     "date": "17/01/2019"
   },
   {
@@ -1828,7 +1828,7 @@
     "city": "Lodz",
     "cityCountry": "Lodz, Poland",
     "currencyCode": "PLN",
-    "costOfLiving": "37.99",
+    "costIndex": "37.99",
     "date": "17/01/2019"
   },
   {
@@ -1836,7 +1836,7 @@
     "city": "London",
     "cityCountry": "London, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "57.94",
+    "costIndex": "57.94",
     "date": "17/01/2019"
   },
   {
@@ -1844,7 +1844,7 @@
     "city": "London",
     "cityCountry": "London, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "82.68",
+    "costIndex": "82.68",
     "date": "17/01/2019"
   },
   {
@@ -1852,7 +1852,7 @@
     "city": "Los Angeles",
     "cityCountry": "Los Angeles, CA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "78.14",
+    "costIndex": "78.14",
     "date": "17/01/2019"
   },
   {
@@ -1860,7 +1860,7 @@
     "city": "Louisville",
     "cityCountry": "Louisville, KY, United States",
     "currencyCode": "USD",
-    "costOfLiving": "64.79",
+    "costIndex": "64.79",
     "date": "17/01/2019"
   },
   {
@@ -1868,7 +1868,7 @@
     "city": "Lublin",
     "cityCountry": "Lublin, Poland",
     "currencyCode": "PLN",
-    "costOfLiving": "37.27",
+    "costIndex": "37.27",
     "date": "17/01/2019"
   },
   {
@@ -1876,7 +1876,7 @@
     "city": "Lucknow (Lakhnau)",
     "cityCountry": "Lucknow (Lakhnau), India",
     "currencyCode": "INR",
-    "costOfLiving": "23.35",
+    "costIndex": "23.35",
     "date": "17/01/2019"
   },
   {
@@ -1884,7 +1884,7 @@
     "city": "Lugano",
     "cityCountry": "Lugano, Switzerland",
     "currencyCode": "CHF",
-    "costOfLiving": "119.86",
+    "costIndex": "119.86",
     "date": "17/01/2019"
   },
   {
@@ -1892,7 +1892,7 @@
     "city": "Lund",
     "cityCountry": "Lund, Sweden",
     "currencyCode": "SEK",
-    "costOfLiving": "70.21",
+    "costIndex": "70.21",
     "date": "17/01/2019"
   },
   {
@@ -1900,7 +1900,7 @@
     "city": "Luxembourg",
     "cityCountry": "Luxembourg, Luxembourg",
     "currencyCode": "EUR",
-    "costOfLiving": "91.12",
+    "costIndex": "91.12",
     "date": "17/01/2019"
   },
   {
@@ -1908,7 +1908,7 @@
     "city": "Lviv",
     "cityCountry": "Lviv, Ukraine",
     "currencyCode": "UAH",
-    "costOfLiving": "26.54",
+    "costIndex": "26.54",
     "date": "17/01/2019"
   },
   {
@@ -1916,7 +1916,7 @@
     "city": "Lyon",
     "cityCountry": "Lyon, France",
     "currencyCode": "EUR",
-    "costOfLiving": "79.12",
+    "costIndex": "79.12",
     "date": "17/01/2019"
   },
   {
@@ -1924,7 +1924,7 @@
     "city": "Maastricht",
     "cityCountry": "Maastricht, Netherlands",
     "currencyCode": "EUR",
-    "costOfLiving": "74.78",
+    "costIndex": "74.78",
     "date": "17/01/2019"
   },
   {
@@ -1932,7 +1932,7 @@
     "city": "Madison",
     "cityCountry": "Madison, WI, United States",
     "currencyCode": "USD",
-    "costOfLiving": "63.92",
+    "costIndex": "63.92",
     "date": "17/01/2019"
   },
   {
@@ -1940,7 +1940,7 @@
     "city": "Madrid",
     "cityCountry": "Madrid, Spain",
     "currencyCode": "EUR",
-    "costOfLiving": "60.92",
+    "costIndex": "60.92",
     "date": "17/01/2019"
   },
   {
@@ -1948,7 +1948,7 @@
     "city": "Malaga",
     "cityCountry": "Malaga, Spain",
     "currencyCode": "EUR",
-    "costOfLiving": "50.90",
+    "costIndex": "50.90",
     "date": "17/01/2019"
   },
   {
@@ -1956,7 +1956,7 @@
     "city": "Malmo",
     "cityCountry": "Malmo, Sweden",
     "currencyCode": "SEK",
-    "costOfLiving": "71.16",
+    "costIndex": "71.16",
     "date": "17/01/2019"
   },
   {
@@ -1964,7 +1964,7 @@
     "city": "Managua",
     "cityCountry": "Managua, Nicaragua",
     "currencyCode": "NIO",
-    "costOfLiving": "44.29",
+    "costIndex": "44.29",
     "date": "17/01/2019"
   },
   {
@@ -1972,7 +1972,7 @@
     "city": "Manama",
     "cityCountry": "Manama, Bahrain",
     "currencyCode": "BHD",
-    "costOfLiving": "56.24",
+    "costIndex": "56.24",
     "date": "17/01/2019"
   },
   {
@@ -1980,7 +1980,7 @@
     "city": "Manchester",
     "cityCountry": "Manchester, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "67.72",
+    "costIndex": "67.72",
     "date": "17/01/2019"
   },
   {
@@ -1988,7 +1988,7 @@
     "city": "Mangalore",
     "cityCountry": "Mangalore, India",
     "currencyCode": "INR",
-    "costOfLiving": "22.98",
+    "costIndex": "22.98",
     "date": "17/01/2019"
   },
   {
@@ -1996,7 +1996,7 @@
     "city": "Manila",
     "cityCountry": "Manila, Philippines",
     "currencyCode": "PHP",
-    "costOfLiving": "39.42",
+    "costIndex": "39.42",
     "date": "17/01/2019"
   },
   {
@@ -2004,7 +2004,7 @@
     "city": "Mannheim",
     "cityCountry": "Mannheim, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "68.98",
+    "costIndex": "68.98",
     "date": "17/01/2019"
   },
   {
@@ -2012,7 +2012,7 @@
     "city": "Maribor",
     "cityCountry": "Maribor, Slovenia",
     "currencyCode": "EUR",
-    "costOfLiving": "48.90",
+    "costIndex": "48.90",
     "date": "17/01/2019"
   },
   {
@@ -2020,7 +2020,7 @@
     "city": "Medellin",
     "cityCountry": "Medellin, Colombia",
     "currencyCode": "COP",
-    "costOfLiving": "31.01",
+    "costIndex": "31.01",
     "date": "17/01/2019"
   },
   {
@@ -2028,7 +2028,7 @@
     "city": "Melbourne",
     "cityCountry": "Melbourne, Australia",
     "currencyCode": "AUD",
-    "costOfLiving": "72.55",
+    "costIndex": "72.55",
     "date": "17/01/2019"
   },
   {
@@ -2036,7 +2036,7 @@
     "city": "Memphis",
     "cityCountry": "Memphis, TN, United States",
     "currencyCode": "USD",
-    "costOfLiving": "64.58",
+    "costIndex": "64.58",
     "date": "17/01/2019"
   },
   {
@@ -2044,7 +2044,7 @@
     "city": "Merida",
     "cityCountry": "Merida, Mexico",
     "currencyCode": "MXN",
-    "costOfLiving": "30.57",
+    "costIndex": "30.57",
     "date": "17/01/2019"
   },
   {
@@ -2052,7 +2052,7 @@
     "city": "Mexico City",
     "cityCountry": "Mexico City, Mexico",
     "currencyCode": "MXN",
-    "costOfLiving": "35.94",
+    "costIndex": "35.94",
     "date": "17/01/2019"
   },
   {
@@ -2060,7 +2060,7 @@
     "city": "Miami",
     "cityCountry": "Miami, FL, United States",
     "currencyCode": "USD",
-    "costOfLiving": "80.61",
+    "costIndex": "80.61",
     "date": "17/01/2019"
   },
   {
@@ -2068,7 +2068,7 @@
     "city": "Milan",
     "cityCountry": "Milan, Italy",
     "currencyCode": "EUR",
-    "costOfLiving": "73.63",
+    "costIndex": "73.63",
     "date": "17/01/2019"
   },
   {
@@ -2076,7 +2076,7 @@
     "city": "Milwaukee",
     "cityCountry": "Milwaukee, WI, United States",
     "currencyCode": "USD",
-    "costOfLiving": "70.38",
+    "costIndex": "70.38",
     "date": "17/01/2019"
   },
   {
@@ -2084,7 +2084,7 @@
     "city": "Minneapolis",
     "cityCountry": "Minneapolis, MN, United States",
     "currencyCode": "USD",
-    "costOfLiving": "75.57",
+    "costIndex": "75.57",
     "date": "17/01/2019"
   },
   {
@@ -2092,7 +2092,7 @@
     "city": "Minsk",
     "cityCountry": "Minsk, Belarus",
     "currencyCode": "BYR",
-    "costOfLiving": "33.51",
+    "costIndex": "33.51",
     "date": "17/01/2019"
   },
   {
@@ -2100,7 +2100,7 @@
     "city": "Mississauga",
     "cityCountry": "Mississauga, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "65.67",
+    "costIndex": "65.67",
     "date": "17/01/2019"
   },
   {
@@ -2108,7 +2108,7 @@
     "city": "Monterrey",
     "cityCountry": "Monterrey, Mexico",
     "currencyCode": "MXN",
-    "costOfLiving": "35.47",
+    "costIndex": "35.47",
     "date": "17/01/2019"
   },
   {
@@ -2116,7 +2116,7 @@
     "city": "Montevideo",
     "cityCountry": "Montevideo, Uruguay",
     "currencyCode": "UYU",
-    "costOfLiving": "56.60",
+    "costIndex": "56.60",
     "date": "17/01/2019"
   },
   {
@@ -2124,7 +2124,7 @@
     "city": "Montreal",
     "cityCountry": "Montreal, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "63.19",
+    "costIndex": "63.19",
     "date": "17/01/2019"
   },
   {
@@ -2132,7 +2132,7 @@
     "city": "Moscow",
     "cityCountry": "Moscow, Russia",
     "currencyCode": "RUB",
-    "costOfLiving": "42.09",
+    "costIndex": "42.09",
     "date": "17/01/2019"
   },
   {
@@ -2140,7 +2140,7 @@
     "city": "Mumbai",
     "cityCountry": "Mumbai, India",
     "currencyCode": "INR",
-    "costOfLiving": "28.60",
+    "costIndex": "28.60",
     "date": "17/01/2019"
   },
   {
@@ -2148,7 +2148,7 @@
     "city": "Munich",
     "cityCountry": "Munich, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "74.05",
+    "costIndex": "74.05",
     "date": "17/01/2019"
   },
   {
@@ -2156,7 +2156,7 @@
     "city": "Muscat",
     "cityCountry": "Muscat, Oman",
     "currencyCode": "OMR",
-    "costOfLiving": "49.87",
+    "costIndex": "49.87",
     "date": "17/01/2019"
   },
   {
@@ -2164,7 +2164,7 @@
     "city": "Mysore",
     "cityCountry": "Mysore, India",
     "currencyCode": "INR",
-    "costOfLiving": "22.81",
+    "costIndex": "22.81",
     "date": "17/01/2019"
   },
   {
@@ -2172,7 +2172,7 @@
     "city": "Nairobi",
     "cityCountry": "Nairobi, Kenya",
     "currencyCode": "KES",
-    "costOfLiving": "42.55",
+    "costIndex": "42.55",
     "date": "17/01/2019"
   },
   {
@@ -2180,7 +2180,7 @@
     "city": "Naples",
     "cityCountry": "Naples, Italy",
     "currencyCode": "EUR",
-    "costOfLiving": "62.74",
+    "costIndex": "62.74",
     "date": "17/01/2019"
   },
   {
@@ -2188,7 +2188,7 @@
     "city": "Nashville",
     "cityCountry": "Nashville, TN, United States",
     "currencyCode": "USD",
-    "costOfLiving": "67.64",
+    "costIndex": "67.64",
     "date": "17/01/2019"
   },
   {
@@ -2196,7 +2196,7 @@
     "city": "Navi Mumbai",
     "cityCountry": "Navi Mumbai, India",
     "currencyCode": "INR",
-    "costOfLiving": "21.82",
+    "costIndex": "21.82",
     "date": "17/01/2019"
   },
   {
@@ -2204,7 +2204,7 @@
     "city": "New York",
     "cityCountry": "New York, NY, United States",
     "currencyCode": "USD",
-    "costOfLiving": "100.00",
+    "costIndex": "100.00",
     "date": "17/01/2019"
   },
   {
@@ -2212,7 +2212,7 @@
     "city": "Newcastle upon Tyne",
     "cityCountry": "Newcastle upon Tyne, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "69.62",
+    "costIndex": "69.62",
     "date": "17/01/2019"
   },
   {
@@ -2220,7 +2220,7 @@
     "city": "Newcastle",
     "cityCountry": "Newcastle, Australia",
     "currencyCode": "AUD",
-    "costOfLiving": "73.96",
+    "costIndex": "73.96",
     "date": "17/01/2019"
   },
   {
@@ -2228,7 +2228,7 @@
     "city": "Nicosia",
     "cityCountry": "Nicosia, Cyprus",
     "currencyCode": "CYP",
-    "costOfLiving": "65.66",
+    "costIndex": "65.66",
     "date": "17/01/2019"
   },
   {
@@ -2236,7 +2236,7 @@
     "city": "Nis",
     "cityCountry": "Nis, Serbia",
     "currencyCode": "RSD",
-    "costOfLiving": "34.41",
+    "costIndex": "34.41",
     "date": "17/01/2019"
   },
   {
@@ -2244,7 +2244,7 @@
     "city": "Nizhny Novgorod",
     "cityCountry": "Nizhny Novgorod, Russia",
     "currencyCode": "RUB",
-    "costOfLiving": "35.74",
+    "costIndex": "35.74",
     "date": "17/01/2019"
   },
   {
@@ -2252,7 +2252,7 @@
     "city": "Noida",
     "cityCountry": "Noida, India",
     "currencyCode": "INR",
-    "costOfLiving": "28.21",
+    "costIndex": "28.21",
     "date": "17/01/2019"
   },
   {
@@ -2260,7 +2260,7 @@
     "city": "Nottingham",
     "cityCountry": "Nottingham, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "64.14",
+    "costIndex": "64.14",
     "date": "17/01/2019"
   },
   {
@@ -2268,7 +2268,7 @@
     "city": "Novi Sad",
     "cityCountry": "Novi Sad, Serbia",
     "currencyCode": "RSD",
-    "costOfLiving": "35.37",
+    "costIndex": "35.37",
     "date": "17/01/2019"
   },
   {
@@ -2276,7 +2276,7 @@
     "city": "Novosibirsk",
     "cityCountry": "Novosibirsk, Russia",
     "currencyCode": "RUB",
-    "costOfLiving": "32.63",
+    "costIndex": "32.63",
     "date": "17/01/2019"
   },
   {
@@ -2284,7 +2284,7 @@
     "city": "Nuremberg",
     "cityCountry": "Nuremberg, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "69.99",
+    "costIndex": "69.99",
     "date": "17/01/2019"
   },
   {
@@ -2292,7 +2292,7 @@
     "city": "Oakland",
     "cityCountry": "Oakland, CA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "84.49",
+    "costIndex": "84.49",
     "date": "17/01/2019"
   },
   {
@@ -2300,7 +2300,7 @@
     "city": "Odense",
     "cityCountry": "Odense, Denmark",
     "currencyCode": "DKK",
-    "costOfLiving": "84.18",
+    "costIndex": "84.18",
     "date": "17/01/2019"
   },
   {
@@ -2308,7 +2308,7 @@
     "city": "Odessa",
     "cityCountry": "Odessa, Ukraine",
     "currencyCode": "UAH",
-    "costOfLiving": "28.74",
+    "costIndex": "28.74",
     "date": "17/01/2019"
   },
   {
@@ -2316,7 +2316,7 @@
     "city": "Olomouc",
     "cityCountry": "Olomouc, Czech Republic",
     "currencyCode": "CZK",
-    "costOfLiving": "44.43",
+    "costIndex": "44.43",
     "date": "17/01/2019"
   },
   {
@@ -2324,7 +2324,7 @@
     "city": "Oradea",
     "cityCountry": "Oradea, Romania",
     "currencyCode": "RON",
-    "costOfLiving": "34.74",
+    "costIndex": "34.74",
     "date": "17/01/2019"
   },
   {
@@ -2332,7 +2332,7 @@
     "city": "Orlando",
     "cityCountry": "Orlando, FL, United States",
     "currencyCode": "USD",
-    "costOfLiving": "69.97",
+    "costIndex": "69.97",
     "date": "17/01/2019"
   },
   {
@@ -2340,7 +2340,7 @@
     "city": "Osaka",
     "cityCountry": "Osaka, Japan",
     "currencyCode": "JPY",
-    "costOfLiving": "80.06",
+    "costIndex": "80.06",
     "date": "17/01/2019"
   },
   {
@@ -2348,7 +2348,7 @@
     "city": "Osijek",
     "cityCountry": "Osijek, Croatia",
     "currencyCode": "HRK",
-    "costOfLiving": "45.55",
+    "costIndex": "45.55",
     "date": "17/01/2019"
   },
   {
@@ -2356,7 +2356,7 @@
     "city": "Oslo",
     "cityCountry": "Oslo, Norway",
     "currencyCode": "NOK",
-    "costOfLiving": "104.03",
+    "costIndex": "104.03",
     "date": "17/01/2019"
   },
   {
@@ -2364,7 +2364,7 @@
     "city": "Ostrava",
     "cityCountry": "Ostrava, Czech Republic",
     "currencyCode": "CZK",
-    "costOfLiving": "42.46",
+    "costIndex": "42.46",
     "date": "17/01/2019"
   },
   {
@@ -2372,7 +2372,7 @@
     "city": "Ottawa",
     "cityCountry": "Ottawa, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "66.18",
+    "costIndex": "66.18",
     "date": "17/01/2019"
   },
   {
@@ -2380,7 +2380,7 @@
     "city": "Oxford",
     "cityCountry": "Oxford, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "69.79",
+    "costIndex": "69.79",
     "date": "17/01/2019"
   },
   {
@@ -2388,7 +2388,7 @@
     "city": "Palma de Mallorca",
     "cityCountry": "Palma de Mallorca, Spain",
     "currencyCode": "EUR",
-    "costOfLiving": "63.74",
+    "costIndex": "63.74",
     "date": "17/01/2019"
   },
   {
@@ -2396,7 +2396,7 @@
     "city": "Panama City",
     "cityCountry": "Panama City, Panama",
     "currencyCode": "PAB",
-    "costOfLiving": "55.29",
+    "costIndex": "55.29",
     "date": "17/01/2019"
   },
   {
@@ -2404,7 +2404,7 @@
     "city": "Paramaribo",
     "cityCountry": "Paramaribo, Suriname",
     "currencyCode": "SRD",
-    "costOfLiving": "37.17",
+    "costIndex": "37.17",
     "date": "17/01/2019"
   },
   {
@@ -2412,7 +2412,7 @@
     "city": "Paris",
     "cityCountry": "Paris, France",
     "currencyCode": "EUR",
-    "costOfLiving": "84.85",
+    "costIndex": "84.85",
     "date": "17/01/2019"
   },
   {
@@ -2420,7 +2420,7 @@
     "city": "Patna",
     "cityCountry": "Patna, India",
     "currencyCode": "INR",
-    "costOfLiving": "24.00",
+    "costIndex": "24.00",
     "date": "17/01/2019"
   },
   {
@@ -2428,7 +2428,7 @@
     "city": "Patras",
     "cityCountry": "Patras, Greece",
     "currencyCode": "EUR",
-    "costOfLiving": "54.86",
+    "costIndex": "54.86",
     "date": "17/01/2019"
   },
   {
@@ -2436,7 +2436,7 @@
     "city": "Pattaya",
     "cityCountry": "Pattaya, Thailand",
     "currencyCode": "THB",
-    "costOfLiving": "45.54",
+    "costIndex": "45.54",
     "date": "17/01/2019"
   },
   {
@@ -2444,7 +2444,7 @@
     "city": "Penang",
     "cityCountry": "Penang, Malaysia",
     "currencyCode": "MYR",
-    "costOfLiving": "43.14",
+    "costIndex": "43.14",
     "date": "17/01/2019"
   },
   {
@@ -2452,7 +2452,7 @@
     "city": "Perth",
     "cityCountry": "Perth, Australia",
     "currencyCode": "AUD",
-    "costOfLiving": "74.59",
+    "costIndex": "74.59",
     "date": "17/01/2019"
   },
   {
@@ -2460,7 +2460,7 @@
     "city": "Philadelphia",
     "cityCountry": "Philadelphia, PA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "80.57",
+    "costIndex": "80.57",
     "date": "17/01/2019"
   },
   {
@@ -2468,7 +2468,7 @@
     "city": "Phnom Penh",
     "cityCountry": "Phnom Penh, Cambodia",
     "currencyCode": "KHR",
-    "costOfLiving": "47.14",
+    "costIndex": "47.14",
     "date": "17/01/2019"
   },
   {
@@ -2476,7 +2476,7 @@
     "city": "Phoenix",
     "cityCountry": "Phoenix, AZ, United States",
     "currencyCode": "USD",
-    "costOfLiving": "66.04",
+    "costIndex": "66.04",
     "date": "17/01/2019"
   },
   {
@@ -2484,7 +2484,7 @@
     "city": "Phuket",
     "cityCountry": "Phuket, Thailand",
     "currencyCode": "THB",
-    "costOfLiving": "48.87",
+    "costIndex": "48.87",
     "date": "17/01/2019"
   },
   {
@@ -2492,7 +2492,7 @@
     "city": "Pittsburgh",
     "cityCountry": "Pittsburgh, PA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "74.98",
+    "costIndex": "74.98",
     "date": "17/01/2019"
   },
   {
@@ -2500,7 +2500,7 @@
     "city": "Plovdiv",
     "cityCountry": "Plovdiv, Bulgaria",
     "currencyCode": "BGN",
-    "costOfLiving": "36.64",
+    "costIndex": "36.64",
     "date": "17/01/2019"
   },
   {
@@ -2508,7 +2508,7 @@
     "city": "Podgorica",
     "cityCountry": "Podgorica, Montenegro",
     "currencyCode": "EUR",
-    "costOfLiving": "40.31",
+    "costIndex": "40.31",
     "date": "17/01/2019"
   },
   {
@@ -2516,7 +2516,7 @@
     "city": "Port Elizabeth",
     "cityCountry": "Port Elizabeth, South Africa",
     "currencyCode": "ZAR",
-    "costOfLiving": "41.11",
+    "costIndex": "41.11",
     "date": "17/01/2019"
   },
   {
@@ -2524,7 +2524,7 @@
     "city": "Port Louis",
     "cityCountry": "Port Louis, Mauritius",
     "currencyCode": "MUR",
-    "costOfLiving": "56.58",
+    "costIndex": "56.58",
     "date": "17/01/2019"
   },
   {
@@ -2532,7 +2532,7 @@
     "city": "Port of Spain",
     "cityCountry": "Port of Spain, Trinidad And Tobago",
     "currencyCode": "TTD",
-    "costOfLiving": "55.95",
+    "costIndex": "55.95",
     "date": "17/01/2019"
   },
   {
@@ -2540,7 +2540,7 @@
     "city": "Portland",
     "cityCountry": "Portland, OR, United States",
     "currencyCode": "USD",
-    "costOfLiving": "75.11",
+    "costIndex": "75.11",
     "date": "17/01/2019"
   },
   {
@@ -2548,7 +2548,7 @@
     "city": "Porto Alegre",
     "cityCountry": "Porto Alegre, Brazil",
     "currencyCode": "BRL",
-    "costOfLiving": "42.91",
+    "costIndex": "42.91",
     "date": "17/01/2019"
   },
   {
@@ -2556,7 +2556,7 @@
     "city": "Porto",
     "cityCountry": "Porto, Portugal",
     "currencyCode": "EUR",
-    "costOfLiving": "51.61",
+    "costIndex": "51.61",
     "date": "17/01/2019"
   },
   {
@@ -2564,7 +2564,7 @@
     "city": "Portsmouth",
     "cityCountry": "Portsmouth, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "65.94",
+    "costIndex": "65.94",
     "date": "17/01/2019"
   },
   {
@@ -2572,7 +2572,7 @@
     "city": "Poznan",
     "cityCountry": "Poznan, Poland",
     "currencyCode": "PLN",
-    "costOfLiving": "39.64",
+    "costIndex": "39.64",
     "date": "17/01/2019"
   },
   {
@@ -2580,7 +2580,7 @@
     "city": "Prague",
     "cityCountry": "Prague, Czech Republic",
     "currencyCode": "CZK",
-    "costOfLiving": "48.64",
+    "costIndex": "48.64",
     "date": "17/01/2019"
   },
   {
@@ -2588,7 +2588,7 @@
     "city": "Pretoria",
     "cityCountry": "Pretoria, South Africa",
     "currencyCode": "ZAR",
-    "costOfLiving": "46.89",
+    "costIndex": "46.89",
     "date": "17/01/2019"
   },
   {
@@ -2596,7 +2596,7 @@
     "city": "Puebla",
     "cityCountry": "Puebla, Mexico",
     "currencyCode": "MXN",
-    "costOfLiving": "32.46",
+    "costIndex": "32.46",
     "date": "17/01/2019"
   },
   {
@@ -2604,7 +2604,7 @@
     "city": "Pune",
     "cityCountry": "Pune, India",
     "currencyCode": "INR",
-    "costOfLiving": "26.96",
+    "costIndex": "26.96",
     "date": "17/01/2019"
   },
   {
@@ -2612,7 +2612,7 @@
     "city": "Quebec City",
     "cityCountry": "Quebec City, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "65.89",
+    "costIndex": "65.89",
     "date": "17/01/2019"
   },
   {
@@ -2620,7 +2620,7 @@
     "city": "Queretaro",
     "cityCountry": "Queretaro, Mexico",
     "currencyCode": "MXN",
-    "costOfLiving": "33.15",
+    "costIndex": "33.15",
     "date": "17/01/2019"
   },
   {
@@ -2628,7 +2628,7 @@
     "city": "Quezon City",
     "cityCountry": "Quezon City, Philippines",
     "currencyCode": "PHP",
-    "costOfLiving": "35.84",
+    "costIndex": "35.84",
     "date": "17/01/2019"
   },
   {
@@ -2636,7 +2636,7 @@
     "city": "Quito",
     "cityCountry": "Quito, Ecuador",
     "currencyCode": "ECS",
-    "costOfLiving": "45.46",
+    "costIndex": "45.46",
     "date": "17/01/2019"
   },
   {
@@ -2644,7 +2644,7 @@
     "city": "Rabat",
     "cityCountry": "Rabat, Morocco",
     "currencyCode": "MAD",
-    "costOfLiving": "38.24",
+    "costIndex": "38.24",
     "date": "17/01/2019"
   },
   {
@@ -2652,7 +2652,7 @@
     "city": "Raleigh",
     "cityCountry": "Raleigh, NC, United States",
     "currencyCode": "USD",
-    "costOfLiving": "70.21",
+    "costIndex": "70.21",
     "date": "17/01/2019"
   },
   {
@@ -2660,7 +2660,7 @@
     "city": "Ramat Gan",
     "cityCountry": "Ramat Gan, Israel",
     "currencyCode": "ILS",
-    "costOfLiving": "72.52",
+    "costIndex": "72.52",
     "date": "17/01/2019"
   },
   {
@@ -2668,7 +2668,7 @@
     "city": "Rawalpindi",
     "cityCountry": "Rawalpindi, Pakistan",
     "currencyCode": "PKR",
-    "costOfLiving": "18.75",
+    "costIndex": "18.75",
     "date": "17/01/2019"
   },
   {
@@ -2676,7 +2676,7 @@
     "city": "Reading",
     "cityCountry": "Reading, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "75.15",
+    "costIndex": "75.15",
     "date": "17/01/2019"
   },
   {
@@ -2684,7 +2684,7 @@
     "city": "Recife",
     "cityCountry": "Recife, Brazil",
     "currencyCode": "BRL",
-    "costOfLiving": "44.67",
+    "costIndex": "44.67",
     "date": "17/01/2019"
   },
   {
@@ -2692,7 +2692,7 @@
     "city": "Regina",
     "cityCountry": "Regina, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "66.67",
+    "costIndex": "66.67",
     "date": "17/01/2019"
   },
   {
@@ -2700,7 +2700,7 @@
     "city": "Reno",
     "cityCountry": "Reno, NV, United States",
     "currencyCode": "USD",
-    "costOfLiving": "61.46",
+    "costIndex": "61.46",
     "date": "17/01/2019"
   },
   {
@@ -2708,7 +2708,7 @@
     "city": "Reykjavik",
     "cityCountry": "Reykjavik, Iceland",
     "currencyCode": "ISK",
-    "costOfLiving": "101.07",
+    "costIndex": "101.07",
     "date": "17/01/2019"
   },
   {
@@ -2716,7 +2716,7 @@
     "city": "Richmond",
     "cityCountry": "Richmond, VA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "65.46",
+    "costIndex": "65.46",
     "date": "17/01/2019"
   },
   {
@@ -2724,7 +2724,7 @@
     "city": "Riga",
     "cityCountry": "Riga, Latvia",
     "currencyCode": "LVL",
-    "costOfLiving": "50.56",
+    "costIndex": "50.56",
     "date": "17/01/2019"
   },
   {
@@ -2732,7 +2732,7 @@
     "city": "Rijeka",
     "cityCountry": "Rijeka, Croatia",
     "currencyCode": "HRK",
-    "costOfLiving": "51.20",
+    "costIndex": "51.20",
     "date": "17/01/2019"
   },
   {
@@ -2740,7 +2740,7 @@
     "city": "Rio de Janeiro",
     "cityCountry": "Rio de Janeiro, Brazil",
     "currencyCode": "BRL",
-    "costOfLiving": "46.78",
+    "costIndex": "46.78",
     "date": "17/01/2019"
   },
   {
@@ -2748,7 +2748,7 @@
     "city": "Riyadh",
     "cityCountry": "Riyadh, Saudi Arabia",
     "currencyCode": "SAR",
-    "costOfLiving": "49.55",
+    "costIndex": "49.55",
     "date": "17/01/2019"
   },
   {
@@ -2756,7 +2756,7 @@
     "city": "Rochester",
     "cityCountry": "Rochester, NY, United States",
     "currencyCode": "USD",
-    "costOfLiving": "75.15",
+    "costIndex": "75.15",
     "date": "17/01/2019"
   },
   {
@@ -2764,7 +2764,7 @@
     "city": "Rome",
     "cityCountry": "Rome, Italy",
     "currencyCode": "EUR",
-    "costOfLiving": "70.37",
+    "costIndex": "70.37",
     "date": "17/01/2019"
   },
   {
@@ -2772,7 +2772,7 @@
     "city": "Rotterdam",
     "cityCountry": "Rotterdam, Netherlands",
     "currencyCode": "EUR",
-    "costOfLiving": "71.75",
+    "costIndex": "71.75",
     "date": "17/01/2019"
   },
   {
@@ -2780,7 +2780,7 @@
     "city": "Sacramento",
     "cityCountry": "Sacramento, CA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "77.06",
+    "costIndex": "77.06",
     "date": "17/01/2019"
   },
   {
@@ -2788,7 +2788,7 @@
     "city": "Saint Louis",
     "cityCountry": "Saint Louis, MO, United States",
     "currencyCode": "USD",
-    "costOfLiving": "66.91",
+    "costIndex": "66.91",
     "date": "17/01/2019"
   },
   {
@@ -2796,7 +2796,7 @@
     "city": "Saint Petersburg",
     "cityCountry": "Saint Petersburg, Russia",
     "currencyCode": "RUB",
-    "costOfLiving": "37.54",
+    "costIndex": "37.54",
     "date": "17/01/2019"
   },
   {
@@ -2804,7 +2804,7 @@
     "city": "Salt Lake City",
     "cityCountry": "Salt Lake City, UT, United States",
     "currencyCode": "USD",
-    "costOfLiving": "63.70",
+    "costIndex": "63.70",
     "date": "17/01/2019"
   },
   {
@@ -2812,7 +2812,7 @@
     "city": "Samara",
     "cityCountry": "Samara, Russia",
     "currencyCode": "RUB",
-    "costOfLiving": "33.86",
+    "costIndex": "33.86",
     "date": "17/01/2019"
   },
   {
@@ -2820,7 +2820,7 @@
     "city": "San Antonio",
     "cityCountry": "San Antonio, TX, United States",
     "currencyCode": "USD",
-    "costOfLiving": "61.93",
+    "costIndex": "61.93",
     "date": "17/01/2019"
   },
   {
@@ -2828,7 +2828,7 @@
     "city": "San Diego",
     "cityCountry": "San Diego, CA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "72.74",
+    "costIndex": "72.74",
     "date": "17/01/2019"
   },
   {
@@ -2836,7 +2836,7 @@
     "city": "San Francisco",
     "cityCountry": "San Francisco, CA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "91.17",
+    "costIndex": "91.17",
     "date": "17/01/2019"
   },
   {
@@ -2844,7 +2844,7 @@
     "city": "San Jose",
     "cityCountry": "San Jose, CA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "76.57",
+    "costIndex": "76.57",
     "date": "17/01/2019"
   },
   {
@@ -2852,7 +2852,7 @@
     "city": "San Jose",
     "cityCountry": "San Jose, Costa Rica",
     "currencyCode": "CRC",
-    "costOfLiving": "54.48",
+    "costIndex": "54.48",
     "date": "17/01/2019"
   },
   {
@@ -2860,7 +2860,7 @@
     "city": "San Juan",
     "cityCountry": "San Juan, Puerto Rico",
     "currencyCode": "USD",
-    "costOfLiving": "66.60",
+    "costIndex": "66.60",
     "date": "17/01/2019"
   },
   {
@@ -2868,7 +2868,7 @@
     "city": "San Salvador",
     "cityCountry": "San Salvador, El Salvador",
     "currencyCode": "SVC",
-    "costOfLiving": "49.24",
+    "costIndex": "49.24",
     "date": "17/01/2019"
   },
   {
@@ -2876,7 +2876,7 @@
     "city": "Santa Cruz de Tenerife",
     "cityCountry": "Santa Cruz de Tenerife, Spain",
     "currencyCode": "EUR",
-    "costOfLiving": "47.89",
+    "costIndex": "47.89",
     "date": "17/01/2019"
   },
   {
@@ -2884,7 +2884,7 @@
     "city": "Santa Cruz",
     "cityCountry": "Santa Cruz, Bolivia",
     "currencyCode": "BOB",
-    "costOfLiving": "38.59",
+    "costIndex": "38.59",
     "date": "17/01/2019"
   },
   {
@@ -2892,7 +2892,7 @@
     "city": "Santiago",
     "cityCountry": "Santiago, Chile",
     "currencyCode": "CLP",
-    "costOfLiving": "51.53",
+    "costIndex": "51.53",
     "date": "17/01/2019"
   },
   {
@@ -2900,7 +2900,7 @@
     "city": "Santo Domingo",
     "cityCountry": "Santo Domingo, Dominican Republic",
     "currencyCode": "DOP",
-    "costOfLiving": "45.50",
+    "costIndex": "45.50",
     "date": "17/01/2019"
   },
   {
@@ -2908,7 +2908,7 @@
     "city": "Sao Paulo",
     "cityCountry": "Sao Paulo, Brazil",
     "currencyCode": "BRL",
-    "costOfLiving": "47.00",
+    "costIndex": "47.00",
     "date": "17/01/2019"
   },
   {
@@ -2916,7 +2916,7 @@
     "city": "Sarajevo",
     "cityCountry": "Sarajevo, Bosnia And Herzegovina",
     "currencyCode": "BAM",
-    "costOfLiving": "39.60",
+    "costIndex": "39.60",
     "date": "17/01/2019"
   },
   {
@@ -2924,7 +2924,7 @@
     "city": "Saskatoon",
     "cityCountry": "Saskatoon, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "73.59",
+    "costIndex": "73.59",
     "date": "17/01/2019"
   },
   {
@@ -2932,7 +2932,7 @@
     "city": "Seattle",
     "cityCountry": "Seattle, WA, United States",
     "currencyCode": "USD",
-    "costOfLiving": "84.25",
+    "costIndex": "84.25",
     "date": "17/01/2019"
   },
   {
@@ -2940,7 +2940,7 @@
     "city": "Seoul",
     "cityCountry": "Seoul, South Korea",
     "currencyCode": "KRW",
-    "costOfLiving": "82.47",
+    "costIndex": "82.47",
     "date": "17/01/2019"
   },
   {
@@ -2948,7 +2948,7 @@
     "city": "Seville (Sevilla)",
     "cityCountry": "Seville (Sevilla), Spain",
     "currencyCode": "EUR",
-    "costOfLiving": "53.87",
+    "costIndex": "53.87",
     "date": "17/01/2019"
   },
   {
@@ -2956,7 +2956,7 @@
     "city": "Shanghai",
     "cityCountry": "Shanghai, China",
     "currencyCode": "CNY",
-    "costOfLiving": "51.19",
+    "costIndex": "51.19",
     "date": "17/01/2019"
   },
   {
@@ -2964,7 +2964,7 @@
     "city": "Sharjah",
     "cityCountry": "Sharjah, United Arab Emirates",
     "currencyCode": "AED",
-    "costOfLiving": "53.79",
+    "costIndex": "53.79",
     "date": "17/01/2019"
   },
   {
@@ -2972,7 +2972,7 @@
     "city": "Sheffield",
     "cityCountry": "Sheffield, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "61.29",
+    "costIndex": "61.29",
     "date": "17/01/2019"
   },
   {
@@ -2980,7 +2980,7 @@
     "city": "Shenzhen",
     "cityCountry": "Shenzhen, China",
     "currencyCode": "CNY",
-    "costOfLiving": "40.56",
+    "costIndex": "40.56",
     "date": "17/01/2019"
   },
   {
@@ -2988,7 +2988,7 @@
     "city": "Sibiu",
     "cityCountry": "Sibiu, Romania",
     "currencyCode": "RON",
-    "costOfLiving": "34.98",
+    "costIndex": "34.98",
     "date": "17/01/2019"
   },
   {
@@ -2996,7 +2996,7 @@
     "city": "Singapore",
     "cityCountry": "Singapore, Singapore",
     "currencyCode": "SGD",
-    "costOfLiving": "70.31",
+    "costIndex": "70.31",
     "date": "17/01/2019"
   },
   {
@@ -3004,7 +3004,7 @@
     "city": "Skopje",
     "cityCountry": "Skopje, Macedonia",
     "currencyCode": "MKD",
-    "costOfLiving": "34.82",
+    "costIndex": "34.82",
     "date": "17/01/2019"
   },
   {
@@ -3012,7 +3012,7 @@
     "city": "Sliema",
     "cityCountry": "Sliema, Malta",
     "currencyCode": "MTL",
-    "costOfLiving": "66.95",
+    "costIndex": "66.95",
     "date": "17/01/2019"
   },
   {
@@ -3020,7 +3020,7 @@
     "city": "Sofia",
     "cityCountry": "Sofia, Bulgaria",
     "currencyCode": "BGN",
-    "costOfLiving": "40.53",
+    "costIndex": "40.53",
     "date": "17/01/2019"
   },
   {
@@ -3028,7 +3028,7 @@
     "city": "Southampton",
     "cityCountry": "Southampton, United Kingdom",
     "currencyCode": "GBP",
-    "costOfLiving": "63.24",
+    "costIndex": "63.24",
     "date": "17/01/2019"
   },
   {
@@ -3036,7 +3036,7 @@
     "city": "Split",
     "cityCountry": "Split, Croatia",
     "currencyCode": "HRK",
-    "costOfLiving": "52.03",
+    "costIndex": "52.03",
     "date": "17/01/2019"
   },
   {
@@ -3044,7 +3044,7 @@
     "city": "St. John's",
     "cityCountry": "St. John's, NL, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "74.91",
+    "costIndex": "74.91",
     "date": "17/01/2019"
   },
   {
@@ -3052,7 +3052,7 @@
     "city": "Stavanger",
     "cityCountry": "Stavanger, Norway",
     "currencyCode": "NOK",
-    "costOfLiving": "105.93",
+    "costIndex": "105.93",
     "date": "17/01/2019"
   },
   {
@@ -3060,7 +3060,7 @@
     "city": "Stockholm",
     "cityCountry": "Stockholm, Sweden",
     "currencyCode": "SEK",
-    "costOfLiving": "79.21",
+    "costIndex": "79.21",
     "date": "17/01/2019"
   },
   {
@@ -3068,7 +3068,7 @@
     "city": "Strasbourg",
     "cityCountry": "Strasbourg, France",
     "currencyCode": "EUR",
-    "costOfLiving": "76.40",
+    "costIndex": "76.40",
     "date": "17/01/2019"
   },
   {
@@ -3076,7 +3076,7 @@
     "city": "Stuttgart",
     "cityCountry": "Stuttgart, Germany",
     "currencyCode": "EUR",
-    "costOfLiving": "67.73",
+    "costIndex": "67.73",
     "date": "17/01/2019"
   },
   {
@@ -3084,7 +3084,7 @@
     "city": "Surabaya",
     "cityCountry": "Surabaya, Indonesia",
     "currencyCode": "IDR",
-    "costOfLiving": "37.11",
+    "costIndex": "37.11",
     "date": "17/01/2019"
   },
   {
@@ -3092,7 +3092,7 @@
     "city": "Surat",
     "cityCountry": "Surat, India",
     "currencyCode": "INR",
-    "costOfLiving": "23.26",
+    "costIndex": "23.26",
     "date": "17/01/2019"
   },
   {
@@ -3100,7 +3100,7 @@
     "city": "Suva",
     "cityCountry": "Suva, Fiji",
     "currencyCode": "FJD",
-    "costOfLiving": "50.16",
+    "costIndex": "50.16",
     "date": "17/01/2019"
   },
   {
@@ -3108,7 +3108,7 @@
     "city": "Sydney",
     "cityCountry": "Sydney, Australia",
     "currencyCode": "AUD",
-    "costOfLiving": "79.48",
+    "costIndex": "79.48",
     "date": "17/01/2019"
   },
   {
@@ -3116,7 +3116,7 @@
     "city": "Szczecin",
     "cityCountry": "Szczecin, Poland",
     "currencyCode": "PLN",
-    "costOfLiving": "38.51",
+    "costIndex": "38.51",
     "date": "17/01/2019"
   },
   {
@@ -3124,7 +3124,7 @@
     "city": "Szeged",
     "cityCountry": "Szeged, Hungary",
     "currencyCode": "HUF",
-    "costOfLiving": "38.06",
+    "costIndex": "38.06",
     "date": "17/01/2019"
   },
   {
@@ -3132,7 +3132,7 @@
     "city": "Taipei",
     "cityCountry": "Taipei, Taiwan",
     "currencyCode": "TWD",
-    "costOfLiving": "63.20",
+    "costIndex": "63.20",
     "date": "17/01/2019"
   },
   {
@@ -3140,7 +3140,7 @@
     "city": "Tallinn",
     "cityCountry": "Tallinn, Estonia",
     "currencyCode": "EEK",
-    "costOfLiving": "53.23",
+    "costIndex": "53.23",
     "date": "17/01/2019"
   },
   {
@@ -3148,7 +3148,7 @@
     "city": "Tampa",
     "cityCountry": "Tampa, FL, United States",
     "currencyCode": "USD",
-    "costOfLiving": "71.67",
+    "costIndex": "71.67",
     "date": "17/01/2019"
   },
   {
@@ -3156,7 +3156,7 @@
     "city": "Tampere",
     "cityCountry": "Tampere, Finland",
     "currencyCode": "EUR",
-    "costOfLiving": "77.46",
+    "costIndex": "77.46",
     "date": "17/01/2019"
   },
   {
@@ -3164,7 +3164,7 @@
     "city": "Tartu",
     "cityCountry": "Tartu, Estonia",
     "currencyCode": "EEK",
-    "costOfLiving": "50.76",
+    "costIndex": "50.76",
     "date": "17/01/2019"
   },
   {
@@ -3172,7 +3172,7 @@
     "city": "Tashkent",
     "cityCountry": "Tashkent, Uzbekistan",
     "currencyCode": "UZS",
-    "costOfLiving": "28.18",
+    "costIndex": "28.18",
     "date": "17/01/2019"
   },
   {
@@ -3180,7 +3180,7 @@
     "city": "Tbilisi",
     "cityCountry": "Tbilisi, Georgia",
     "currencyCode": "GEL",
-    "costOfLiving": "28.74",
+    "costIndex": "28.74",
     "date": "17/01/2019"
   },
   {
@@ -3188,7 +3188,7 @@
     "city": "Tehran",
     "cityCountry": "Tehran, Iran",
     "currencyCode": "IRR",
-    "costOfLiving": "39.62",
+    "costIndex": "39.62",
     "date": "17/01/2019"
   },
   {
@@ -3196,7 +3196,7 @@
     "city": "Tel Aviv-Yafo",
     "cityCountry": "Tel Aviv-Yafo, Israel",
     "currencyCode": "ILS",
-    "costOfLiving": "79.73",
+    "costIndex": "79.73",
     "date": "17/01/2019"
   },
   {
@@ -3204,7 +3204,7 @@
     "city": "Thane",
     "cityCountry": "Thane, India",
     "currencyCode": "INR",
-    "costOfLiving": "25.64",
+    "costIndex": "25.64",
     "date": "17/01/2019"
   },
   {
@@ -3212,7 +3212,7 @@
     "city": "The Hague (Den Haag)",
     "cityCountry": "The Hague (Den Haag), Netherlands",
     "currencyCode": "EUR",
-    "costOfLiving": "76.97",
+    "costIndex": "76.97",
     "date": "17/01/2019"
   },
   {
@@ -3220,7 +3220,7 @@
     "city": "Thessaloniki",
     "cityCountry": "Thessaloniki, Greece",
     "currencyCode": "EUR",
-    "costOfLiving": "56.84",
+    "costIndex": "56.84",
     "date": "17/01/2019"
   },
   {
@@ -3228,7 +3228,7 @@
     "city": "Thiruvananthapuram",
     "cityCountry": "Thiruvananthapuram, India",
     "currencyCode": "INR",
-    "costOfLiving": "19.75",
+    "costIndex": "19.75",
     "date": "17/01/2019"
   },
   {
@@ -3236,7 +3236,7 @@
     "city": "Tijuana",
     "cityCountry": "Tijuana, Mexico",
     "currencyCode": "MXN",
-    "costOfLiving": "36.93",
+    "costIndex": "36.93",
     "date": "17/01/2019"
   },
   {
@@ -3244,7 +3244,7 @@
     "city": "Timisoara",
     "cityCountry": "Timisoara, Romania",
     "currencyCode": "RON",
-    "costOfLiving": "37.34",
+    "costIndex": "37.34",
     "date": "17/01/2019"
   },
   {
@@ -3252,7 +3252,7 @@
     "city": "Tirana",
     "cityCountry": "Tirana, Albania",
     "currencyCode": "ALL",
-    "costOfLiving": "37.20",
+    "costIndex": "37.20",
     "date": "17/01/2019"
   },
   {
@@ -3260,7 +3260,7 @@
     "city": "Tokyo",
     "cityCountry": "Tokyo, Japan",
     "currencyCode": "JPY",
-    "costOfLiving": "88.67",
+    "costIndex": "88.67",
     "date": "17/01/2019"
   },
   {
@@ -3268,7 +3268,7 @@
     "city": "Toronto",
     "cityCountry": "Toronto, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "81.32",
+    "costIndex": "81.32",
     "date": "17/01/2019"
   },
   {
@@ -3276,7 +3276,7 @@
     "city": "Toulouse",
     "cityCountry": "Toulouse, France",
     "currencyCode": "EUR",
-    "costOfLiving": "74.86",
+    "costIndex": "74.86",
     "date": "17/01/2019"
   },
   {
@@ -3284,7 +3284,7 @@
     "city": "Trondheim",
     "cityCountry": "Trondheim, Norway",
     "currencyCode": "NOK",
-    "costOfLiving": "99.77",
+    "costIndex": "99.77",
     "date": "17/01/2019"
   },
   {
@@ -3292,7 +3292,7 @@
     "city": "Tucson",
     "cityCountry": "Tucson, AZ, United States",
     "currencyCode": "USD",
-    "costOfLiving": "69.14",
+    "costIndex": "69.14",
     "date": "17/01/2019"
   },
   {
@@ -3300,7 +3300,7 @@
     "city": "Tulsa",
     "cityCountry": "Tulsa, OK, United States",
     "currencyCode": "USD",
-    "costOfLiving": "63.28",
+    "costIndex": "63.28",
     "date": "17/01/2019"
   },
   {
@@ -3308,7 +3308,7 @@
     "city": "Tunis",
     "cityCountry": "Tunis, Tunisia",
     "currencyCode": "TND",
-    "costOfLiving": "25.28",
+    "costIndex": "25.28",
     "date": "17/01/2019"
   },
   {
@@ -3316,7 +3316,7 @@
     "city": "Turin",
     "cityCountry": "Turin, Italy",
     "currencyCode": "EUR",
-    "costOfLiving": "69.15",
+    "costIndex": "69.15",
     "date": "17/01/2019"
   },
   {
@@ -3324,7 +3324,7 @@
     "city": "Ulaanbaatar",
     "cityCountry": "Ulaanbaatar, Mongolia",
     "currencyCode": "MNT",
-    "costOfLiving": "35.39",
+    "costIndex": "35.39",
     "date": "17/01/2019"
   },
   {
@@ -3332,7 +3332,7 @@
     "city": "Uppsala",
     "cityCountry": "Uppsala, Sweden",
     "currencyCode": "SEK",
-    "costOfLiving": "71.38",
+    "costIndex": "71.38",
     "date": "17/01/2019"
   },
   {
@@ -3340,7 +3340,7 @@
     "city": "Utrecht",
     "cityCountry": "Utrecht, Netherlands",
     "currencyCode": "EUR",
-    "costOfLiving": "77.14",
+    "costIndex": "77.14",
     "date": "17/01/2019"
   },
   {
@@ -3348,7 +3348,7 @@
     "city": "Vadodara",
     "cityCountry": "Vadodara, India",
     "currencyCode": "INR",
-    "costOfLiving": "21.83",
+    "costIndex": "21.83",
     "date": "17/01/2019"
   },
   {
@@ -3356,7 +3356,7 @@
     "city": "Valencia",
     "cityCountry": "Valencia, Spain",
     "currencyCode": "EUR",
-    "costOfLiving": "54.26",
+    "costIndex": "54.26",
     "date": "17/01/2019"
   },
   {
@@ -3364,7 +3364,7 @@
     "city": "Vancouver",
     "cityCountry": "Vancouver, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "68.53",
+    "costIndex": "68.53",
     "date": "17/01/2019"
   },
   {
@@ -3372,7 +3372,7 @@
     "city": "Varna",
     "cityCountry": "Varna, Bulgaria",
     "currencyCode": "BGN",
-    "costOfLiving": "38.97",
+    "costIndex": "38.97",
     "date": "17/01/2019"
   },
   {
@@ -3380,7 +3380,7 @@
     "city": "Victoria",
     "cityCountry": "Victoria, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "68.12",
+    "costIndex": "68.12",
     "date": "17/01/2019"
   },
   {
@@ -3388,7 +3388,7 @@
     "city": "Vienna",
     "cityCountry": "Vienna, Austria",
     "currencyCode": "EUR",
-    "costOfLiving": "69.39",
+    "costIndex": "69.39",
     "date": "17/01/2019"
   },
   {
@@ -3396,7 +3396,7 @@
     "city": "Vijayawada",
     "cityCountry": "Vijayawada, India",
     "currencyCode": "INR",
-    "costOfLiving": "20.14",
+    "costIndex": "20.14",
     "date": "17/01/2019"
   },
   {
@@ -3404,7 +3404,7 @@
     "city": "Vilnius",
     "cityCountry": "Vilnius, Lithuania",
     "currencyCode": "LTL",
-    "costOfLiving": "48.50",
+    "costIndex": "48.50",
     "date": "17/01/2019"
   },
   {
@@ -3412,7 +3412,7 @@
     "city": "Visakhapatnam",
     "cityCountry": "Visakhapatnam, India",
     "currencyCode": "INR",
-    "costOfLiving": "20.28",
+    "costIndex": "20.28",
     "date": "17/01/2019"
   },
   {
@@ -3420,7 +3420,7 @@
     "city": "Warsaw",
     "cityCountry": "Warsaw, Poland",
     "currencyCode": "PLN",
-    "costOfLiving": "43.03",
+    "costIndex": "43.03",
     "date": "17/01/2019"
   },
   {
@@ -3428,7 +3428,7 @@
     "city": "Washington",
     "cityCountry": "Washington, DC, United States",
     "currencyCode": "USD",
-    "costOfLiving": "92.07",
+    "costIndex": "92.07",
     "date": "17/01/2019"
   },
   {
@@ -3436,7 +3436,7 @@
     "city": "Wellington",
     "cityCountry": "Wellington, New Zealand",
     "currencyCode": "NZD",
-    "costOfLiving": "74.05",
+    "costIndex": "74.05",
     "date": "17/01/2019"
   },
   {
@@ -3444,7 +3444,7 @@
     "city": "Windhoek",
     "cityCountry": "Windhoek, Namibia",
     "currencyCode": "NAD",
-    "costOfLiving": "45.54",
+    "costIndex": "45.54",
     "date": "17/01/2019"
   },
   {
@@ -3452,7 +3452,7 @@
     "city": "Winnipeg",
     "cityCountry": "Winnipeg, Canada",
     "currencyCode": "CAD",
-    "costOfLiving": "61.29",
+    "costIndex": "61.29",
     "date": "17/01/2019"
   },
   {
@@ -3460,7 +3460,7 @@
     "city": "Wroclaw",
     "cityCountry": "Wroclaw, Poland",
     "currencyCode": "PLN",
-    "costOfLiving": "41.62",
+    "costIndex": "41.62",
     "date": "17/01/2019"
   },
   {
@@ -3468,7 +3468,7 @@
     "city": "Yangon",
     "cityCountry": "Yangon, Myanmar",
     "currencyCode": "MMK",
-    "costOfLiving": "55.17",
+    "costIndex": "55.17",
     "date": "17/01/2019"
   },
   {
@@ -3476,7 +3476,7 @@
     "city": "Yekaterinburg",
     "cityCountry": "Yekaterinburg, Russia",
     "currencyCode": "RUB",
-    "costOfLiving": "34.14",
+    "costIndex": "34.14",
     "date": "17/01/2019"
   },
   {
@@ -3484,7 +3484,7 @@
     "city": "Yerevan",
     "cityCountry": "Yerevan, Armenia",
     "currencyCode": "AMD",
-    "costOfLiving": "32.62",
+    "costIndex": "32.62",
     "date": "17/01/2019"
   },
   {
@@ -3492,7 +3492,7 @@
     "city": "Zagreb",
     "cityCountry": "Zagreb, Croatia",
     "currencyCode": "HRK",
-    "costOfLiving": "51.49",
+    "costIndex": "51.49",
     "date": "17/01/2019"
   },
   {
@@ -3500,7 +3500,7 @@
     "city": "Zurich",
     "cityCountry": "Zurich, Switzerland",
     "currencyCode": "CHF",
-    "costOfLiving": "127.20",
+    "costIndex": "127.20",
     "date": "17/01/2019"
   }
 ]
