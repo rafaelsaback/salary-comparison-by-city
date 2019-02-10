@@ -1,5 +1,5 @@
 import {SET_SRC_SALARY} from '../actions';
-import {UPDATE_EXCHANGE_RATE} from '../actions';
+import {FETCH_EXCHANGE_RATE} from '../actions';
 import {CALC_TGT_SALARY} from '../actions';
 
 function salaryReducer(state = {}, action) {
@@ -9,19 +9,19 @@ function salaryReducer(state = {}, action) {
         srcSalary: action.value
       });
     }
-    case UPDATE_EXCHANGE_RATE: {
-      const srcCurrency = action.srcLocation.currency;
-      const tgtCurrency = action.tgtLocation.currency;
-      const exchangeRate = getExchangeRate(srcCurrency, tgtCurrency);
-      return Object.assign({}, state, {
-        exchangeRate,
-      });
-    }
+    // case FETCH_EXCHANGE_RATE: {
+    //   const srcCurrency = action.srcLocation.currency;
+    //   const tgtCurrency = action.tgtLocation.currency;
+    //   const exchangeRate = getExchangeRate(srcCurrency, tgtCurrency);
+    //   return Object.assign({}, state, {
+    //     exchangeRate,
+    //   });
+    // }
     case CALC_TGT_SALARY: {
       const srcCostIndex = action.srcLocation.costIndex;
       const tgtCostIndex = action.tgtLocation.costIndex;
       let tgtSalary = action.srcSalary * (tgtCostIndex / srcCostIndex);
-      const tgtConvSalary = Math.round(tgtSalary * state.exchangeRate);
+      const tgtConvSalary = Math.round(tgtSalary * action.exchangeRate);
       tgtSalary = Math.round(tgtSalary);
       return Object.assign({}, state, {
         tgtSalary,
