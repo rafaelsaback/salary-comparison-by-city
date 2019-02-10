@@ -11,10 +11,10 @@ function InputCity(props) {
     >
       {props.getFieldDecorator(props.fieldID, {
         rules: [{ required: true, message: props.errorMessage }],
+        initialValue: "Warsaw, Poland",
       })(
       <Select
         showSearch
-        style={{ width: 200 }}
         placeholder="Select a city"
         optionFilterProp="children"
         filterOption={(input, option) => option.props.children.toLowerCase().indexOf(input.toLowerCase()) >= 0}

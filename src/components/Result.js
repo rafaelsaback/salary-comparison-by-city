@@ -1,11 +1,15 @@
 import { connect } from 'react-redux';
 
-function Result({srcSalary, srcCurrency, srcCity, tgtSalary, tgtConvSalary, tgtCurrency, tgtCity}) {
-  return (
-    <p>
-      A net salary of <strong> {srcCurrency} {srcSalary} in {srcCity} </strong> is equivalent to a net salary of <strong> {tgtCurrency} {tgtConvSalary} in {tgtCity} </strong>.
-    </p>
+function Result({srcSalary, srcCurrency, srcCity, tgtSalary, tgtConvSalary, tgtCurrency, tgtCity, showResults}) {
+  return (showResults ?
+    (
+      <div className="results-ctn">
+          In {srcCity}, a net salary of <strong> {srcCurrency} {srcSalary}</strong> will give you the same purchasing power than a net salary of <strong> {tgtCurrency} {tgtConvSalary}</strong> in {tgtCity}.
+      </div>
+    ) :
+    null
   );
+
 }
 
 const mapStateToProps = (state) => {
@@ -18,8 +22,8 @@ const mapStateToProps = (state) => {
     tgtConvSalary: state.salary.tgtConvSalary,
     tgtCurrency: state.tgtLocation.currency,
     tgtCity: state.tgtLocation.city,
+    showResults: state.showResults,
   };
 }
 
 export default connect(mapStateToProps)(Result);
-// export default Result;

@@ -1,11 +1,12 @@
 import { connect } from 'react-redux';
 import InputFormPres from '../components/InputForm';
-import { setSrcLocation } from '../actions';
-import { setTgtLocation } from '../actions';
-import { setSrcSalary } from '../actions';
-import { calcTgtSalary } from '../actions';
-import { updateExchangeRate } from '../actions';
-
+import { setSrcLocation,
+  setTgtLocation,
+  setSrcSalary,
+  calcTgtSalary,
+  updateExchangeRate,
+  showResults,
+} from '../actions';
 
 const mapDispatchToProps = (dispatch) => {
   return {
@@ -15,6 +16,7 @@ const mapDispatchToProps = (dispatch) => {
       dispatch(setSrcSalary(input.salary));
       dispatch(updateExchangeRate());
       dispatch(calcTgtSalary(input.salary));
+      dispatch(showResults());
     }
   }
 }

@@ -30,8 +30,9 @@ class InputForm extends React.Component {
      // Only show error after a field is touched.
     const salaryError = isFieldTouched('salary') && getFieldError('salary');
     return (
-      <Form layout="vertical" onSubmit={(e) => 
-        this.handleSubmit(e, this.props.onSubmit) 
+      <Form
+        layout="vertical"
+        onSubmit={(e) => this.handleSubmit(e, this.props.onSubmit) 
         }>
         <InputCity
           fieldID="srcCity"
