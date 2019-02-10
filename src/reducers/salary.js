@@ -34,16 +34,11 @@ function salaryReducer(state = {}, action) {
 
 function getExchangeRate(srcCurrency, tgtCurrency) {
   const request = new XMLHttpRequest();
-  request.ontimeout = function() {
-    console.error('Sorry, we\'re not able to get the exchange rate');
-  }
-  return 1;
-  // const url=`http://free.currencyconverterapi.com/api/v5/convert?q=${srcCurrency}_${tgtCurrency}&compact=y`;
-  // request.open("GET", url, true);
-  // request.timeout = 5000;
-  // request.send();
-  // const json = JSON.parse(request.responseText); 
-  // return (json[Object.keys(json)[0]].val);
+  const url=`http://free.currencyconverterapi.com/api/v5/convert?q=${srcCurrency}_${tgtCurrency}&compact=y`;
+  request.open("GET", url, false);
+  request.send();
+  const json = JSON.parse(request.responseText); 
+  return (json[Object.keys(json)[0]].val);
 }
 
 export default salaryReducer;

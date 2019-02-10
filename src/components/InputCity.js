@@ -11,7 +11,6 @@ function InputCity(props) {
     >
       {props.getFieldDecorator(props.fieldID, {
         rules: [{ required: true, message: props.errorMessage }],
-        initialValue: "Warsaw, Poland",
       })(
       <Select
         showSearch

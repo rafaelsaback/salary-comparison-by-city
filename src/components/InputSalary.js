@@ -1,7 +1,7 @@
 import { InputNumber, Form } from 'antd';
 
 function InputSalary(props) {
-  const currency = "BRL";
+  const currency = "";
   return (
     <Form.Item 
       label="Net salary"
@@ -10,7 +10,6 @@ function InputSalary(props) {
     >
       {props.getFieldDecorator(props.fieldID, {
         rules: [{ required: true, message: props.errorMessage }],
-        initialValue: 5000,
       })(
         <InputNumber
           min={0}
