@@ -1,7 +1,13 @@
 module.exports = {
-  "extends": "airbnb",
+  "extends": [
+    "airbnb",
+    "prettier",
+  ],
+  "parser": "babel-eslint",
+  "plugins": ["prettier"],
   "rules": {
     "import/no-unresolved": "off",
+    "prettier/prettier": ["error"],
   },
   "env": {
     "browser": true,
