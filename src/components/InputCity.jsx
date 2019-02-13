@@ -24,8 +24,10 @@ function InputCity(props) {
             0
           }
         >
-          {cities.map((city, i) => (
-            <Option value={city} key={i}>{city}</Option>
+          {cities.map(city => (
+            <Option key={city.id} value={city.name}>
+              {city.name}
+            </Option>
           ))}
         </Select>
       )}
@@ -34,7 +36,12 @@ function InputCity(props) {
 }
 
 InputCity.propTypes = {
-  cities: PropTypes.arrayOf(PropTypes.string).isRequired,
+  cities: PropTypes.arrayOf(
+    PropTypes.shape({
+      id: PropTypes.number,
+      name: PropTypes.string,
+    })
+  ).isRequired,
   isError: PropTypes.bool.isRequired,
   fieldID: PropTypes.string.isRequired,
   errorMessage: PropTypes.string.isRequired,

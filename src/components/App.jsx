@@ -89,11 +89,17 @@ class App extends React.Component {
       showResults,
       isLoading,
     } = this.state;
-    const cityNames = cities.map(item => item.cityCountry);
+    const citiesInfo = cities.map(item => {
+      return {
+        id: item.id,
+        name: item.cityCountry,
+        currency: item.currencyCode,
+      };
+    });
     return (
       <div>
         <InputForm
-          cities={cityNames}
+          cities={citiesInfo}
           srcCurrency={srcLocation.currency}
           setInputFormStates={this.setInputFormStates}
         />

@@ -6,10 +6,6 @@ import InputCity from './InputCity';
 import InputSalary from './InputSalary';
 
 class InputForm extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   componentDidMount() {
     // To disable submit button at the beginning.
     const { form } = this.props;
@@ -31,7 +27,10 @@ class InputForm extends React.Component {
 
     // Only show error after a field is touched.
     const salaryError =
-      form.isFieldTouched('salary') && form.getFieldError('salary') || false;
+      (form.isFieldTouched('salary') && form.getFieldError('salary')) || false;
+    const citiesInfo = cities.map(city => {
+      return { id: city.id, name: city.name };
+    });
     return (
       <Form layout="vertical" onSubmit={this.handleSubmit}>
         <InputCity
@@ -39,7 +38,7 @@ class InputForm extends React.Component {
           isError={salaryError}
           getFieldDecorator={form.getFieldDecorator}
           errorMessage="Please select a source city!"
-          cities={cities}
+          cities={citiesInfo}
         />
         <InputSalary
           fieldID="salary"
@@ -53,7 +52,7 @@ class InputForm extends React.Component {
           isError={salaryError}
           getFieldDecorator={form.getFieldDecorator}
           errorMessage="Please select a target city!"
-          cities={cities}
+          cities={citiesInfo}
         />
         <Button type="primary" htmlType="submit">
           Calculate
@@ -68,7 +67,13 @@ InputForm.propTypes = {
     isFieldTouched: PropTypes.func,
     getFieldError: PropTypes.func,
   }),
-  cities: PropTypes.arrayOf(PropTypes.string).isRequired,
+  cities: PropTypes.arrayOf(
+    PropTypes.shape({
+      id: PropTypes.number,
+      name: PropTypes.string,
+      currency: PropTypes.string,
+    })
+  ).isRequired,
   srcCurrency: PropTypes.string.isRequired,
   setInputFormStates: PropTypes.func.isRequired,
 };
