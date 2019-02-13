@@ -1,5 +1,4 @@
 import React from 'react';
-import { Spin } from 'antd';
 
 import InputForm from './InputForm';
 import Result from './Result';
@@ -67,8 +66,12 @@ class App extends React.Component {
 
   fetchExchangeRate = (srcCurrency, tgtCurrency) => {
     const { exchangeRateCache } = this.state;
+    // API used by Grzegorz
     const baseUrl = 'https://api.exchangeratesapi.io/latest?';
     const url = `${baseUrl}base=${srcCurrency}&symbols=${tgtCurrency}`;
+    // Other API to test
+    // const baseUrl = '';
+    // const url = `${baseUrl}base=${srcCurrency}&symbols=${tgtCurrency}`;
     fetch(url)
       .then(response => response.json())
       .then(data => {

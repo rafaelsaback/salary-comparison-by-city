@@ -92,5 +92,12 @@ InputForm.propTypes = {
   setInputFormStates: PropTypes.func.isRequired,
 };
 
+InputForm.defaultProps = {
+  form: {
+    isFieldTouched: () => {},
+    getFieldError: () => {},
+  },
+};
+
 const WrappedInputForm = Form.create({ name: 'input_form' })(InputForm);
 export default WrappedInputForm;
