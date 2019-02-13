@@ -1,13 +1,20 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+const formatSalary = salary => {
+  const strSalary = typeof salary === 'number' ? salary.toString() : salary;
+  return strSalary.replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+};
+
 const Result = ({ srcLocation, tgtLocation, salary }) => {
+  const srcSalary = formatSalary(salary.source);
+  const convTgtSalary = formatSalary(salary.convTarget);
   return (
     <div className="results-ctnr">
       {`In ${srcLocation.city}, a net salary of `}
-      <strong>{`${srcLocation.currency} ${salary.source} `}</strong>
+      <strong>{`${srcLocation.currency} ${srcSalary} `}</strong>
       will give you the same purchasing power than a net salary of
-      <strong>{` ${tgtLocation.currency} ${salary.convTarget} `}</strong>
+      <strong>{` ${tgtLocation.currency} ${convTgtSalary} `}</strong>
       {`in ${tgtLocation.city}.`}
     </div>
   );
