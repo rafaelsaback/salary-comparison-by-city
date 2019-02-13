@@ -5,7 +5,14 @@ import { Select, Form } from 'antd';
 const { Option } = Select;
 
 function InputCity(props) {
-  const { cities, isError, fieldID, errorMessage, getFieldDecorator } = props;
+  const {
+    cities,
+    isError,
+    fieldID,
+    errorMessage,
+    getFieldDecorator,
+    onChange,
+  } = props;
   return (
     <Form.Item
       label="City"
@@ -19,6 +26,7 @@ function InputCity(props) {
           showSearch
           placeholder="Select a city"
           optionFilterProp="children"
+          onChange={onChange}
           filterOption={(input, option) =>
             option.props.children.toLowerCase().indexOf(input.toLowerCase()) >=
             0
@@ -46,6 +54,11 @@ InputCity.propTypes = {
   fieldID: PropTypes.string.isRequired,
   errorMessage: PropTypes.string.isRequired,
   getFieldDecorator: PropTypes.func.isRequired,
+  onChange: PropTypes.func,
+};
+
+InputCity.defaultProps = {
+  onChange: () => {},
 };
 
 export default InputCity;

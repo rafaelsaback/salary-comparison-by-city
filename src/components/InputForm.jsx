@@ -6,6 +6,11 @@ import InputCity from './InputCity';
 import InputSalary from './InputSalary';
 
 class InputForm extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { currency: '' };
+  }
+
   componentDidMount() {
     // To disable submit button at the beginning.
     const { form } = this.props;
@@ -22,8 +27,17 @@ class InputForm extends React.Component {
     });
   };
 
+  onCityChange = city => {
+    const { cities } = this.props;
+    const [currency] = cities
+      .filter(item => item.name === city)
+      .map(item => item.currency);
+    this.setState({ currency });
+  };
+
   render() {
-    const { form, cities, srcCurrency } = this.props;
+    const { form, cities } = this.props;
+    const { currency } = this.state;
 
     // Only show error after a field is touched.
     const salaryError =
@@ -39,13 +53,14 @@ class InputForm extends React.Component {
           getFieldDecorator={form.getFieldDecorator}
           errorMessage="Please select a source city!"
           cities={citiesInfo}
+          onChange={this.onCityChange}
         />
         <InputSalary
           fieldID="salary"
           isError={salaryError}
           getFieldDecorator={form.getFieldDecorator}
           errorMessage="Please input a salary!"
-          currency={srcCurrency}
+          currency={currency}
         />
         <InputCity
           fieldID="tgtCity"
@@ -74,7 +89,6 @@ InputForm.propTypes = {
       currency: PropTypes.string,
     })
   ).isRequired,
-  srcCurrency: PropTypes.string.isRequired,
   setInputFormStates: PropTypes.func.isRequired,
 };
 
