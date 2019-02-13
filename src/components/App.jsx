@@ -28,7 +28,7 @@ class App extends React.Component {
         tgtLocation,
         salary: { ...prevState.salary, source: srcSalary },
       };
-    }, this.fetchExchangeRate);
+    }, this.getExchangeRate);
   };
 
   getLocationInfo = filterCity => {
@@ -43,32 +43,41 @@ class App extends React.Component {
       })[0];
   };
 
-  fetchExchangeRate = () => {
+  getExchangeRate = () => {
     const { srcLocation, tgtLocation, exchangeRateCache } = this.state;
     const srcCurrency = srcLocation.currency;
     const tgtCurrency = tgtLocation.currency;
-    let exchangeRate = exchangeRateCache[`${srcCurrency}_${tgtCurrency}`];
+
+    if (srcCurrency === tgtCurrency) {
+      this.setState({ exchangeRate: 1 }, this.calcTgtSalary);
+      return;
+    }
+
+    // Check if an exchange rate has already been fetched
+    const exchangeRate = exchangeRateCache[`${srcCurrency}_${tgtCurrency}`];
 
     if (exchangeRate) {
       this.setState({ exchangeRate }, this.calcTgtSalary);
     } else {
-      const baseUrl = 'https://api.exchangeratesapi.io/latest?';
-      const url = `${baseUrl}base=${srcCurrency}&symbols=${tgtCurrency}`;
-      fetch(url)
-        .then(response => response.json())
-        .then(data => {
-          exchangeRate = data.rates[tgtCurrency];
-          const newRateObj = {};
-          newRateObj[`${srcCurrency}_${tgtCurrency}`] = exchangeRate;
-          newRateObj[`${tgtCurrency}_${srcCurrency}`] =
-            1 / data.rates[tgtCurrency];
-          Object.assign(exchangeRateCache, newRateObj);
-          this.setState(
-            { exchangeRate, exchangeRateCache },
-            this.calcTgtSalary
-          );
-        });
+      this.fetchExchangeRate(srcCurrency, tgtCurrency);
     }
+  };
+
+  fetchExchangeRate = (srcCurrency, tgtCurrency) => {
+    const { exchangeRateCache } = this.state;
+    const baseUrl = 'https://api.exchangeratesapi.io/latest?';
+    const url = `${baseUrl}base=${srcCurrency}&symbols=${tgtCurrency}`;
+    fetch(url)
+      .then(response => response.json())
+      .then(data => {
+        const exchangeRate = data.rates[tgtCurrency];
+        const newRateObj = {};
+        newRateObj[`${srcCurrency}_${tgtCurrency}`] = exchangeRate;
+        newRateObj[`${tgtCurrency}_${srcCurrency}`] =
+          1 / data.rates[tgtCurrency];
+        Object.assign(exchangeRateCache, newRateObj);
+        this.setState({ exchangeRate, exchangeRateCache }, this.calcTgtSalary);
+      });
   };
 
   calcTgtSalary = () => {
