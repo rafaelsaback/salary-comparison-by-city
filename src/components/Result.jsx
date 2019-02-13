@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 const Result = ({ srcLocation, tgtLocation, salary }) => {
   return (
-    <div className="results-ctn">
+    <div className="results-ctnr">
       {`In ${srcLocation.city}, a net salary of `}
       <strong>{`${srcLocation.currency} ${salary.source} `}</strong>
       will give you the same purchasing power than a net salary of

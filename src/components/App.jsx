@@ -1,7 +1,9 @@
 import React from 'react';
+import { Spin } from 'antd';
 
 import InputForm from './InputForm';
 import Result from './Result';
+import Loading from './Loading';
 import cities from '../../extras/parsedData.json';
 
 class App extends React.Component {
@@ -119,7 +121,7 @@ class App extends React.Component {
             salary={salary}
           />
         )}
-        {isLoading && <div> Loading ... </div>}
+        {isLoading && <Loading />}
       </div>
     );
   }
