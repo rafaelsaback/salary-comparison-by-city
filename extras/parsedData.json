@@ -1,3506 +1,3944 @@
 [
   {
     "country": "Germany",
+    "id": 141,
     "city": "Aachen",
     "cityCountry": "Aachen, Germany",
     "currencyCode": "EUR",
     "costIndex": "67.84",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Denmark",
+    "id": 26,
     "city": "Aalborg",
     "cityCountry": "Aalborg, Denmark",
     "currencyCode": "DKK",
     "costIndex": "82.46",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 88,
     "city": "Aberdeen",
     "cityCountry": "Aberdeen, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "72.18",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Arab Emirates",
+    "id": 186,
     "city": "Abu Dhabi",
     "cityCountry": "Abu Dhabi, United Arab Emirates",
     "currencyCode": "AED",
     "costIndex": "62.79",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ghana",
+    "id": 232,
     "city": "Accra",
     "cityCountry": "Accra, Ghana",
     "currencyCode": "GHS",
     "costIndex": "53.07",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Saudi Arabia",
+    "id": 255,
     "city": "Ad Dammam",
     "cityCountry": "Ad Dammam, Saudi Arabia",
     "currencyCode": "SAR",
     "costIndex": "48.67",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Australia",
+    "id": 136,
     "city": "Adelaide",
     "cityCountry": "Adelaide, Australia",
     "currencyCode": "AUD",
     "costIndex": "68.25",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 419,
     "city": "Ahmedabad",
     "cityCountry": "Ahmedabad, India",
     "currencyCode": "INR",
     "costIndex": "23.82",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Arab Emirates",
+    "id": 233,
     "city": "Ajman",
     "cityCountry": "Ajman, United Arab Emirates",
     "currencyCode": "AED",
     "costIndex": "52.88",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Arab Emirates",
+    "id": 201,
     "city": "Al Ain",
     "cityCountry": "Al Ain, United Arab Emirates",
     "currencyCode": "AED",
     "costIndex": "60.16",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Saudi Arabia",
+    "id": 223,
     "city": "Al Khobar",
     "cityCountry": "Al Khobar, Saudi Arabia",
     "currencyCode": "SAR",
     "costIndex": "54.75",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 38,
     "city": "Albany",
     "cityCountry": "Albany, NY, United States",
     "currencyCode": "USD",
     "costIndex": "78.66",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 167,
     "city": "Albuquerque",
     "cityCountry": "Albuquerque, NM, United States",
     "currencyCode": "USD",
     "costIndex": "65.05",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Egypt",
+    "id": 409,
     "city": "Alexandria",
     "cityCountry": "Alexandria, Egypt",
     "currencyCode": "EGP",
     "costIndex": "25.51",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Algeria",
+    "id": 373,
     "city": "Algiers",
     "cityCountry": "Algiers, Algeria",
     "currencyCode": "DZD",
     "costIndex": "33.26",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Spain",
+    "id": 228,
     "city": "Alicante",
     "cityCountry": "Alicante, Spain",
     "currencyCode": "EUR",
     "costIndex": "53.99",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Kazakhstan",
+    "id": 392,
     "city": "Almaty",
     "cityCountry": "Almaty, Kazakhstan",
     "currencyCode": "KZT",
     "costIndex": "30.01",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Jordan",
+    "id": 214,
     "city": "Amman",
     "cityCountry": "Amman, Jordan",
     "currencyCode": "JOD",
     "costIndex": "56.54",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Netherlands",
+    "id": 29,
     "city": "Amsterdam",
     "cityCountry": "Amsterdam, Netherlands",
     "currencyCode": "EUR",
     "costIndex": "80.87",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Turkey",
+    "id": 369,
     "city": "Ankara",
     "cityCountry": "Ankara, Turkey",
     "currencyCode": "TRY",
     "costIndex": "33.62",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Turkey",
+    "id": 386,
     "city": "Antalya",
     "cityCountry": "Antalya, Turkey",
     "currencyCode": "TRY",
     "costIndex": "31.61",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Belgium",
+    "id": 79,
     "city": "Antwerp",
     "cityCountry": "Antwerp, Belgium",
     "currencyCode": "EUR",
     "costIndex": "73.31",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Romania",
+    "id": 335,
     "city": "Arad",
     "cityCountry": "Arad, Romania",
     "currencyCode": "RON",
     "costIndex": "37.36",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Denmark",
+    "id": 30,
     "city": "Arhus",
     "cityCountry": "Arhus, Denmark",
     "currencyCode": "DKK",
     "costIndex": "80.74",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 99,
     "city": "Asheville",
     "cityCountry": "Asheville, NC, United States",
     "currencyCode": "USD",
     "costIndex": "70.73",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Kazakhstan",
+    "id": 384,
     "city": "Astana",
     "cityCountry": "Astana, Kazakhstan",
     "currencyCode": "KZT",
     "costIndex": "31.95",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Paraguay",
+    "id": 383,
     "city": "Asuncion",
     "cityCountry": "Asuncion, Paraguay",
     "currencyCode": "PYG",
     "costIndex": "32.10",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Greece",
+    "id": 206,
     "city": "Athens",
     "cityCountry": "Athens, Greece",
     "currencyCode": "EUR",
     "costIndex": "58.70",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 87,
     "city": "Atlanta",
     "cityCountry": "Atlanta, GA, United States",
     "currencyCode": "USD",
     "costIndex": "72.38",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "New Zealand",
+    "id": 40,
     "city": "Auckland",
     "cityCountry": "Auckland, New Zealand",
     "currencyCode": "NZD",
     "costIndex": "78.35",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 111,
     "city": "Austin",
     "cityCountry": "Austin, TX, United States",
     "currencyCode": "USD",
     "costIndex": "70.11",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Iraq",
+    "id": 277,
     "city": "Baghdad",
     "cityCountry": "Baghdad, Iraq",
     "currencyCode": "IQD",
     "costIndex": "45.43",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 145,
     "city": "Bakersfield",
     "cityCountry": "Bakersfield, CA, United States",
     "currencyCode": "USD",
     "costIndex": "67.49",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Azerbaijan",
+    "id": 394,
     "city": "Baku",
     "cityCountry": "Baku, Azerbaijan",
     "currencyCode": "AZN",
     "costIndex": "29.72",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Indonesia",
+    "id": 297,
     "city": "Bali",
     "cityCountry": "Bali, Indonesia",
     "currencyCode": "IDR",
     "costIndex": "41.72",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 59,
     "city": "Baltimore",
     "cityCountry": "Baltimore, MD, United States",
     "currencyCode": "USD",
     "costIndex": "75.33",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Indonesia",
+    "id": 354,
     "city": "Bandung",
     "cityCountry": "Bandung, Indonesia",
     "currencyCode": "IDR",
     "costIndex": "35.71",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 402,
     "city": "Bangalore",
     "cityCountry": "Bangalore, India",
     "currencyCode": "INR",
     "costIndex": "27.39",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Thailand",
+    "id": 219,
     "city": "Bangkok",
     "cityCountry": "Bangkok, Thailand",
     "currencyCode": "THB",
     "costIndex": "55.33",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Bosnia And Herzegovina",
+    "id": 343,
     "city": "Banja Luka",
     "cityCountry": "Banja Luka, Bosnia And Herzegovina",
     "currencyCode": "BAM",
     "costIndex": "36.57",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Spain",
+    "id": 195,
     "city": "Barcelona",
     "cityCountry": "Barcelona, Spain",
     "currencyCode": "EUR",
     "costIndex": "60.74",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Colombia",
+    "id": 382,
     "city": "Barranquilla",
     "cityCountry": "Barranquilla, Colombia",
     "currencyCode": "COP",
     "costIndex": "32.43",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Switzerland",
+    "id": 1,
     "city": "Basel",
     "cityCountry": "Basel, Switzerland",
     "currencyCode": "CHF",
     "costIndex": "132.10",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "China",
+    "id": 280,
     "city": "Beijing",
     "cityCountry": "Beijing, China",
     "currencyCode": "CNY",
     "costIndex": "44.42",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Lebanon",
+    "id": 198,
     "city": "Beirut",
     "cityCountry": "Beirut, Lebanon",
     "currencyCode": "LBP",
     "costIndex": "60.56",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 193,
     "city": "Belfast",
     "cityCountry": "Belfast, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "61.17",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Serbia",
+    "id": 315,
     "city": "Belgrade",
     "cityCountry": "Belgrade, Serbia",
     "currencyCode": "RSD",
     "costIndex": "39.59",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 53,
     "city": "Bellingham",
     "cityCountry": "Bellingham, WA, United States",
     "currencyCode": "USD",
     "costIndex": "75.86",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Brazil",
+    "id": 284,
     "city": "Belo Horizonte",
     "cityCountry": "Belo Horizonte, Brazil",
     "currencyCode": "BRL",
     "costIndex": "43.49",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Norway",
+    "id": 9,
     "city": "Bergen",
     "cityCountry": "Bergen, Norway",
     "currencyCode": "NOK",
     "costIndex": "101.88",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 129,
     "city": "Berlin",
     "cityCountry": "Berlin, Germany",
     "currencyCode": "EUR",
     "costIndex": "68.99",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Switzerland",
+    "id": 4,
     "city": "Bern",
     "cityCountry": "Bern, Switzerland",
     "currencyCode": "CHF",
     "costIndex": "123.78",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 426,
     "city": "Bhopal",
     "cityCountry": "Bhopal, India",
     "currencyCode": "INR",
     "costIndex": "22.92",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 429,
     "city": "Bhubaneswar",
     "cityCountry": "Bhubaneswar, India",
     "currencyCode": "INR",
     "costIndex": "22.44",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 179,
     "city": "Birmingham",
     "cityCountry": "Birmingham, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "63.67",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Kyrgyzstan",
+    "id": 406,
     "city": "Bishkek",
     "cityCountry": "Bishkek, Kyrgyzstan",
     "currencyCode": "KGS",
     "costIndex": "26.61",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Colombia",
+    "id": 376,
     "city": "Bogota",
     "cityCountry": "Bogota, Colombia",
     "currencyCode": "COP",
     "costIndex": "32.82",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 205,
     "city": "Boise",
     "cityCountry": "Boise, ID, United States",
     "currencyCode": "USD",
     "costIndex": "58.85",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Italy",
+    "id": 121,
     "city": "Bologna",
     "cityCountry": "Bologna, Italy",
     "currencyCode": "EUR",
     "costIndex": "69.47",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 116,
     "city": "Bonn",
     "cityCountry": "Bonn, Germany",
     "currencyCode": "EUR",
     "costIndex": "69.88",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 27,
     "city": "Boston",
     "cityCountry": "Boston, MA, United States",
     "currencyCode": "USD",
     "costIndex": "82.22",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Portugal",
+    "id": 245,
     "city": "Braga",
     "cityCountry": "Braga, Portugal",
     "currencyCode": "EUR",
     "costIndex": "50.48",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Brazil",
+    "id": 259,
     "city": "Brasilia",
     "cityCountry": "Brasilia, Brazil",
     "currencyCode": "BRL",
     "costIndex": "47.64",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Romania",
+    "id": 332,
     "city": "Brasov",
     "cityCountry": "Brasov, Romania",
     "currencyCode": "RON",
     "costIndex": "37.77",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Slovakia",
+    "id": 254,
     "city": "Bratislava",
     "cityCountry": "Bratislava, Slovakia",
     "currencyCode": "SKK",
     "costIndex": "48.78",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 120,
     "city": "Bremen",
     "cityCountry": "Bremen, Germany",
     "currencyCode": "EUR",
     "costIndex": "69.50",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 112,
     "city": "Brighton",
     "cityCountry": "Brighton, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "70.09",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Australia",
+    "id": 102,
     "city": "Brisbane",
     "cityCountry": "Brisbane, Australia",
     "currencyCode": "AUD",
     "costIndex": "70.43",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 115,
     "city": "Bristol",
     "cityCountry": "Bristol, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "69.92",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Czech Republic",
+    "id": 266,
     "city": "Brno",
     "cityCountry": "Brno, Czech Republic",
     "currencyCode": "CZK",
     "costIndex": "46.43",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 17,
     "city": "Brooklyn",
     "cityCountry": "Brooklyn, NY, United States",
     "currencyCode": "USD",
     "costIndex": "91.06",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Belgium",
+    "id": 54,
     "city": "Brussels",
     "cityCountry": "Brussels, Belgium",
     "currencyCode": "EUR",
     "costIndex": "75.79",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Romania",
+    "id": 316,
     "city": "Bucharest",
     "cityCountry": "Bucharest, Romania",
     "currencyCode": "RON",
     "costIndex": "39.58",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Hungary",
+    "id": 270,
     "city": "Budapest",
     "cityCountry": "Budapest, Hungary",
     "currencyCode": "HUF",
     "costIndex": "45.92",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Argentina",
+    "id": 350,
     "city": "Buenos Aires",
     "cityCountry": "Buenos Aires, Argentina",
     "currencyCode": "ARS",
     "costIndex": "35.89",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 100,
     "city": "Buffalo",
     "cityCountry": "Buffalo, NY, United States",
     "currencyCode": "USD",
     "costIndex": "70.58",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Bulgaria",
+    "id": 348,
     "city": "Burgas",
     "cityCountry": "Burgas, Bulgaria",
     "currencyCode": "BGN",
     "costIndex": "36.16",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Turkey",
+    "id": 361,
     "city": "Bursa",
     "cityCountry": "Bursa, Turkey",
     "currencyCode": "TRY",
     "costIndex": "34.75",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Poland",
+    "id": 305,
     "city": "Bydgoszcz",
     "cityCountry": "Bydgoszcz, Poland",
     "currencyCode": "PLN",
     "costIndex": "40.63",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Egypt",
+    "id": 401,
     "city": "Cairo",
     "cityCountry": "Cairo, Egypt",
     "currencyCode": "EGP",
     "costIndex": "27.96",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 131,
     "city": "Calgary",
     "cityCountry": "Calgary, Canada",
     "currencyCode": "CAD",
     "costIndex": "68.72",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Colombia",
+    "id": 393,
     "city": "Cali",
     "cityCountry": "Cali, Colombia",
     "currencyCode": "COP",
     "costIndex": "29.73",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 94,
     "city": "Cambridge",
     "cityCountry": "Cambridge, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "71.39",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Brazil",
+    "id": 262,
     "city": "Campinas",
     "cityCountry": "Campinas, Brazil",
     "currencyCode": "BRL",
     "costIndex": "46.93",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Australia",
+    "id": 98,
     "city": "Canberra",
     "cityCountry": "Canberra, Australia",
     "currencyCode": "AUD",
     "costIndex": "70.85",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Mexico",
+    "id": 346,
     "city": "Cancun",
     "cityCountry": "Cancun, Mexico",
     "currencyCode": "MXN",
     "costIndex": "36.33",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "South Africa",
+    "id": 285,
     "city": "Cape Town",
     "cityCountry": "Cape Town, South Africa",
     "currencyCode": "ZAR",
     "costIndex": "43.44",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Venezuela",
+    "id": 413,
     "city": "Caracas",
     "cityCountry": "Caracas, Venezuela",
     "currencyCode": "VEF",
     "costIndex": "25.07",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 190,
     "city": "Cardiff",
     "cityCountry": "Cardiff, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "61.35",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Morocco",
+    "id": 345,
     "city": "Casablanca",
     "cityCountry": "Casablanca, Morocco",
     "currencyCode": "MAD",
     "costIndex": "36.42",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Philippines",
+    "id": 333,
     "city": "Cebu",
     "cityCountry": "Cebu, Philippines",
     "currencyCode": "PHP",
     "costIndex": "37.60",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 411,
     "city": "Chandigarh",
     "cityCountry": "Chandigarh, India",
     "currencyCode": "INR",
     "costIndex": "25.14",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 55,
     "city": "Charlotte",
     "cityCountry": "Charlotte, NC, United States",
     "currencyCode": "USD",
     "costIndex": "75.73",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "China",
+    "id": 331,
     "city": "Chengdu",
     "cityCountry": "Chengdu, China",
     "currencyCode": "CNY",
     "costIndex": "37.96",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 415,
     "city": "Chennai",
     "cityCountry": "Chennai, India",
     "currencyCode": "INR",
     "costIndex": "24.72",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Thailand",
+    "id": 283,
     "city": "Chiang Mai",
     "cityCountry": "Chiang Mai, Thailand",
     "currencyCode": "THB",
     "costIndex": "43.70",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 44,
     "city": "Chicago",
     "cityCountry": "Chicago, IL, United States",
     "currencyCode": "USD",
     "costIndex": "77.88",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Moldova",
+    "id": 374,
     "city": "Chisinau",
     "cityCountry": "Chisinau, Moldova",
     "currencyCode": "MDL",
     "costIndex": "33.23",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "New Zealand",
+    "id": 97,
     "city": "Christchurch",
     "cityCountry": "Christchurch, New Zealand",
     "currencyCode": "NZD",
     "costIndex": "71.09",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 180,
     "city": "Cincinnati",
     "cityCountry": "Cincinnati, OH, United States",
     "currencyCode": "USD",
     "costIndex": "63.54",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 101,
     "city": "Cleveland",
     "cityCountry": "Cleveland, OH, United States",
     "currencyCode": "USD",
     "costIndex": "70.51",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Romania",
+    "id": 327,
     "city": "Cluj-Napoca",
     "cityCountry": "Cluj-Napoca, Romania",
     "currencyCode": "RON",
     "costIndex": "38.09",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 430,
     "city": "Coimbatore",
     "cityCountry": "Coimbatore, India",
     "currencyCode": "INR",
     "costIndex": "22.00",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Portugal",
+    "id": 242,
     "city": "Coimbra",
     "cityCountry": "Coimbra, Portugal",
     "currencyCode": "EUR",
     "costIndex": "50.89",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 139,
     "city": "Cologne",
     "cityCountry": "Cologne, Germany",
     "currencyCode": "EUR",
     "costIndex": "68.00",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Sri Lanka",
+    "id": 380,
     "city": "Colombo",
     "cityCountry": "Colombo, Sri Lanka",
     "currencyCode": "LKR",
     "costIndex": "32.48",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 160,
     "city": "Columbus",
     "cityCountry": "Columbus, OH, United States",
     "currencyCode": "USD",
     "costIndex": "65.92",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Romania",
+    "id": 311,
     "city": "Constanta",
     "cityCountry": "Constanta, Romania",
     "currencyCode": "RON",
     "costIndex": "39.87",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Denmark",
+    "id": 20,
     "city": "Copenhagen",
     "cityCountry": "Copenhagen, Denmark",
     "currencyCode": "DKK",
     "costIndex": "84.65",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 174,
     "city": "Coquitlam",
     "cityCountry": "Coquitlam, Canada",
     "currencyCode": "CAD",
     "costIndex": "64.03",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ireland",
+    "id": 81,
     "city": "Cork",
     "cityCountry": "Cork, Ireland",
     "currencyCode": "EUR",
     "costIndex": "72.97",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 156,
     "city": "Coventry",
     "cityCountry": "Coventry, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "66.31",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Romania",
+    "id": 372,
     "city": "Craiova",
     "cityCountry": "Craiova, Romania",
     "currencyCode": "RON",
     "costIndex": "33.28",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ecuador",
+    "id": 351,
     "city": "Cuenca",
     "cityCountry": "Cuenca, Ecuador",
     "currencyCode": "ECS",
     "costIndex": "35.88",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Brazil",
+    "id": 304,
     "city": "Curitiba",
     "cityCountry": "Curitiba, Brazil",
     "currencyCode": "BRL",
     "costIndex": "40.84",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 154,
     "city": "Dallas",
     "cityCountry": "Dallas, TX, United States",
     "currencyCode": "USD",
     "costIndex": "66.46",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Tanzania",
+    "id": 321,
     "city": "Dar es Salaam",
     "cityCountry": "Dar es Salaam, Tanzania",
     "currencyCode": "TZS",
     "costIndex": "38.75",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Philippines",
+    "id": 358,
     "city": "Davao",
     "cityCountry": "Davao, Philippines",
     "currencyCode": "PHP",
     "costIndex": "35.12",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Hungary",
+    "id": 318,
     "city": "Debrecen",
     "cityCountry": "Debrecen, Hungary",
     "currencyCode": "HUF",
     "costIndex": "39.38",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Netherlands",
+    "id": 78,
     "city": "Delft",
     "cityCountry": "Delft, Netherlands",
     "currencyCode": "EUR",
     "costIndex": "73.50",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 403,
     "city": "Delhi",
     "cityCountry": "Delhi, India",
     "currencyCode": "INR",
     "costIndex": "27.33",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 103,
     "city": "Denver",
     "cityCountry": "Denver, CO, United States",
     "currencyCode": "USD",
     "costIndex": "70.42",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 181,
     "city": "Derby",
     "cityCountry": "Derby, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "63.41",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 199,
     "city": "Detroit",
     "cityCountry": "Detroit, MI, United States",
     "currencyCode": "USD",
     "costIndex": "60.42",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Bangladesh",
+    "id": 368,
     "city": "Dhaka",
     "cityCountry": "Dhaka, Bangladesh",
     "currencyCode": "BDT",
     "costIndex": "33.69",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ukraine",
+    "id": 400,
     "city": "Dnipro",
     "cityCountry": "Dnipro, Ukraine",
     "currencyCode": "UAH",
     "costIndex": "27.99",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Qatar",
+    "id": 207,
     "city": "Doha",
     "cityCountry": "Doha, Qatar",
     "currencyCode": "QAR",
     "costIndex": "58.36",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 150,
     "city": "Dresden",
     "cityCountry": "Dresden, Germany",
     "currencyCode": "EUR",
     "costIndex": "66.92",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Arab Emirates",
+    "id": 215,
     "city": "Dubai",
     "cityCountry": "Dubai, United Arab Emirates",
     "currencyCode": "AED",
     "costIndex": "56.48",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ireland",
+    "id": 41,
     "city": "Dublin",
     "cityCountry": "Dublin, Ireland",
     "currencyCode": "EUR",
     "costIndex": "78.32",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "South Africa",
+    "id": 306,
     "city": "Durban",
     "cityCountry": "Durban, South Africa",
     "currencyCode": "ZAR",
     "costIndex": "40.63",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 124,
     "city": "Dusseldorf",
     "cityCountry": "Dusseldorf, Germany",
     "currencyCode": "EUR",
     "costIndex": "69.29",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 104,
     "city": "Edinburgh",
     "cityCountry": "Edinburgh, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "70.40",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 155,
     "city": "Edmonton",
     "cityCountry": "Edmonton, Canada",
     "currencyCode": "CAD",
     "costIndex": "66.35",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Netherlands",
+    "id": 82,
     "city": "Eindhoven",
     "cityCountry": "Eindhoven, Netherlands",
     "currencyCode": "EUR",
     "costIndex": "72.84",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Italy",
+    "id": 50,
     "city": "Florence",
     "cityCountry": "Florence, Italy",
     "currencyCode": "EUR",
     "costIndex": "76.78",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Brazil",
+    "id": 299,
     "city": "Florianopolis",
     "cityCountry": "Florianopolis, Brazil",
     "currencyCode": "BRL",
     "costIndex": "41.34",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 148,
     "city": "Fort Worth",
     "cityCountry": "Fort Worth, TX, United States",
     "currencyCode": "USD",
     "costIndex": "66.98",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 91,
     "city": "Frankfurt",
     "cityCountry": "Frankfurt, Germany",
     "currencyCode": "EUR",
     "costIndex": "71.72",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 134,
     "city": "Fresno",
     "cityCountry": "Fresno, CA, United States",
     "currencyCode": "USD",
     "costIndex": "68.68",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ireland",
+    "id": 80,
     "city": "Galway",
     "cityCountry": "Galway, Ireland",
     "currencyCode": "EUR",
     "costIndex": "73.05",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Poland",
+    "id": 295,
     "city": "Gdansk",
     "cityCountry": "Gdansk, Poland",
     "currencyCode": "PLN",
     "costIndex": "41.80",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Poland",
+    "id": 296,
     "city": "Gdynia",
     "cityCountry": "Gdynia, Poland",
     "currencyCode": "PLN",
     "costIndex": "41.80",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Switzerland",
+    "id": 6,
     "city": "Geneva",
     "cityCountry": "Geneva, Switzerland",
     "currencyCode": "CHF",
     "costIndex": "119.59",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Italy",
+    "id": 60,
     "city": "Genoa",
     "cityCountry": "Genoa, Italy",
     "currencyCode": "EUR",
     "costIndex": "75.31",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Belgium",
+    "id": 71,
     "city": "Gent",
     "cityCountry": "Gent, Belgium",
     "currencyCode": "EUR",
     "costIndex": "74.07",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 170,
     "city": "Glasgow",
     "cityCountry": "Glasgow, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "64.73",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 412,
     "city": "Goa",
     "cityCountry": "Goa, India",
     "currencyCode": "INR",
     "costIndex": "25.07",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Sweden",
+    "id": 89,
     "city": "Gothenburg",
     "cityCountry": "Gothenburg, Sweden",
     "currencyCode": "SEK",
     "costIndex": "71.86",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Spain",
+    "id": 209,
     "city": "Granada",
     "cityCountry": "Granada, Spain",
     "currencyCode": "EUR",
     "costIndex": "57.03",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Austria",
+    "id": 70,
     "city": "Graz",
     "cityCountry": "Graz, Austria",
     "currencyCode": "EUR",
     "costIndex": "74.48",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Netherlands",
+    "id": 86,
     "city": "Groningen",
     "cityCountry": "Groningen, Netherlands",
     "currencyCode": "EUR",
     "costIndex": "72.45",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Mexico",
+    "id": 371,
     "city": "Guadalajara",
     "cityCountry": "Guadalajara, Mexico",
     "currencyCode": "MXN",
     "costIndex": "33.50",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "China",
+    "id": 302,
     "city": "Guangzhou",
     "cityCountry": "Guangzhou, China",
     "currencyCode": "CNY",
     "costIndex": "41.00",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Guatemala",
+    "id": 288,
     "city": "Guatemala City",
     "cityCountry": "Guatemala City, Guatemala",
     "currencyCode": "GTQ",
     "costIndex": "43.03",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ecuador",
+    "id": 265,
     "city": "Guayaquil",
     "cityCountry": "Guayaquil, Ecuador",
     "currencyCode": "ECS",
     "costIndex": "46.69",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 388,
     "city": "Gurgaon",
     "cityCountry": "Gurgaon, India",
     "currencyCode": "INR",
     "costIndex": "30.69",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 420,
     "city": "Guwahati",
     "cityCountry": "Guwahati, India",
     "currencyCode": "INR",
     "costIndex": "23.57",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Israel",
+    "id": 68,
     "city": "Haifa",
     "cityCountry": "Haifa, Israel",
     "currencyCode": "ILS",
     "costIndex": "74.70",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 118,
     "city": "Halifax",
     "cityCountry": "Halifax, Canada",
     "currencyCode": "CAD",
     "costIndex": "69.67",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 75,
     "city": "Hamburg",
     "cityCountry": "Hamburg, Germany",
     "currencyCode": "EUR",
     "costIndex": "73.93",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 197,
     "city": "Hamilton",
     "cityCountry": "Hamilton, Canada",
     "currencyCode": "CAD",
     "costIndex": "60.60",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Vietnam",
+    "id": 320,
     "city": "Hanoi",
     "cityCountry": "Hanoi, Vietnam",
     "currencyCode": "VND",
     "costIndex": "38.84",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 168,
     "city": "Hanover",
     "cityCountry": "Hanover, Germany",
     "currencyCode": "EUR",
     "costIndex": "64.87",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Zimbabwe",
+    "id": 234,
     "city": "Harare",
     "cityCountry": "Harare, Zimbabwe",
     "currencyCode": "ZWD",
     "costIndex": "52.41",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Finland",
+    "id": 39,
     "city": "Helsinki",
     "cityCountry": "Helsinki, Finland",
     "currencyCode": "EUR",
     "costIndex": "78.60",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Greece",
+    "id": 225,
     "city": "Heraklion",
     "cityCountry": "Heraklion, Greece",
     "currencyCode": "EUR",
     "costIndex": "54.32",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Vietnam",
+    "id": 329,
     "city": "Ho Chi Minh City",
     "cityCountry": "Ho Chi Minh City, Vietnam",
     "currencyCode": "VND",
     "costIndex": "38.03",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Australia",
+    "id": 133,
     "city": "Hobart",
     "cityCountry": "Hobart, Australia",
     "currencyCode": "AUD",
     "costIndex": "68.70",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Hong Kong",
+    "id": 42,
     "city": "Hong Kong",
     "cityCountry": "Hong Kong, Hong Kong",
     "currencyCode": "HKD",
     "costIndex": "78.19",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 13,
     "city": "Honolulu",
     "cityCountry": "Honolulu, HI, United States",
     "currencyCode": "USD",
     "costIndex": "96.11",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 177,
     "city": "Houston",
     "cityCountry": "Houston, TX, United States",
     "currencyCode": "USD",
     "costIndex": "63.70",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 421,
     "city": "Hyderabad",
     "cityCountry": "Hyderabad, India",
     "currencyCode": "INR",
     "costIndex": "23.55",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Romania",
+    "id": 347,
     "city": "Iasi",
     "cityCountry": "Iasi, Romania",
     "currencyCode": "RON",
     "costIndex": "36.26",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 147,
     "city": "Indianapolis",
     "cityCountry": "Indianapolis, IN, United States",
     "currencyCode": "USD",
     "costIndex": "67.13",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 416,
     "city": "Indore",
     "cityCountry": "Indore, India",
     "currencyCode": "INR",
     "costIndex": "24.63",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Iraq",
+    "id": 301,
     "city": "Irbil",
     "cityCountry": "Irbil, Iraq",
     "currencyCode": "IQD",
     "costIndex": "41.11",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Pakistan",
+    "id": 427,
     "city": "Islamabad",
     "cityCountry": "Islamabad, Pakistan",
     "currencyCode": "PKR",
     "costIndex": "22.86",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Turkey",
+    "id": 344,
     "city": "Istanbul",
     "cityCountry": "Istanbul, Turkey",
     "currencyCode": "TRY",
     "costIndex": "36.55",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Turkey",
+    "id": 365,
     "city": "Izmir",
     "cityCountry": "Izmir, Turkey",
     "currencyCode": "TRY",
     "costIndex": "34.17",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 127,
     "city": "Jacksonville",
     "cityCountry": "Jacksonville, FL, United States",
     "currencyCode": "USD",
     "costIndex": "69.09",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 414,
     "city": "Jaipur",
     "cityCountry": "Jaipur, India",
     "currencyCode": "INR",
     "costIndex": "24.91",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Indonesia",
+    "id": 294,
     "city": "Jakarta",
     "cityCountry": "Jakarta, Indonesia",
     "currencyCode": "IDR",
     "costIndex": "42.07",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Saudi Arabia",
+    "id": 249,
     "city": "Jeddah (Jiddah)",
     "cityCountry": "Jeddah (Jiddah), Saudi Arabia",
     "currencyCode": "SAR",
     "costIndex": "49.68",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Israel",
+    "id": 57,
     "city": "Jerusalem",
     "cityCountry": "Jerusalem, Israel",
     "currencyCode": "ILS",
     "costIndex": "75.65",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "South Africa",
+    "id": 268,
     "city": "Johannesburg",
     "cityCountry": "Johannesburg, South Africa",
     "currencyCode": "ZAR",
     "costIndex": "46.26",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Malaysia",
+    "id": 282,
     "city": "Johor Bahru",
     "cityCountry": "Johor Bahru, Malaysia",
     "currencyCode": "MYR",
     "costIndex": "44.15",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Uganda",
+    "id": 377,
     "city": "Kampala",
     "cityCountry": "Kampala, Uganda",
     "currencyCode": "UGX",
     "costIndex": "32.81",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 123,
     "city": "Kansas City",
     "cityCountry": "Kansas City, MO, United States",
     "currencyCode": "USD",
     "costIndex": "69.38",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Pakistan",
+    "id": 433,
     "city": "Karachi",
     "cityCountry": "Karachi, Pakistan",
     "currencyCode": "PKR",
     "costIndex": "21.24",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 132,
     "city": "Karlsruhe",
     "cityCountry": "Karlsruhe, Germany",
     "currencyCode": "EUR",
     "costIndex": "68.71",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Nepal",
+    "id": 390,
     "city": "Kathmandu",
     "cityCountry": "Kathmandu, Nepal",
     "currencyCode": "NPR",
     "costIndex": "30.48",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Poland",
+    "id": 326,
     "city": "Katowice",
     "cityCountry": "Katowice, Poland",
     "currencyCode": "PLN",
     "costIndex": "38.20",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Lithuania",
+    "id": 271,
     "city": "Kaunas",
     "cityCountry": "Kaunas, Lithuania",
     "currencyCode": "LTL",
     "costIndex": "45.72",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 138,
     "city": "Kelowna",
     "cityCountry": "Kelowna, Canada",
     "currencyCode": "CAD",
     "costIndex": "68.12",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ukraine",
+    "id": 404,
     "city": "Kharkiv",
     "cityCountry": "Kharkiv, Ukraine",
     "currencyCode": "UAH",
     "costIndex": "27.13",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ukraine",
+    "id": 391,
     "city": "Kiev",
     "cityCountry": "Kiev, Ukraine",
     "currencyCode": "UAH",
     "costIndex": "30.13",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 204,
     "city": "Kingston upon Hull",
     "cityCountry": "Kingston upon Hull, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "59.04",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 202,
     "city": "Kitchener",
     "cityCountry": "Kitchener, Canada",
     "currencyCode": "CAD",
     "costIndex": "59.67",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Lithuania",
+    "id": 267,
     "city": "Klaipeda",
     "cityCountry": "Klaipeda, Lithuania",
     "currencyCode": "LTL",
     "costIndex": "46.31",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 172,
     "city": "Knoxville",
     "cityCountry": "Knoxville, TN, United States",
     "currencyCode": "USD",
     "costIndex": "64.19",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 434,
     "city": "Kochi",
     "cityCountry": "Kochi, India",
     "currencyCode": "INR",
     "costIndex": "20.93",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 417,
     "city": "Kolkata",
     "cityCountry": "Kolkata, India",
     "currencyCode": "INR",
     "costIndex": "24.26",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Slovakia",
+    "id": 269,
     "city": "Kosice",
     "cityCountry": "Kosice, Slovakia",
     "currencyCode": "SKK",
     "costIndex": "46.13",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Poland",
+    "id": 303,
     "city": "Krakow (Cracow)",
     "cityCountry": "Krakow (Cracow), Poland",
     "currencyCode": "PLN",
     "costIndex": "40.89",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Russia",
+    "id": 385,
     "city": "Krasnodar",
     "cityCountry": "Krasnodar, Russia",
     "currencyCode": "RUB",
     "costIndex": "31.90",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Malaysia",
+    "id": 292,
     "city": "Kuala Lumpur",
     "cityCountry": "Kuala Lumpur, Malaysia",
     "currencyCode": "MYR",
     "costIndex": "42.14",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Bolivia",
+    "id": 323,
     "city": "La Paz",
     "cityCountry": "La Paz, Bolivia",
     "currencyCode": "BOB",
     "costIndex": "38.58",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Nigeria",
+    "id": 363,
     "city": "Lagos",
     "cityCountry": "Lagos, Nigeria",
     "currencyCode": "NGN",
     "costIndex": "34.42",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Pakistan",
+    "id": 422,
     "city": "Lahore",
     "cityCountry": "Lahore, Pakistan",
     "currencyCode": "PKR",
     "costIndex": "23.45",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Cyprus",
+    "id": 210,
     "city": "Larnaca",
     "cityCountry": "Larnaca, Cyprus",
     "currencyCode": "CYP",
     "costIndex": "56.92",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Spain",
+    "id": 248,
     "city": "Las Palmas de Gran Canaria",
     "cityCountry": "Las Palmas de Gran Canaria, Spain",
     "currencyCode": "EUR",
     "costIndex": "49.77",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 140,
     "city": "Las Vegas",
     "cityCountry": "Las Vegas, NV, United States",
     "currencyCode": "USD",
     "costIndex": "67.94",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Switzerland",
+    "id": 3,
     "city": "Lausanne",
     "cityCountry": "Lausanne, Switzerland",
     "currencyCode": "CHF",
     "costIndex": "125.36",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 163,
     "city": "Leeds",
     "cityCountry": "Leeds, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "65.69",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 162,
     "city": "Leicester",
     "cityCountry": "Leicester, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "65.78",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Netherlands",
+    "id": 56,
     "city": "Leiden",
     "cityCountry": "Leiden, Netherlands",
     "currencyCode": "EUR",
     "costIndex": "75.68",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 146,
     "city": "Leipzig",
     "cityCountry": "Leipzig, Germany",
     "currencyCode": "EUR",
     "costIndex": "67.13",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Belgium",
+    "id": 108,
     "city": "Leuven",
     "cityCountry": "Leuven, Belgium",
     "currencyCode": "EUR",
     "costIndex": "70.23",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "France",
+    "id": 128,
     "city": "Lille",
     "cityCountry": "Lille, France",
     "currencyCode": "EUR",
     "costIndex": "69.00",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Peru",
+    "id": 310,
     "city": "Lima",
     "cityCountry": "Lima, Peru",
     "currencyCode": "PEN",
     "costIndex": "40.08",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Cyprus",
+    "id": 203,
     "city": "Limassol",
     "cityCountry": "Limassol, Cyprus",
     "currencyCode": "CYP",
     "costIndex": "59.65",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ireland",
+    "id": 93,
     "city": "Limerick",
     "cityCountry": "Limerick, Ireland",
     "currencyCode": "EUR",
     "costIndex": "71.47",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Austria",
+    "id": 45,
     "city": "Linz",
     "cityCountry": "Linz, Austria",
     "currencyCode": "EUR",
     "costIndex": "77.62",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Portugal",
+    "id": 227,
     "city": "Lisbon",
     "cityCountry": "Lisbon, Portugal",
     "currencyCode": "EUR",
     "costIndex": "54.14",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 196,
     "city": "Little Rock",
     "cityCountry": "Little Rock, AR, United States",
     "currencyCode": "USD",
     "costIndex": "60.63",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 200,
     "city": "Liverpool",
     "cityCountry": "Liverpool, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "60.25",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Slovenia",
+    "id": 218,
     "city": "Ljubljana",
     "cityCountry": "Ljubljana, Slovenia",
     "currencyCode": "EUR",
     "costIndex": "55.39",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Poland",
+    "id": 330,
     "city": "Lodz",
     "cityCountry": "Lodz, Poland",
     "currencyCode": "PLN",
     "costIndex": "37.99",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 208,
     "city": "London",
     "cityCountry": "London, Canada",
     "currencyCode": "CAD",
     "costIndex": "57.94",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 24,
     "city": "London",
     "cityCountry": "London, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "82.68",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 43,
     "city": "Los Angeles",
     "cityCountry": "Los Angeles, CA, United States",
     "currencyCode": "USD",
     "costIndex": "78.14",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 169,
     "city": "Louisville",
     "cityCountry": "Louisville, KY, United States",
     "currencyCode": "USD",
     "costIndex": "64.79",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Poland",
+    "id": 337,
     "city": "Lublin",
     "cityCountry": "Lublin, Poland",
     "currencyCode": "PLN",
     "costIndex": "37.27",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 423,
     "city": "Lucknow (Lakhnau)",
     "cityCountry": "Lucknow (Lakhnau), India",
     "currencyCode": "INR",
     "costIndex": "23.35",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Switzerland",
+    "id": 5,
     "city": "Lugano",
     "cityCountry": "Lugano, Switzerland",
     "currencyCode": "CHF",
     "costIndex": "119.86",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Sweden",
+    "id": 109,
     "city": "Lund",
     "cityCountry": "Lund, Sweden",
     "currencyCode": "SEK",
     "costIndex": "70.21",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Luxembourg",
+    "id": 16,
     "city": "Luxembourg",
     "cityCountry": "Luxembourg, Luxembourg",
     "currencyCode": "EUR",
     "costIndex": "91.12",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ukraine",
+    "id": 407,
     "city": "Lviv",
     "cityCountry": "Lviv, Ukraine",
     "currencyCode": "UAH",
     "costIndex": "26.54",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "France",
+    "id": 37,
     "city": "Lyon",
     "cityCountry": "Lyon, France",
     "currencyCode": "EUR",
     "costIndex": "79.12",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Netherlands",
+    "id": 67,
     "city": "Maastricht",
     "cityCountry": "Maastricht, Netherlands",
     "currencyCode": "EUR",
     "costIndex": "74.78",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 175,
     "city": "Madison",
     "cityCountry": "Madison, WI, United States",
     "currencyCode": "USD",
     "costIndex": "63.92",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Spain",
+    "id": 194,
     "city": "Madrid",
     "cityCountry": "Madrid, Spain",
     "currencyCode": "EUR",
     "costIndex": "60.92",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Spain",
+    "id": 241,
     "city": "Malaga",
     "cityCountry": "Malaga, Spain",
     "currencyCode": "EUR",
     "costIndex": "50.90",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Sweden",
+    "id": 96,
     "city": "Malmo",
     "cityCountry": "Malmo, Sweden",
     "currencyCode": "SEK",
     "costIndex": "71.16",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Nicaragua",
+    "id": 281,
     "city": "Managua",
     "cityCountry": "Managua, Nicaragua",
     "currencyCode": "NIO",
     "costIndex": "44.29",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Bahrain",
+    "id": 216,
     "city": "Manama",
     "cityCountry": "Manama, Bahrain",
     "currencyCode": "BHD",
     "costIndex": "56.24",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 143,
     "city": "Manchester",
     "cityCountry": "Manchester, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "67.72",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 425,
     "city": "Mangalore",
     "cityCountry": "Mangalore, India",
     "currencyCode": "INR",
     "costIndex": "22.98",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Philippines",
+    "id": 317,
     "city": "Manila",
     "cityCountry": "Manila, Philippines",
     "currencyCode": "PHP",
     "costIndex": "39.42",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 130,
     "city": "Mannheim",
     "cityCountry": "Mannheim, Germany",
     "currencyCode": "EUR",
     "costIndex": "68.98",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Slovenia",
+    "id": 252,
     "city": "Maribor",
     "cityCountry": "Maribor, Slovenia",
     "currencyCode": "EUR",
     "costIndex": "48.90",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Colombia",
+    "id": 387,
     "city": "Medellin",
     "cityCountry": "Medellin, Colombia",
     "currencyCode": "COP",
     "costIndex": "31.01",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Australia",
+    "id": 84,
     "city": "Melbourne",
     "cityCountry": "Melbourne, Australia",
     "currencyCode": "AUD",
     "costIndex": "72.55",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 171,
     "city": "Memphis",
     "cityCountry": "Memphis, TN, United States",
     "currencyCode": "USD",
     "costIndex": "64.58",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Mexico",
+    "id": 389,
     "city": "Merida",
     "cityCountry": "Merida, Mexico",
     "currencyCode": "MXN",
     "costIndex": "30.57",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Mexico",
+    "id": 349,
     "city": "Mexico City",
     "cityCountry": "Mexico City, Mexico",
     "currencyCode": "MXN",
     "costIndex": "35.94",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 31,
     "city": "Miami",
     "cityCountry": "Miami, FL, United States",
     "currencyCode": "USD",
     "costIndex": "80.61",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Italy",
+    "id": 76,
     "city": "Milan",
     "cityCountry": "Milan, Italy",
     "currencyCode": "EUR",
     "costIndex": "73.63",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 105,
     "city": "Milwaukee",
     "cityCountry": "Milwaukee, WI, United States",
     "currencyCode": "USD",
     "costIndex": "70.38",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 58,
     "city": "Minneapolis",
     "cityCountry": "Minneapolis, MN, United States",
     "currencyCode": "USD",
     "costIndex": "75.57",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Belarus",
+    "id": 370,
     "city": "Minsk",
     "cityCountry": "Minsk, Belarus",
     "currencyCode": "BYR",
     "costIndex": "33.51",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 164,
     "city": "Mississauga",
     "cityCountry": "Mississauga, Canada",
     "currencyCode": "CAD",
     "costIndex": "65.67",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Mexico",
+    "id": 355,
     "city": "Monterrey",
     "cityCountry": "Monterrey, Mexico",
     "currencyCode": "MXN",
     "costIndex": "35.47",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Uruguay",
+    "id": 212,
     "city": "Montevideo",
     "cityCountry": "Montevideo, Uruguay",
     "currencyCode": "UYU",
     "costIndex": "56.60",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 185,
     "city": "Montreal",
     "cityCountry": "Montreal, Canada",
     "currencyCode": "CAD",
     "costIndex": "63.19",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Russia",
+    "id": 293,
     "city": "Moscow",
     "cityCountry": "Moscow, Russia",
     "currencyCode": "RUB",
     "costIndex": "42.09",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 397,
     "city": "Mumbai",
     "cityCountry": "Mumbai, India",
     "currencyCode": "INR",
     "costIndex": "28.60",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 72,
     "city": "Munich",
     "cityCountry": "Munich, Germany",
     "currencyCode": "EUR",
     "costIndex": "74.05",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Oman",
+    "id": 247,
     "city": "Muscat",
     "cityCountry": "Muscat, Oman",
     "currencyCode": "OMR",
     "costIndex": "49.87",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 428,
     "city": "Mysore",
     "cityCountry": "Mysore, India",
     "currencyCode": "INR",
     "costIndex": "22.81",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Kenya",
+    "id": 290,
     "city": "Nairobi",
     "cityCountry": "Nairobi, Kenya",
     "currencyCode": "KES",
     "costIndex": "42.55",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Italy",
+    "id": 187,
     "city": "Naples",
     "cityCountry": "Naples, Italy",
     "currencyCode": "EUR",
     "costIndex": "62.74",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 144,
     "city": "Nashville",
     "cityCountry": "Nashville, TN, United States",
     "currencyCode": "USD",
     "costIndex": "67.64",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 432,
     "city": "Navi Mumbai",
     "cityCountry": "Navi Mumbai, India",
     "currencyCode": "INR",
     "costIndex": "21.82",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 11,
     "city": "New York",
     "cityCountry": "New York, NY, United States",
     "currencyCode": "USD",
     "costIndex": "100.00",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 119,
     "city": "Newcastle upon Tyne",
     "cityCountry": "Newcastle upon Tyne, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "69.62",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Australia",
+    "id": 74,
     "city": "Newcastle",
     "cityCountry": "Newcastle, Australia",
     "currencyCode": "AUD",
     "costIndex": "73.96",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Cyprus",
+    "id": 165,
     "city": "Nicosia",
     "cityCountry": "Nicosia, Cyprus",
     "currencyCode": "CYP",
     "costIndex": "65.66",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Serbia",
+    "id": 364,
     "city": "Nis",
     "cityCountry": "Nis, Serbia",
     "currencyCode": "RSD",
     "costIndex": "34.41",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Russia",
+    "id": 353,
     "city": "Nizhny Novgorod",
     "cityCountry": "Nizhny Novgorod, Russia",
     "currencyCode": "RUB",
     "costIndex": "35.74",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 398,
     "city": "Noida",
     "cityCountry": "Noida, India",
     "currencyCode": "INR",
     "costIndex": "28.21",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 173,
     "city": "Nottingham",
     "cityCountry": "Nottingham, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "64.14",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Serbia",
+    "id": 357,
     "city": "Novi Sad",
     "cityCountry": "Novi Sad, Serbia",
     "currencyCode": "RSD",
     "costIndex": "35.37",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Russia",
+    "id": 378,
     "city": "Novosibirsk",
     "cityCountry": "Novosibirsk, Russia",
     "currencyCode": "RUB",
     "costIndex": "32.63",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 113,
     "city": "Nuremberg",
     "cityCountry": "Nuremberg, Germany",
     "currencyCode": "EUR",
     "costIndex": "69.99",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 21,
     "city": "Oakland",
     "cityCountry": "Oakland, CA, United States",
     "currencyCode": "USD",
     "costIndex": "84.49",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Denmark",
+    "id": 23,
     "city": "Odense",
     "cityCountry": "Odense, Denmark",
     "currencyCode": "DKK",
     "costIndex": "84.18",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ukraine",
+    "id": 395,
     "city": "Odessa",
     "cityCountry": "Odessa, Ukraine",
     "currencyCode": "UAH",
     "costIndex": "28.74",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Czech Republic",
+    "id": 279,
     "city": "Olomouc",
     "cityCountry": "Olomouc, Czech Republic",
     "currencyCode": "CZK",
     "costIndex": "44.43",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Romania",
+    "id": 362,
     "city": "Oradea",
     "cityCountry": "Oradea, Romania",
     "currencyCode": "RON",
     "costIndex": "34.74",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 114,
     "city": "Orlando",
     "cityCountry": "Orlando, FL, United States",
     "currencyCode": "USD",
     "costIndex": "69.97",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Japan",
+    "id": 33,
     "city": "Osaka",
     "cityCountry": "Osaka, Japan",
     "currencyCode": "JPY",
     "costIndex": "80.06",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Croatia",
+    "id": 272,
     "city": "Osijek",
     "cityCountry": "Osijek, Croatia",
     "currencyCode": "HRK",
     "costIndex": "45.55",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Norway",
+    "id": 8,
     "city": "Oslo",
     "cityCountry": "Oslo, Norway",
     "currencyCode": "NOK",
     "costIndex": "104.03",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Czech Republic",
+    "id": 291,
     "city": "Ostrava",
     "cityCountry": "Ostrava, Czech Republic",
     "currencyCode": "CZK",
     "costIndex": "42.46",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 157,
     "city": "Ottawa",
     "cityCountry": "Ottawa, Canada",
     "currencyCode": "CAD",
     "costIndex": "66.18",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 117,
     "city": "Oxford",
     "cityCountry": "Oxford, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "69.79",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Spain",
+    "id": 176,
     "city": "Palma de Mallorca",
     "cityCountry": "Palma de Mallorca, Spain",
     "currencyCode": "EUR",
     "costIndex": "63.74",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Panama",
+    "id": 220,
     "city": "Panama City",
     "cityCountry": "Panama City, Panama",
     "currencyCode": "PAB",
     "costIndex": "55.29",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Suriname",
+    "id": 339,
     "city": "Paramaribo",
     "cityCountry": "Paramaribo, Suriname",
     "currencyCode": "SRD",
     "costIndex": "37.17",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "France",
+    "id": 19,
     "city": "Paris",
     "cityCountry": "Paris, France",
     "currencyCode": "EUR",
     "costIndex": "84.85",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 418,
     "city": "Patna",
     "cityCountry": "Patna, India",
     "currencyCode": "INR",
     "costIndex": "24.00",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Greece",
+    "id": 222,
     "city": "Patras",
     "cityCountry": "Patras, Greece",
     "currencyCode": "EUR",
     "costIndex": "54.86",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Thailand",
+    "id": 274,
     "city": "Pattaya",
     "cityCountry": "Pattaya, Thailand",
     "currencyCode": "THB",
     "costIndex": "45.54",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Malaysia",
+    "id": 286,
     "city": "Penang",
     "cityCountry": "Penang, Malaysia",
     "currencyCode": "MYR",
     "costIndex": "43.14",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Australia",
+    "id": 69,
     "city": "Perth",
     "cityCountry": "Perth, Australia",
     "currencyCode": "AUD",
     "costIndex": "74.59",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 32,
     "city": "Philadelphia",
     "cityCountry": "Philadelphia, PA, United States",
     "currencyCode": "USD",
     "costIndex": "80.57",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Cambodia",
+    "id": 260,
     "city": "Phnom Penh",
     "cityCountry": "Phnom Penh, Cambodia",
     "currencyCode": "KHR",
     "costIndex": "47.14",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 158,
     "city": "Phoenix",
     "cityCountry": "Phoenix, AZ, United States",
     "currencyCode": "USD",
     "costIndex": "66.04",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Thailand",
+    "id": 253,
     "city": "Phuket",
     "cityCountry": "Phuket, Thailand",
     "currencyCode": "THB",
     "costIndex": "48.87",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 64,
     "city": "Pittsburgh",
     "cityCountry": "Pittsburgh, PA, United States",
     "currencyCode": "USD",
     "costIndex": "74.98",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Bulgaria",
+    "id": 342,
     "city": "Plovdiv",
     "cityCountry": "Plovdiv, Bulgaria",
     "currencyCode": "BGN",
     "costIndex": "36.64",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Montenegro",
+    "id": 309,
     "city": "Podgorica",
     "cityCountry": "Podgorica, Montenegro",
     "currencyCode": "EUR",
     "costIndex": "40.31",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "South Africa",
+    "id": 300,
     "city": "Port Elizabeth",
     "cityCountry": "Port Elizabeth, South Africa",
     "currencyCode": "ZAR",
     "costIndex": "41.11",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Mauritius",
+    "id": 213,
     "city": "Port Louis",
     "cityCountry": "Port Louis, Mauritius",
     "currencyCode": "MUR",
     "costIndex": "56.58",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Trinidad And Tobago",
+    "id": 217,
     "city": "Port of Spain",
     "cityCountry": "Port of Spain, Trinidad And Tobago",
     "currencyCode": "TTD",
     "costIndex": "55.95",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 63,
     "city": "Portland",
     "cityCountry": "Portland, OR, United States",
     "currencyCode": "USD",
     "costIndex": "75.11",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Brazil",
+    "id": 289,
     "city": "Porto Alegre",
     "cityCountry": "Porto Alegre, Brazil",
     "currencyCode": "BRL",
     "costIndex": "42.91",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Portugal",
+    "id": 236,
     "city": "Porto",
     "cityCountry": "Porto, Portugal",
     "currencyCode": "EUR",
     "costIndex": "51.61",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 159,
     "city": "Portsmouth",
     "cityCountry": "Portsmouth, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "65.94",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Poland",
+    "id": 312,
     "city": "Poznan",
     "cityCountry": "Poznan, Poland",
     "currencyCode": "PLN",
     "costIndex": "39.64",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Czech Republic",
+    "id": 256,
     "city": "Prague",
     "cityCountry": "Prague, Czech Republic",
     "currencyCode": "CZK",
     "costIndex": "48.64",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "South Africa",
+    "id": 263,
     "city": "Pretoria",
     "cityCountry": "Pretoria, South Africa",
     "currencyCode": "ZAR",
     "costIndex": "46.89",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Mexico",
+    "id": 381,
     "city": "Puebla",
     "cityCountry": "Puebla, Mexico",
     "currencyCode": "MXN",
     "costIndex": "32.46",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 405,
     "city": "Pune",
     "cityCountry": "Pune, India",
     "currencyCode": "INR",
     "costIndex": "26.96",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 161,
     "city": "Quebec City",
     "cityCountry": "Quebec City, Canada",
     "currencyCode": "CAD",
     "costIndex": "65.89",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Mexico",
+    "id": 375,
     "city": "Queretaro",
     "cityCountry": "Queretaro, Mexico",
     "currencyCode": "MXN",
     "costIndex": "33.15",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Philippines",
+    "id": 352,
     "city": "Quezon City",
     "cityCountry": "Quezon City, Philippines",
     "currencyCode": "PHP",
     "costIndex": "35.84",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Ecuador",
+    "id": 276,
     "city": "Quito",
     "cityCountry": "Quito, Ecuador",
     "currencyCode": "ECS",
     "costIndex": "45.46",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Morocco",
+    "id": 325,
     "city": "Rabat",
     "cityCountry": "Rabat, Morocco",
     "currencyCode": "MAD",
     "costIndex": "38.24",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 110,
     "city": "Raleigh",
     "cityCountry": "Raleigh, NC, United States",
     "currencyCode": "USD",
     "costIndex": "70.21",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Israel",
+    "id": 85,
     "city": "Ramat Gan",
     "cityCountry": "Ramat Gan, Israel",
     "currencyCode": "ILS",
     "costIndex": "72.52",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Pakistan",
+    "id": 438,
     "city": "Rawalpindi",
     "cityCountry": "Rawalpindi, Pakistan",
     "currencyCode": "PKR",
     "costIndex": "18.75",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 61,
     "city": "Reading",
     "cityCountry": "Reading, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "75.15",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Brazil",
+    "id": 278,
     "city": "Recife",
     "cityCountry": "Recife, Brazil",
     "currencyCode": "BRL",
     "costIndex": "44.67",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 152,
     "city": "Regina",
     "cityCountry": "Regina, Canada",
     "currencyCode": "CAD",
     "costIndex": "66.67",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 189,
     "city": "Reno",
     "cityCountry": "Reno, NV, United States",
     "currencyCode": "USD",
     "costIndex": "61.46",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Iceland",
+    "id": 10,
     "city": "Reykjavik",
     "cityCountry": "Reykjavik, Iceland",
     "currencyCode": "ISK",
     "costIndex": "101.07",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 166,
     "city": "Richmond",
     "cityCountry": "Richmond, VA, United States",
     "currencyCode": "USD",
     "costIndex": "65.46",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Latvia",
+    "id": 244,
     "city": "Riga",
     "cityCountry": "Riga, Latvia",
     "currencyCode": "LVL",
     "costIndex": "50.56",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Croatia",
+    "id": 239,
     "city": "Rijeka",
     "cityCountry": "Rijeka, Croatia",
     "currencyCode": "HRK",
     "costIndex": "51.20",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Brazil",
+    "id": 264,
     "city": "Rio de Janeiro",
     "cityCountry": "Rio de Janeiro, Brazil",
     "currencyCode": "BRL",
     "costIndex": "46.78",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Saudi Arabia",
+    "id": 250,
     "city": "Riyadh",
     "cityCountry": "Riyadh, Saudi Arabia",
     "currencyCode": "SAR",
     "costIndex": "49.55",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 62,
     "city": "Rochester",
     "cityCountry": "Rochester, NY, United States",
     "currencyCode": "USD",
     "costIndex": "75.15",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Italy",
+    "id": 106,
     "city": "Rome",
     "cityCountry": "Rome, Italy",
     "currencyCode": "EUR",
     "costIndex": "70.37",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Netherlands",
+    "id": 90,
     "city": "Rotterdam",
     "cityCountry": "Rotterdam, Netherlands",
     "currencyCode": "EUR",
     "costIndex": "71.75",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 48,
     "city": "Sacramento",
     "cityCountry": "Sacramento, CA, United States",
     "currencyCode": "USD",
     "costIndex": "77.06",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 151,
     "city": "Saint Louis",
     "cityCountry": "Saint Louis, MO, United States",
     "currencyCode": "USD",
     "costIndex": "66.91",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Russia",
+    "id": 334,
     "city": "Saint Petersburg",
     "cityCountry": "Saint Petersburg, Russia",
     "currencyCode": "RUB",
     "costIndex": "37.54",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 178,
     "city": "Salt Lake City",
     "cityCountry": "Salt Lake City, UT, United States",
     "currencyCode": "USD",
     "costIndex": "63.70",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Russia",
+    "id": 367,
     "city": "Samara",
     "cityCountry": "Samara, Russia",
     "currencyCode": "RUB",
     "costIndex": "33.86",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 188,
     "city": "San Antonio",
     "cityCountry": "San Antonio, TX, United States",
     "currencyCode": "USD",
     "costIndex": "61.93",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 83,
     "city": "San Diego",
     "cityCountry": "San Diego, CA, United States",
     "currencyCode": "USD",
     "costIndex": "72.74",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 15,
     "city": "San Francisco",
     "cityCountry": "San Francisco, CA, United States",
     "currencyCode": "USD",
     "costIndex": "91.17",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 51,
     "city": "San Jose",
     "cityCountry": "San Jose, CA, United States",
     "currencyCode": "USD",
     "costIndex": "76.57",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Costa Rica",
+    "id": 224,
     "city": "San Jose",
     "cityCountry": "San Jose, Costa Rica",
     "currencyCode": "CRC",
     "costIndex": "54.48",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Puerto Rico",
+    "id": 153,
     "city": "San Juan",
     "cityCountry": "San Juan, Puerto Rico",
     "currencyCode": "USD",
     "costIndex": "66.60",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "El Salvador",
+    "id": 251,
     "city": "San Salvador",
     "cityCountry": "San Salvador, El Salvador",
     "currencyCode": "SVC",
     "costIndex": "49.24",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Spain",
+    "id": 258,
     "city": "Santa Cruz de Tenerife",
     "cityCountry": "Santa Cruz de Tenerife, Spain",
     "currencyCode": "EUR",
     "costIndex": "47.89",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Bolivia",
+    "id": 322,
     "city": "Santa Cruz",
     "cityCountry": "Santa Cruz, Bolivia",
     "currencyCode": "BOB",
     "costIndex": "38.59",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Chile",
+    "id": 237,
     "city": "Santiago",
     "cityCountry": "Santiago, Chile",
     "currencyCode": "CLP",
     "costIndex": "51.53",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Dominican Republic",
+    "id": 275,
     "city": "Santo Domingo",
     "cityCountry": "Santo Domingo, Dominican Republic",
     "currencyCode": "DOP",
     "costIndex": "45.50",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Brazil",
+    "id": 261,
     "city": "Sao Paulo",
     "cityCountry": "Sao Paulo, Brazil",
     "currencyCode": "BRL",
     "costIndex": "47.00",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Bosnia And Herzegovina",
+    "id": 314,
     "city": "Sarajevo",
     "cityCountry": "Sarajevo, Bosnia And Herzegovina",
     "currencyCode": "BAM",
     "costIndex": "39.60",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 77,
     "city": "Saskatoon",
     "cityCountry": "Saskatoon, Canada",
     "currencyCode": "CAD",
     "costIndex": "73.59",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 22,
     "city": "Seattle",
     "cityCountry": "Seattle, WA, United States",
     "currencyCode": "USD",
     "costIndex": "84.25",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "South Korea",
+    "id": 25,
     "city": "Seoul",
     "cityCountry": "Seoul, South Korea",
     "currencyCode": "KRW",
     "costIndex": "82.47",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Spain",
+    "id": 229,
     "city": "Seville (Sevilla)",
     "cityCountry": "Seville (Sevilla), Spain",
     "currencyCode": "EUR",
     "costIndex": "53.87",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "China",
+    "id": 240,
     "city": "Shanghai",
     "cityCountry": "Shanghai, China",
     "currencyCode": "CNY",
     "costIndex": "51.19",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Arab Emirates",
+    "id": 230,
     "city": "Sharjah",
     "cityCountry": "Sharjah, United Arab Emirates",
     "currencyCode": "AED",
     "costIndex": "53.79",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 192,
     "city": "Sheffield",
     "cityCountry": "Sheffield, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "61.29",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "China",
+    "id": 307,
     "city": "Shenzhen",
     "cityCountry": "Shenzhen, China",
     "currencyCode": "CNY",
     "costIndex": "40.56",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Romania",
+    "id": 359,
     "city": "Sibiu",
     "cityCountry": "Sibiu, Romania",
     "currencyCode": "RON",
     "costIndex": "34.98",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Singapore",
+    "id": 107,
     "city": "Singapore",
     "cityCountry": "Singapore, Singapore",
     "currencyCode": "SGD",
     "costIndex": "70.31",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Macedonia",
+    "id": 360,
     "city": "Skopje",
     "cityCountry": "Skopje, Macedonia",
     "currencyCode": "MKD",
     "costIndex": "34.82",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Malta",
+    "id": 149,
     "city": "Sliema",
     "cityCountry": "Sliema, Malta",
     "currencyCode": "MTL",
     "costIndex": "66.95",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Bulgaria",
+    "id": 308,
     "city": "Sofia",
     "cityCountry": "Sofia, Bulgaria",
     "currencyCode": "BGN",
     "costIndex": "40.53",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United Kingdom",
+    "id": 183,
     "city": "Southampton",
     "cityCountry": "Southampton, United Kingdom",
     "currencyCode": "GBP",
     "costIndex": "63.24",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Croatia",
+    "id": 235,
     "city": "Split",
     "cityCountry": "Split, Croatia",
     "currencyCode": "HRK",
     "costIndex": "52.03",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 65,
     "city": "St. John's",
     "cityCountry": "St. John's, NL, Canada",
     "currencyCode": "CAD",
     "costIndex": "74.91",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Norway",
+    "id": 7,
     "city": "Stavanger",
     "cityCountry": "Stavanger, Norway",
     "currencyCode": "NOK",
     "costIndex": "105.93",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Sweden",
+    "id": 36,
     "city": "Stockholm",
     "cityCountry": "Stockholm, Sweden",
     "currencyCode": "SEK",
     "costIndex": "79.21",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "France",
+    "id": 52,
     "city": "Strasbourg",
     "cityCountry": "Strasbourg, France",
     "currencyCode": "EUR",
     "costIndex": "76.40",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Germany",
+    "id": 142,
     "city": "Stuttgart",
     "cityCountry": "Stuttgart, Germany",
     "currencyCode": "EUR",
     "costIndex": "67.73",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Indonesia",
+    "id": 340,
     "city": "Surabaya",
     "cityCountry": "Surabaya, Indonesia",
     "currencyCode": "IDR",
     "costIndex": "37.11",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 424,
     "city": "Surat",
     "cityCountry": "Surat, India",
     "currencyCode": "INR",
     "costIndex": "23.26",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Fiji",
+    "id": 246,
     "city": "Suva",
     "cityCountry": "Suva, Fiji",
     "currencyCode": "FJD",
     "costIndex": "50.16",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Australia",
+    "id": 35,
     "city": "Sydney",
     "cityCountry": "Sydney, Australia",
     "currencyCode": "AUD",
     "costIndex": "79.48",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Poland",
+    "id": 324,
     "city": "Szczecin",
     "cityCountry": "Szczecin, Poland",
     "currencyCode": "PLN",
     "costIndex": "38.51",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Hungary",
+    "id": 328,
     "city": "Szeged",
     "cityCountry": "Szeged, Hungary",
     "currencyCode": "HUF",
     "costIndex": "38.06",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Taiwan",
+    "id": 184,
     "city": "Taipei",
     "cityCountry": "Taipei, Taiwan",
     "currencyCode": "TWD",
     "costIndex": "63.20",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Estonia",
+    "id": 231,
     "city": "Tallinn",
     "cityCountry": "Tallinn, Estonia",
     "currencyCode": "EEK",
     "costIndex": "53.23",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 92,
     "city": "Tampa",
     "cityCountry": "Tampa, FL, United States",
     "currencyCode": "USD",
     "costIndex": "71.67",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Finland",
+    "id": 46,
     "city": "Tampere",
     "cityCountry": "Tampere, Finland",
     "currencyCode": "EUR",
     "costIndex": "77.46",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Estonia",
+    "id": 243,
     "city": "Tartu",
     "cityCountry": "Tartu, Estonia",
     "currencyCode": "EEK",
     "costIndex": "50.76",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Uzbekistan",
+    "id": 399,
     "city": "Tashkent",
     "cityCountry": "Tashkent, Uzbekistan",
     "currencyCode": "UZS",
     "costIndex": "28.18",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Georgia",
+    "id": 396,
     "city": "Tbilisi",
     "cityCountry": "Tbilisi, Georgia",
     "currencyCode": "GEL",
     "costIndex": "28.74",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Iran",
+    "id": 313,
     "city": "Tehran",
     "cityCountry": "Tehran, Iran",
     "currencyCode": "IRR",
     "costIndex": "39.62",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Israel",
+    "id": 34,
     "city": "Tel Aviv-Yafo",
     "cityCountry": "Tel Aviv-Yafo, Israel",
     "currencyCode": "ILS",
     "costIndex": "79.73",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 408,
     "city": "Thane",
     "cityCountry": "Thane, India",
     "currencyCode": "INR",
     "costIndex": "25.64",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Netherlands",
+    "id": 49,
     "city": "The Hague (Den Haag)",
     "cityCountry": "The Hague (Den Haag), Netherlands",
     "currencyCode": "EUR",
     "costIndex": "76.97",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Greece",
+    "id": 211,
     "city": "Thessaloniki",
     "cityCountry": "Thessaloniki, Greece",
     "currencyCode": "EUR",
     "costIndex": "56.84",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 437,
     "city": "Thiruvananthapuram",
     "cityCountry": "Thiruvananthapuram, India",
     "currencyCode": "INR",
     "costIndex": "19.75",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Mexico",
+    "id": 341,
     "city": "Tijuana",
     "cityCountry": "Tijuana, Mexico",
     "currencyCode": "MXN",
     "costIndex": "36.93",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Romania",
+    "id": 336,
     "city": "Timisoara",
     "cityCountry": "Timisoara, Romania",
     "currencyCode": "RON",
     "costIndex": "37.34",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Albania",
+    "id": 338,
     "city": "Tirana",
     "cityCountry": "Tirana, Albania",
     "currencyCode": "ALL",
     "costIndex": "37.20",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Japan",
+    "id": 18,
     "city": "Tokyo",
     "cityCountry": "Tokyo, Japan",
     "currencyCode": "JPY",
     "costIndex": "88.67",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 28,
     "city": "Toronto",
     "cityCountry": "Toronto, Canada",
     "currencyCode": "CAD",
     "costIndex": "81.32",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "France",
+    "id": 66,
     "city": "Toulouse",
     "cityCountry": "Toulouse, France",
     "currencyCode": "EUR",
     "costIndex": "74.86",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Norway",
+    "id": 12,
     "city": "Trondheim",
     "cityCountry": "Trondheim, Norway",
     "currencyCode": "NOK",
     "costIndex": "99.77",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 126,
     "city": "Tucson",
     "cityCountry": "Tucson, AZ, United States",
     "currencyCode": "USD",
     "costIndex": "69.14",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 182,
     "city": "Tulsa",
     "cityCountry": "Tulsa, OK, United States",
     "currencyCode": "USD",
     "costIndex": "63.28",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Tunisia",
+    "id": 410,
     "city": "Tunis",
     "cityCountry": "Tunis, Tunisia",
     "currencyCode": "TND",
     "costIndex": "25.28",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Italy",
+    "id": 125,
     "city": "Turin",
     "cityCountry": "Turin, Italy",
     "currencyCode": "EUR",
     "costIndex": "69.15",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Mongolia",
+    "id": 356,
     "city": "Ulaanbaatar",
     "cityCountry": "Ulaanbaatar, Mongolia",
     "currencyCode": "MNT",
     "costIndex": "35.39",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Sweden",
+    "id": 95,
     "city": "Uppsala",
     "cityCountry": "Uppsala, Sweden",
     "currencyCode": "SEK",
     "costIndex": "71.38",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Netherlands",
+    "id": 47,
     "city": "Utrecht",
     "cityCountry": "Utrecht, Netherlands",
     "currencyCode": "EUR",
     "costIndex": "77.14",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 431,
     "city": "Vadodara",
     "cityCountry": "Vadodara, India",
     "currencyCode": "INR",
     "costIndex": "21.83",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Spain",
+    "id": 226,
     "city": "Valencia",
     "cityCountry": "Valencia, Spain",
     "currencyCode": "EUR",
     "costIndex": "54.26",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 135,
     "city": "Vancouver",
     "cityCountry": "Vancouver, Canada",
     "currencyCode": "CAD",
     "costIndex": "68.53",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Bulgaria",
+    "id": 319,
     "city": "Varna",
     "cityCountry": "Varna, Bulgaria",
     "currencyCode": "BGN",
     "costIndex": "38.97",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 137,
     "city": "Victoria",
     "cityCountry": "Victoria, Canada",
     "currencyCode": "CAD",
     "costIndex": "68.12",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Austria",
+    "id": 122,
     "city": "Vienna",
     "cityCountry": "Vienna, Austria",
     "currencyCode": "EUR",
     "costIndex": "69.39",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 436,
     "city": "Vijayawada",
     "cityCountry": "Vijayawada, India",
     "currencyCode": "INR",
     "costIndex": "20.14",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Lithuania",
+    "id": 257,
     "city": "Vilnius",
     "cityCountry": "Vilnius, Lithuania",
     "currencyCode": "LTL",
     "costIndex": "48.50",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "India",
+    "id": 435,
     "city": "Visakhapatnam",
     "cityCountry": "Visakhapatnam, India",
     "currencyCode": "INR",
     "costIndex": "20.28",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Poland",
+    "id": 287,
     "city": "Warsaw",
     "cityCountry": "Warsaw, Poland",
     "currencyCode": "PLN",
     "costIndex": "43.03",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "United States",
+    "id": 14,
     "city": "Washington",
     "cityCountry": "Washington, DC, United States",
     "currencyCode": "USD",
     "costIndex": "92.07",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "New Zealand",
+    "id": 73,
     "city": "Wellington",
     "cityCountry": "Wellington, New Zealand",
     "currencyCode": "NZD",
     "costIndex": "74.05",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Namibia",
+    "id": 273,
     "city": "Windhoek",
     "cityCountry": "Windhoek, Namibia",
     "currencyCode": "NAD",
     "costIndex": "45.54",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Canada",
+    "id": 191,
     "city": "Winnipeg",
     "cityCountry": "Winnipeg, Canada",
     "currencyCode": "CAD",
     "costIndex": "61.29",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Poland",
+    "id": 298,
     "city": "Wroclaw",
     "cityCountry": "Wroclaw, Poland",
     "currencyCode": "PLN",
     "costIndex": "41.62",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Myanmar",
+    "id": 221,
     "city": "Yangon",
     "cityCountry": "Yangon, Myanmar",
     "currencyCode": "MMK",
     "costIndex": "55.17",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Russia",
+    "id": 366,
     "city": "Yekaterinburg",
     "cityCountry": "Yekaterinburg, Russia",
     "currencyCode": "RUB",
     "costIndex": "34.14",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Armenia",
+    "id": 379,
     "city": "Yerevan",
     "cityCountry": "Yerevan, Armenia",
     "currencyCode": "AMD",
     "costIndex": "32.62",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Croatia",
+    "id": 238,
     "city": "Zagreb",
     "cityCountry": "Zagreb, Croatia",
     "currencyCode": "HRK",
     "costIndex": "51.49",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   },
   {
     "country": "Switzerland",
+    "id": 2,
     "city": "Zurich",
     "cityCountry": "Zurich, Switzerland",
     "currencyCode": "CHF",
     "costIndex": "127.20",
-    "date": "17/01/2019"
+    "date": "10/02/2019"
   }
 ]
