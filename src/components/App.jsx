@@ -66,20 +66,20 @@ class App extends React.Component {
 
   fetchExchangeRate = (srcCurrency, tgtCurrency) => {
     const { exchangeRateCache } = this.state;
-    // API used by Grzegorz
-    const baseUrl = 'https://api.exchangeratesapi.io/latest?';
-    const url = `${baseUrl}base=${srcCurrency}&symbols=${tgtCurrency}`;
-    // Other API to test
-    // const baseUrl = '';
-    // const url = `${baseUrl}base=${srcCurrency}&symbols=${tgtCurrency}`;
-    fetch(url)
+    const baseUrl =
+      'https://okapi-currency-exchange-rates-v1.p.rapidapi.com/finance/lookup/currency?';
+    const url = `${baseUrl}currency=${srcCurrency}%2C${tgtCurrency}`;
+    fetch(url, {
+      headers: {
+        'X-RapidAPI-Key': '1eedd380c5mshc81605e71e8b861p102590jsne7a1b5d823b0',
+      },
+    })
       .then(response => response.json())
       .then(data => {
-        const exchangeRate = data.rates[tgtCurrency];
+        const exchangeRate = data[1].value;
         const newRateObj = {};
         newRateObj[`${srcCurrency}_${tgtCurrency}`] = exchangeRate;
-        newRateObj[`${tgtCurrency}_${srcCurrency}`] =
-          1 / data.rates[tgtCurrency];
+        newRateObj[`${tgtCurrency}_${srcCurrency}`] = 1 / exchangeRate;
         Object.assign(exchangeRateCache, newRateObj);
         this.setState({ exchangeRate, exchangeRateCache }, this.calcTgtSalary);
       });
