@@ -50,7 +50,7 @@ InputCity.propTypes = {
       name: PropTypes.string,
     })
   ).isRequired,
-  isError: PropTypes.bool.isRequired,
+  isError: PropTypes.arrayOf(PropTypes.string),
   fieldID: PropTypes.string.isRequired,
   errorMessage: PropTypes.string.isRequired,
   getFieldDecorator: PropTypes.func.isRequired,
@@ -59,6 +59,7 @@ InputCity.propTypes = {
 
 InputCity.defaultProps = {
   onChange: () => {},
+  isError: undefined,
 };
 
 export default InputCity;

@@ -41,7 +41,11 @@ class InputForm extends React.Component {
 
     // Only show error after a field is touched.
     const salaryError =
-      (form.isFieldTouched('salary') && form.getFieldError('salary')) || false;
+      form.isFieldTouched('salary') && form.getFieldError('salary');
+    const srcCityError =
+      form.isFieldTouched('srcCity') && form.getFieldError('srcCity');
+    const tgtCityError =
+      form.isFieldTouched('tgtCity') && form.getFieldError('tgtCity');
     const citiesInfo = cities.map(city => {
       return { id: city.id, name: city.name };
     });
@@ -49,7 +53,7 @@ class InputForm extends React.Component {
       <Form layout="vertical" onSubmit={this.handleSubmit}>
         <InputCity
           fieldID="srcCity"
-          isError={salaryError}
+          isError={srcCityError}
           getFieldDecorator={form.getFieldDecorator}
           errorMessage="Please select a source city!"
           cities={citiesInfo}
@@ -59,12 +63,12 @@ class InputForm extends React.Component {
           fieldID="salary"
           isError={salaryError}
           getFieldDecorator={form.getFieldDecorator}
-          errorMessage="Please input a salary!"
+          errorMessage="Please input a valid salary!"
           currency={currency}
         />
         <InputCity
           fieldID="tgtCity"
-          isError={salaryError}
+          isError={tgtCityError}
           getFieldDecorator={form.getFieldDecorator}
           errorMessage="Please select a target city!"
           cities={citiesInfo}

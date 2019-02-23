@@ -26,10 +26,14 @@ const InputSalary = props => {
 
 InputSalary.propTypes = {
   currency: PropTypes.string.isRequired,
-  isError: PropTypes.bool.isRequired,
+  isError: PropTypes.arrayOf(PropTypes.string),
   fieldID: PropTypes.string.isRequired,
   errorMessage: PropTypes.string.isRequired,
   getFieldDecorator: PropTypes.func.isRequired,
+};
+
+InputSalary.defaultProps = {
+  isError: undefined,
 };
 
 export default InputSalary;
