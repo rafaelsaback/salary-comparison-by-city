@@ -7,30 +7,37 @@ const { Option } = Select;
 class InputCity extends React.Component {
   constructor(props) {
     super(props);
+    const { cities } = this.props;
     this.state = {
-      firstLetter: 'A',
+      filteredCities: cities.filter(city => city.name[0] === 'A'),
     };
   }
 
   onSearch = value => {
-    if (value) {
-      this.setState({ firstLetter: value[0].toUpperCase() });
+    const { cities } = this.props;
+    let filteredCities;
+    if (value.length === 0) {
+      filteredCities = cities.filter(city => city.name[0] === 'A');
+    } else if (value.length === 1) {
+      filteredCities = cities.filter(
+        city => city.name[0] === value[0].toUpperCase()
+      );
     } else {
-      this.setState({ firstLetter: 'A' });
+      filteredCities = cities;
     }
+
+    this.setState({ filteredCities });
   };
 
   render() {
     const {
-      cities,
       isError,
       fieldID,
       errorMessage,
       getFieldDecorator,
       onChange,
     } = this.props;
-    const { firstLetter } = this.state;
-    const filteredCities = cities.filter(city => city.name[0] === firstLetter);
+    const { filteredCities } = this.state;
     return (
       <Form.Item
         label={fieldID === 'srcCity' ? 'Source City' : 'Target City'}
