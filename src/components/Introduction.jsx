@@ -6,7 +6,7 @@ const Introduction = props => {
   return (
     <div className="intro">
       <p>
-        {`This calculator compares net salaries between diferent cities that can `}
+        {`This calculator compares net salaries between diferent cities, that can `}
         {`also be located in different countries. The calculations are based on `}
         {`the cost index from `}
         <a
