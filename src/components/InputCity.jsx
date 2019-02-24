@@ -15,7 +15,7 @@ const InputCity = props => {
   } = props;
   return (
     <Form.Item
-      label="City"
+      label={fieldID === 'srcCity' ? 'Source City' : 'Target City'}
       validateStatus={isError ? 'error' : ''}
       help={isError || ''}
     >

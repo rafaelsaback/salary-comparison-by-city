@@ -4,9 +4,10 @@ import { InputNumber, Form } from 'antd';
 
 const InputSalary = props => {
   const { currency, isError, fieldID, errorMessage, getFieldDecorator } = props;
+  const label = `Net Salary ${currency && `(${currency})`}`;
   return (
     <Form.Item
-      label="Net salary"
+      label={label}
       validateStatus={isError ? 'error' : ''}
       help={isError || ''}
     >
