@@ -1,5 +1,6 @@
 import React from 'react';
 
+import Introduction from './Introduction';
 import InputForm from './InputForm';
 import Result from './Result';
 import Loading from './Loading';
@@ -110,8 +111,10 @@ class App extends React.Component {
         currency: item.currencyCode,
       };
     });
+    const datasetDate = cities[0].date;
     return (
       <div>
+        <Introduction datasetDate={datasetDate} />
         <InputForm
           cities={citiesInfo}
           srcCurrency={srcLocation.currency}
