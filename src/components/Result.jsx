@@ -13,7 +13,7 @@ const Result = ({ srcLocation, tgtLocation, salary }) => {
     <div className="results-ctnr">
       {`In ${srcLocation.city}, a net salary of `}
       <strong>{`${srcLocation.currency} ${srcSalary} `}</strong>
-      will give you the same purchasing power than a net salary of
+      will give you the same purchasing power as a net salary of
       <strong>{` ${tgtLocation.currency} ${convTgtSalary} `}</strong>
       {`in ${tgtLocation.city}.`}
     </div>

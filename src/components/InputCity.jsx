@@ -4,7 +4,7 @@ import { Select, Form } from 'antd';
 
 const { Option } = Select;
 
-function InputCity(props) {
+const InputCity = props => {
   const {
     cities,
     isError,
@@ -41,7 +41,7 @@ function InputCity(props) {
       )}
     </Form.Item>
   );
-}
+};
 
 InputCity.propTypes = {
   cities: PropTypes.arrayOf(
