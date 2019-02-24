@@ -14,12 +14,7 @@ const InputSalary = props => {
       {getFieldDecorator(fieldID, {
         rules: [{ required: true, message: errorMessage }],
       })(
-        <InputNumber
-          min={0}
-          step={100}
-          formatter={value => `${value}`.replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
-          placeholder={`0.00 ${currency}`}
-        />
+        <InputNumber min={0} placeholder={`0.00 ${currency}`} type="number" />
       )}
     </Form.Item>
   );
