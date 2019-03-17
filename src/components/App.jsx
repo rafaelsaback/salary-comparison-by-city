@@ -77,17 +77,27 @@ class App extends React.Component {
         newRateObj[`${srcCurrency}_${tgtCurrency}`] = exchangeRate;
         newRateObj[`${tgtCurrency}_${srcCurrency}`] = 1 / exchangeRate;
         Object.assign(exchangeRateCache, newRateObj);
-        this.setState({ exchangeRate, exchangeRateCache }, this.calcTgtSalary);
-      });
+        this.setState(
+          { exchangeRate, exchangeRateCache },
+          this.calcTgtSalary
+        );
+      })
+      .catch(() =>
+        this.setState({ exchangeRate: undefined }, this.calcTgtSalary)
+      );
   };
 
   calcTgtSalary = () => {
     const { srcLocation, tgtLocation, salary, exchangeRate } = this.state;
     const tgtSalary =
       salary.source * (tgtLocation.costIndex / srcLocation.costIndex);
-    const convTgtSalary = tgtSalary * exchangeRate;
     salary.target = Math.round(tgtSalary);
-    salary.convTarget = Math.round(convTgtSalary);
+    if (exchangeRate) {
+      const convTgtSalary = tgtSalary * exchangeRate;
+      salary.convTarget = Math.round(convTgtSalary);
+    } else {
+      salary.convTarget = undefined;
+    }
     this.setState({ salary, showResults: true, isLoading: false });
   };
 

@@ -8,15 +8,29 @@ const formatSalary = salary => {
 
 const Result = ({ srcLocation, tgtLocation, salary }) => {
   const srcSalary = formatSalary(salary.source);
-  const convTgtSalary = formatSalary(salary.convTarget);
+  const tgtSalary = formatSalary(
+    salary.convTarget ? salary.convTarget : salary.target
+  );
+  const tgtCurrency = salary.convTarget
+    ? tgtLocation.currency
+    : srcLocation.currency;
   return (
-    <div className="results-ctnr">
-      {`In ${srcLocation.city}, a net salary of `}
-      <strong>{`${srcLocation.currency} ${srcSalary} `}</strong>
-      gives you the same purchasing power that a net salary of
-      <strong>{` ${tgtLocation.currency} ${convTgtSalary} `}</strong>
-      {`will give you in ${tgtLocation.city}.`}
-    </div>
+    <>
+      {!salary.convTarget && (
+        <div className="warning">
+          Sorry, we could not fetch the exchange rate. Hence, the salary in the
+          target country is being shown in the same currency as in the source
+          country.
+        </div>
+      )}
+      <div className="results-ctnr">
+        {`In ${srcLocation.city}, a net salary of `}
+        <strong>{`${srcLocation.currency} ${srcSalary} `}</strong>
+        gives you the same purchasing power that a net salary of
+        <strong>{` ${tgtCurrency} ${tgtSalary} `}</strong>
+        {`will give you in ${tgtLocation.city}.`}
+      </div>
+    </>
   );
 };
 
