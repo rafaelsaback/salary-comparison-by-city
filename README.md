@@ -10,6 +10,5 @@ https://partnersontheroad.com/salary-comparison-city-country-calculator/
 * Sass
 * React
 * Webpack
-* npm
 * antd
 
