@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+const BASE_URL = 'https://www.google.com/search?q=';
 const formatSalary = salary => {
   const strSalary = typeof salary === 'number' ? salary.toString() : salary;
   return strSalary.replace(/\B(?=(\d{3})+(?!\d))/g, ',');
@@ -18,9 +19,20 @@ const Result = ({ srcLocation, tgtLocation, salary }) => {
     <>
       {!salary.convTarget && (
         <div className="warning">
-          Sorry, we could not fetch the exchange rate. Hence, the salary in the
-          target country is being shown in the same currency as in the source
-          country.
+          {`Sorry, we could not fetch the exchange rate. Hence, the salary in the `}
+          {`target country is being shown in the same currency as in the source `}
+          {`country. You can check the equivalent value on `}
+          <a
+            rel="noreferrer noopener"
+            label="Google exchange rate"
+            href={`${BASE_URL}+${salary.source}+${srcLocation.currency}+to+${
+              tgtLocation.currency
+            }`}
+            target="_blank"
+          >
+            Google
+          </a>
+          {`.`}
         </div>
       )}
       <div className="results-ctnr">

@@ -64,7 +64,8 @@ $font-size: 1.5em;
 }
 
 .warning {
+  max-width: 750px;
   color: red;
   text-align: center;
-  margin: 10px 0;
+  margin: 10px auto;
 }
