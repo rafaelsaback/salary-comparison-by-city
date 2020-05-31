@@ -6,9 +6,9 @@ const Introduction = props => {
   return (
     <div className="intro">
       <p>
-        {`This calculator compares net salaries between diferent cities, that can `}
-        {`also be located in different countries. The calculations are based on `}
-        {`the cost index from `}
+        {`This salary converter compares the purchasing power of net salaries between `}
+        {`different countries (it can also be used to compare salaries between two cities `}
+        {`in the same country). The calculations are based on the cost index from `}
         <a
           rel="noreferrer noopener"
           label="Numbeo (opens in a new tab)"
@@ -21,6 +21,10 @@ const Introduction = props => {
         {`and it also takes into account the currency exchange rate in case the cities `}
         {`have different currencies.`}
       </p>
+      <p>The idea behind it is to use the cost of living index provided by
+        <strong> Numbeo</strong> and also the currency exchange rate to calculate
+        what would be an equivalent salary in the target location that would give
+        the same purchasing power.</p>
       <p>
         {`Numbeo data was obtained on `}
         <strong>{datasetDate}</strong>
