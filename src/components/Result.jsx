@@ -25,7 +25,7 @@ const Result = ({ srcLocation, tgtLocation, salary }) => {
           <a
             rel="noreferrer noopener"
             label="Google exchange rate"
-            href={`${BASE_URL}+${salary.source}+${srcLocation.currency}+to+${
+            href={`${BASE_URL}+${salary.target}+${srcLocation.currency}+to+${
               tgtLocation.currency
             }`}
             target="_blank"
